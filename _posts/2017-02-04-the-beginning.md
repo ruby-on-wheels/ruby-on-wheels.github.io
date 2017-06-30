@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "The beginning"
 date:   2017-02-14 16:16:01 +0100
 ---
