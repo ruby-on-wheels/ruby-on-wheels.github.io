@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T14:05:06+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">The first ride</title><link href="http://localhost:4000/2017/02/04/the-first-ride.html" rel="alternate" type="text/html" title="The first ride" /><published>2017-02-04T00:00:00+01:00</published><updated>2017-02-04T00:00:00+01:00</updated><id>http://localhost:4000/2017/02/04/the-first-ride</id><content type="html" xml:base="http://localhost:4000/2017/02/04/the-first-ride.html">&lt;p&gt;On my way back from the &lt;a href=&quot;https://git-merge.com/&quot;&gt;Git Merge&lt;/a&gt; conference in Brussels, I picked up the camper van near Düsseldorf.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T14:13:33+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">The first ride</title><link href="http://localhost:4000/2017/02/04/the-first-ride.html" rel="alternate" type="text/html" title="The first ride" /><published>2017-02-04T00:00:00+01:00</published><updated>2017-02-04T00:00:00+01:00</updated><id>http://localhost:4000/2017/02/04/the-first-ride</id><content type="html" xml:base="http://localhost:4000/2017/02/04/the-first-ride.html">&lt;p&gt;On my way back from the &lt;a href=&quot;https://git-merge.com/&quot;&gt;Git Merge&lt;/a&gt; conference in Brussels, I picked up the camper van near Düsseldorf.&lt;/p&gt;
 
 &lt;p&gt;My first ride started with 188,987 km on the odometer.&lt;/p&gt;
 
@@ -18,13 +18,13 @@
 
 &lt;p&gt;Around February it’s still cold in Germany: -2°C (~ 28°F). Time to test the heating, my sleeping bag and the mobile SIM-card to watch a Netflix movie.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_6777.JPG&quot; alt=&quot;Driving on the highway&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_6777.JPG&quot; alt=&quot;Sleeping bag in the alcove&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;What a great feeling, I can sleep wherever I stop. My bed is always with me!&lt;/p&gt;
 
 &lt;p&gt;Another 250 km the next day and the van was finally in Berlin! :tada:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_6790.JPG&quot; alt=&quot;Driving on the highway&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_6790.JPG&quot; alt=&quot;The camper van parked in Berlin&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In average I burned about 13 liters of diesel on 100 km (~ 18 mpg). Compared to what I’ve read online, this seems like an acceptable consumption. I also noticed that the timing of automatic transmission is not perfect. The first hidden issue to investigate! :wrench:&lt;/p&gt;
 

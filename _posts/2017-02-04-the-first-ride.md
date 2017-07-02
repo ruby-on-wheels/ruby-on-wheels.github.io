@@ -24,13 +24,13 @@ Apparently Google was wrong. With 85 km/h you can't make 566 km in five hours. A
 
 Around February it's still cold in Germany: -2°C (~ 28°F). Time to test the heating, my sleeping bag and the mobile SIM-card to watch a Netflix movie.
 
-![Driving on the highway](/assets/images/IMG_6777.JPG)
+![Sleeping bag in the alcove](/assets/images/IMG_6777.JPG)
 
 What a great feeling, I can sleep wherever I stop. My bed is always with me!
 
 Another 250 km the next day and the van was finally in Berlin! :tada:
 
-![Driving on the highway](/assets/images/IMG_6790.JPG)
+![The camper van parked in Berlin](/assets/images/IMG_6790.JPG)
 
 In average I burned about 13 liters of diesel on 100 km (~ 18 mpg). Compared to what I've read online, this seems like an acceptable consumption. I also noticed that the timing of automatic transmission is not perfect. The first hidden issue to investigate! :wrench:
 
