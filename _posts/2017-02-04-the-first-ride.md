@@ -32,6 +32,6 @@ Another 250 km the next day and the van was finally in Berlin! :tada:
 
 ![The camper van parked in Berlin](/assets/images/IMG_6790.JPG)
 
-In average I burned about 13 liters of diesel on 100 km (~ 18 mpg). Compared to what I've read online, this seems like an acceptable consumption. I also noticed that the timing of automatic transmission is not perfect. The first hidden issue to investigate! :wrench:
+In average I burned about 13 liters of diesel on 100 km (~ 18 mpg). Compared to what I've read online, this seems like an acceptable consumption. I also noticed that the timing of the automatic transmission is not perfect. The first hidden issue to investigate! :wrench:
 
 I can't wait to start working on the van once I'm back from my trip to [Mexico](http://sayulitacowork.com/)!
