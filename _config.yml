@@ -4,4 +4,5 @@ github_username: mikrobi
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: light
 gems:
+  - jekyll-feed
   - jemoji
