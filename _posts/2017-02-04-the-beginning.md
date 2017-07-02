@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First step!"
+title:  "First step to my future mobile office"
 date:   2017-01-11
 ---
 
