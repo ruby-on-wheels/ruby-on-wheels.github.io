@@ -26,4 +26,4 @@ Overall the camper van seemed to be in good condition for its age. Little rust, 
 
 I immediately fell in love with the van and made the deal! :tada:
 
-The current owner imported the van from Netherlands but never registered the vehicle in Germany. He'll organize all required papers while I'm in [Mexico](http://sayulitacowork.com/) and once I'm back I'll register the van and drive it to Berlin!
+The current owner imported the van from Netherlands but never registered the vehicle in Germany. He'll organize all required papers and in a few weeks I'll register the van and drive it to Berlin!
