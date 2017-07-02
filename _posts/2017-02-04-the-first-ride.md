@@ -22,7 +22,7 @@ Driving the van felt awesome: a lot of space, a comfortable seat high up, the so
 
 Apparently Google was wrong. With 85 km/h you can't make 566 km in five hours. After about 300 km it was already dark and I decided to spend my first night in the van.
 
-Around February it's still cold in Germany: -2°C (~ 28°F). Time to test the heating, my sleeping bag and the mobile SIM-card to watch a Netflix movie.
+Around February it's still cold in Germany: -2°C (~ 28°F). Time to test the heating, my sleeping bag and the mobile SIM-card to watch movie on Netflix.
 
 ![Sleeping bag in the alcove](/assets/images/IMG_6777.JPG)
 
