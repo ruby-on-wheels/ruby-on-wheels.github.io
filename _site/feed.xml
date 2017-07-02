@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T15:07:02+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">The first technical issue</title><link href="http://localhost:4000/2017/03/15/the-first-technical-issue.html" rel="alternate" type="text/html" title="The first technical issue" /><published>2017-03-15T00:00:00+01:00</published><updated>2017-03-15T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/15/the-first-technical-issue</id><content type="html" xml:base="http://localhost:4000/2017/03/15/the-first-technical-issue.html">&lt;p&gt;After &lt;a href=&quot;http://sayulitacowork.com/&quot;&gt;co-working&lt;/a&gt; in &lt;a href=&quot;https://www.google.com/maps/place/Sayulita,+Nayarit,+Mexico/@20.8697947,-105.4475249,15z&quot;&gt;paradise&lt;/a&gt; for a few weeks and visiting my co-workers at &lt;a href=&quot;https://www.google.com/maps/place/GitHub/@37.7822713,-122.3934366,17z&quot;&gt;HQ&lt;/a&gt;, I found an oil puddle below the transmission.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T20:35:03+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">Breaking into my own van</title><link href="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html" rel="alternate" type="text/html" title="Breaking into my own van" /><published>2017-03-26T00:00:00+01:00</published><updated>2017-03-26T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/26/breaking-into-my-own-van</id><content type="html" xml:base="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html">&lt;p&gt;All of sudden the door of the bathroom wouldn’t open any more. It seemed like the door lock broke. Too bad that all screws of the bathroom construction are inside. I had to disassemble the roof window to access the bathroom from the top. Obviously it’s not too hard to break into a camper van. :thinking:&lt;/p&gt;
+
+&lt;p&gt;Once I was inside the bathroom I replaced the broken door lock with a new one that I found on eBay.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7047.JPG&quot; alt=&quot;Broken bathroom lock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the brackets holding the table in the back also looked very fragile. Once I’ve touched it, it just fell apart:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7084.JPG&quot; alt=&quot;Broken bracket&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I couldn’t find a compatible replacement, so I rebuilt the bracket out of aluminum which seemed way more solid than the original plastic version.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7083.JPG&quot; alt=&quot;Self-made bracket replacement&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While investigating the whole vehicle in more detail I also realized some moldered wood at the back behind the bumper. The sealing was completely gone and after removing the bumper you could see how the wood had soaked up the water over time:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7085.JPG&quot; alt=&quot;Moldered wood behind the bumper&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was a bit shocked but luckily only the bottom part was moldered. I removed the bad parts…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7089.JPG&quot; alt=&quot;Removed moldered wood&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;… got rid of all the old glue, fixed the holes on the bottom panel and finally sealed everything with Dekalin, a sealant used by several camper manufacturers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7099.JPG&quot; alt=&quot;Sealed bumper&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It started to rain the very next day and the wood behind the bumper stayed all dry. Another fixed issue and new lessons learned about what to check when buying a used camper van! :heavy_check_mark:&lt;/p&gt;
+
+&lt;p&gt;Can’t wait to start the work I’ve originally planned to do: installing the solar system and the router for the mobile internet. Once these are ready I can finally hit the road and work remotely from everywhere. :minibus: :sunny: :computer:&lt;/p&gt;</content><author><name></name></author><summary type="html">All of sudden the door of the bathroom wouldn’t open any more. It seemed like the door lock broke. Too bad that all screws of the bathroom construction are inside. I had to disassemble the roof window to access the bathroom from the top. Obviously it’s not too hard to break into a camper van. :thinking:</summary></entry><entry><title type="html">The first technical issue</title><link href="http://localhost:4000/2017/03/15/the-first-technical-issue.html" rel="alternate" type="text/html" title="The first technical issue" /><published>2017-03-15T00:00:00+01:00</published><updated>2017-03-15T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/15/the-first-technical-issue</id><content type="html" xml:base="http://localhost:4000/2017/03/15/the-first-technical-issue.html">&lt;p&gt;After &lt;a href=&quot;http://sayulitacowork.com/&quot;&gt;co-working&lt;/a&gt; in &lt;a href=&quot;https://www.google.com/maps/place/Sayulita,+Nayarit,+Mexico/@20.8697947,-105.4475249,15z&quot;&gt;paradise&lt;/a&gt; for a few weeks and visiting my co-workers at &lt;a href=&quot;https://www.google.com/maps/place/GitHub/@37.7822713,-122.3934366,17z&quot;&gt;HQ&lt;/a&gt;, I found an oil puddle below the transmission.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7027.JPG&quot; alt=&quot;Oil puddle below the van&quot; /&gt;&lt;/p&gt;
 
