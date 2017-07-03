@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-03T10:53:45+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">Breaking into my own van</title><link href="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html" rel="alternate" type="text/html" title="Breaking into my own van" /><published>2017-03-26T00:00:00+01:00</published><updated>2017-03-26T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/26/breaking-into-my-own-van</id><content type="html" xml:base="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html">&lt;p&gt;All of sudden the door of the bathroom wouldn’t open any more. It seemed like the door lock broke. Too bad that all screws of the bathroom construction are inside. I had to disassemble the roof window to access the bathroom from the top. Obviously it’s not too hard to break into a camper van. :thinking:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-03T22:31:01+02:00</updated><id>http://localhost:4000/</id><title type="html">Ruby on Wheels</title><subtitle>A developer on the road.</subtitle><entry><title type="html">Preventing my van going up in flames</title><link href="http://localhost:4000/2017/03/26/preventing-my-van-going-up-in-flames.html" rel="alternate" type="text/html" title="Preventing my van going up in flames" /><published>2017-03-26T00:00:00+01:00</published><updated>2017-03-26T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/26/preventing-my-van-going-up-in-flames</id><content type="html" xml:base="http://localhost:4000/2017/03/26/preventing-my-van-going-up-in-flames.html">&lt;p&gt;It has been raining a lot for the last weeks in Berlin. I urged installing the solar panels so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t find any issues with the wipers or the motor. However I observed that the blinkers also flashed a bit weakly. While diving deeper into the issue I realized that several electric devices operated weakly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the headlights&lt;/li&gt;
+  &lt;li&gt;the blinkers&lt;/li&gt;
+  &lt;li&gt;the wipers&lt;/li&gt;
+  &lt;li&gt;the fan for the heating&lt;/li&gt;
+  &lt;li&gt;several lamps on the instrument panel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Where to start looking for the root cause of all these problems? :thinking: With the help of the wire diagram I tracked the issue down to the fuse box.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7618.JPG&quot; alt=&quot;Wire diagram for a Mercedes-Benz 207D/209D&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All fuses seemed intact however some connectors looked really bad:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7117.JPG&quot; alt=&quot;Fuse box in bad condition&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some cables even looked scorched:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7118.JPG&quot; alt=&quot;Fuse box in bad condition&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For some of these connectors I measured a resistance above 200 Ω. :scream: The connectors were held together by bolts that got loose over time. These loose connections caused very bad conductivity, resulting in a lot of heat which further led to corrosion. A vicious circle!&lt;/p&gt;
+
+&lt;p&gt;Ignoring this issue might have resulted in my van going up in flames. :fire:&lt;/p&gt;
+
+&lt;p&gt;All shops I checked were out of stock (part number &lt;em&gt;A0015450001&lt;/em&gt;) so I sanded all the connectors,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7599.JPG&quot; alt=&quot;Sanding the connectors&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;replaced the loose bolts with proper screws and linked the connectors with a thick copper sheet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7612.JPG&quot; alt=&quot;Screws replacing the loose bolts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before installing the fuse box back into the van I measured the resistance of every single fuse connection:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7614.JPG&quot; alt=&quot;Repaired fuse box&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All connections below 1 Ω. Yay, another fixed issue! :heavy_check_mark:&lt;/p&gt;
+
+&lt;p&gt;Installing the solar panels will hopefully the next project! :pray:&lt;/p&gt;</content><author><name></name></author><summary type="html">It has been raining a lot for the last weeks in Berlin. I urged installing the solar panels so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.</summary></entry><entry><title type="html">Breaking into my own van</title><link href="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html" rel="alternate" type="text/html" title="Breaking into my own van" /><published>2017-03-26T00:00:00+01:00</published><updated>2017-03-26T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/26/breaking-into-my-own-van</id><content type="html" xml:base="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html">&lt;p&gt;All of sudden the door of the bathroom wouldn’t open any more. It seemed like the door lock broke. Too bad that all screws of the bathroom construction are inside. I had to disassemble the roof window to access the bathroom from the top. Obviously it’s not too hard to break into a camper van. :thinking:&lt;/p&gt;
 
 &lt;p&gt;Once I was inside the bathroom I replaced the broken door lock with a new one that I found on eBay.&lt;/p&gt;
 

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Preventing my van going up in flames</title>
+  <meta name="description" content="It has been raining a lot for the last weeks in Berlin. I urged installing the solar panels so I drove around to find a bridge that offers a dry place to wor...">
+
+  
+  
+  <link rel="stylesheet" href="http://localhost:4000/assets/style.css">
+
+  <link rel="canonical" href="http://localhost:4000/2017/03/26/preventing-my-van-going-up-in-flames.html">
+  <link rel="alternate" type="application/rss+xml" title="Ruby on Wheels" href="http://localhost:4000/feed.xml">
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101987343-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+  
+  <!-- font-smoothing is only applied on dark themes -->
+  <body class="font-smoothing">
+
+    <header class="px-2 clearfix">
+  <div class="right-lg absolute-lg right-0 top-0">
+    <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+        <a class="italic h4 bold no-underline" href="/">
+          <!-- Ruby on Wheels -->
+          Home
+        </a>
+      </li>
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="container mx-auto px-2" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="mt-4 mb-2 clearfix header-text">
+    <h1 class="h0 inline-block py-2 mt-4 header-title">Preventing my van going up in flames</h1>
+    <div class="clearfix mb-4 py-1">
+      <p class="h4 lh-condensed"><time datetime="2017-03-26T00:00:00+01:00" itemprop="datePublished">Mar 26, 2017</time></p>
+      <div class="col-1 sm-width-full border-top-thick">
+      </div>
+    </div>
+  </div>
+
+  <div class="prose py-4" itemprop="articleBody">
+      <p>It has been raining a lot for the last weeks in Berlin. I urged installing the solar panels so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.</p>
+
+<p>I couldn’t find any issues with the wipers or the motor. However I observed that the blinkers also flashed a bit weakly. While diving deeper into the issue I realized that several electric devices operated weakly:</p>
+
+<ul>
+  <li>the headlights</li>
+  <li>the blinkers</li>
+  <li>the wipers</li>
+  <li>the fan for the heating</li>
+  <li>several lamps on the instrument panel</li>
+</ul>
+
+<p>Where to start looking for the root cause of all these problems? <img class="emoji" title=":thinking:" alt=":thinking:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f914.png" height="20" width="20" align="absmiddle"> With the help of the wire diagram I tracked the issue down to the fuse box.</p>
+
+<p><img src="/assets/images/IMG_7618.JPG" alt="Wire diagram for a Mercedes-Benz 207D/209D"></p>
+
+<p>All fuses seemed intact however some connectors looked really bad:</p>
+
+<p><img src="/assets/images/IMG_7117.JPG" alt="Fuse box in bad condition"></p>
+
+<p>Some cables even looked scorched:</p>
+
+<p><img src="/assets/images/IMG_7118.JPG" alt="Fuse box in bad condition"></p>
+
+<p>For some of these connectors I measured a resistance above 200 Ω. <img class="emoji" title=":scream:" alt=":scream:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f631.png" height="20" width="20" align="absmiddle"> The connectors were held together by bolts that got loose over time. These loose connections caused very bad conductivity, resulting in a lot of heat which further led to corrosion. A vicious circle!</p>
+
+<p>Ignoring this issue might have resulted in my van going up in flames. <img class="emoji" title=":fire:" alt=":fire:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png" height="20" width="20" align="absmiddle"></p>
+
+<p>All shops I checked were out of stock (part number <em>A0015450001</em>) so I sanded all the connectors,</p>
+
+<p><img src="/assets/images/IMG_7599.JPG" alt="Sanding the connectors"></p>
+
+<p>replaced the loose bolts with proper screws and linked the connectors with a thick copper sheet.</p>
+
+<p><img src="/assets/images/IMG_7612.JPG" alt="Screws replacing the loose bolts"></p>
+
+<p>Before installing the fuse box back into the van I measured the resistance of every single fuse connection:</p>
+
+<p><img src="/assets/images/IMG_7614.JPG" alt="Repaired fuse box"></p>
+
+<p>All connections below 1 Ω. Yay, another fixed issue! <img class="emoji" title=":heavy_check_mark:" alt=":heavy_check_mark:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2714.png" height="20" width="20" align="absmiddle"></p>
+
+<p>Installing the solar panels will hopefully the next project! <img class="emoji" title=":pray:" alt=":pray:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64f.png" height="20" width="20" align="absmiddle"></p>
+
+  </div>
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  <!-- Use if you want to show previous and next for all posts. -->
+
+
+
+  <div class="col-4 sm-width-full left mr-lg-4 mt-3">
+    <a class="no-underline-hover py-1 block" href="http://localhost:4000/2017/03/26/breaking-into-my-own-van.html">
+      <span class="h5 bold">Previous</span>
+      <p class="bold h3 link-primary mb-1">Breaking into my own van</p>
+      <p>All of sudden the door of the bathroom wouldn’t open any more. It seemed like the door lock broke. Too...</p>
+    </a>
+  </div>
+  
+  
+
+</div>
+
+    </div>
+
+    <div class="container mx-auto clearfix mt-2 mt-lg-4 px-2">
+  <div class="border-top-thick">
+    <p class="col-8 sm-width-full left py-2 mb-0">This blog is written by <a class="text-accent" href="https://github.com/mikrobi">mikrobi</a></p>
+    <ul class="list-reset right clearfix sm-width-full py-2 mb-2 mb-lg-0">
+      <li class="inline-block mr-1">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="Ruby on Wheels">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+  </body>
+
+</html>
