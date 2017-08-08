@@ -4,7 +4,7 @@ title:  "Preventing my van going up in flames"
 date:   2017-05-02
 ---
 
-It has been raining a lot for the last weeks in Berlin. I urged installing the solar panels so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.
+It has been raining a lot for the last weeks in Berlin. I urged installing the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}) so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.
 
 I couldn't find any issues with the wipers or the motor. However I observed that the blinkers also flashed a bit weakly. While diving deeper into the issue I realized that several electric devices operated weakly:
 
