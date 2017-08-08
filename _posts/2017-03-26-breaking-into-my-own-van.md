@@ -32,4 +32,4 @@ I was a bit shocked but luckily only the bottom part was moldered. I removed the
 
 It started to rain the very next day and the wood behind the bumper stayed all dry. Another fixed issue and new lessons learned about what to check when buying a used camper van! :heavy_check_mark:
 
-Can't wait to start the work I've originally planned to do: installing the solar system and the router for the mobile internet. Once these are ready I can finally hit the road and work remotely from everywhere. :minibus: :sunny: :computer:
+Can't wait to start the work I've originally planned to do: installing the [solar system]({% post_url 2017-03-06-ordering-my-solar-system %}) and the router for the mobile internet. Once these are ready I can finally hit the road and work remotely from everywhere. :minibus: :sunny: :computer:
