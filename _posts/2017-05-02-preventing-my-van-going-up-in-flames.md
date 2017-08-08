@@ -44,4 +44,4 @@ Before installing the fuse box back into the van I measured the resistance of ev
 
 All connections below 1 Ω. Yay, another fixed issue! :heavy_check_mark:
 
-Installing the solar panels will hopefully the next project! :pray:
+Installing the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}) will hopefully the next project! :pray:
