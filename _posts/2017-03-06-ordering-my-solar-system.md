@@ -42,12 +42,16 @@ Considering that I plan to use the battery for several years I picked a high-qua
 
 The battery consists of four 3.2V cells that are connected in series and deliver 12.8V in total. These cells do not auto-balance at the end of the charge cycle. To guarantee a long lifetime of the whole battery I also ordered the [battery management system (BMS) 12/200](https://www.victronenergy.com/upload/documents/Datasheet-BMS-12-200-EN.pdf) which offers several connectors to efficiently charge and protect the battery.
 
-## Selecting the perfect solar panels for the given space
+## Selecting the best matching solar panels for the given space
 
 Picking the right solar panels was not easy because a lot of parameters have to be considered: the available space, the angle of the solar panels (fixed or flexible) and of course the hours of daily sunshine. Especially the later is hard to specify because it further depends on the location (north vs. south), the season (winter vs. summer) and of course the daily weather (cloudy vs. sunny). Based on climate statistics and reports I found online, I assumed that a solar panel with 100Wp would deliver about 500Wh a day from spring to autumn. So my overall energy consumption of 1900Wh correlates with a 1900 / 5 = 380Wp solar panel setup.
 
 The rack and the two windows in the roof of my van forced me to use the space on top of the alcove. I picked three mono-crystalline panels that would cover as much space as possible: two [100Wp panels](https://www.offgridtec.com/generatoren/solarmodule/12v-24v-solarmodule/offgridtecr-100w-mono-solarpanel-12v.html) (540mm x 1200mm) and one [150Wp panel](https://www.offgridtec.com/offgridtecr-150w-mono-12v-solarpanel.html) (1340mm x 67mm).
 
 After reading through several [tests](https://www.amumot.de/solar-laderegler-12v-mppt/) I picked the [SmartSolar MPPT 100/30 solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50) from Victron Energy which seemed to be one of the most efficient controllers currently available.
+
+## Operating 230V AC devices
+
+To operate and charge devices that run with 230V AC like my cordless impact wrench, I also ordered a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/) that provides 1500W of continuous and up to 3000W peak power for start-up currents.
 
 I'm really looking forward to get all the parts delivered and install the solar system in my van! :sunny: :electric_plug:
