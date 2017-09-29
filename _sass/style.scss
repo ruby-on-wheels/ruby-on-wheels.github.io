@@ -1,6 +1,3 @@
----
----
-
 // Reset using Normalize
 @import "normalize";
 
@@ -19,7 +16,7 @@
 @import "modules/buttons";
 @import "modules/forms";
 @import "modules/tables";
-@import "modules/syntax";
+@import "modules/syntax"; 
 
 // Mobile up base styles
 @import "breakpoints/mobileup";

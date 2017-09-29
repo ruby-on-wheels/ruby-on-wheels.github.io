@@ -1,8 +1,21 @@
 title: Ruby on Roads
 description: A developer on the road.
-github_username: mikrobi
-# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: light
+
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+markdown: kramdown
+highlighter: rouge
+paginate: 10
+
+social:
+   github: mikrobi
+   twitter: classisch
+   email: jakob.class@gmail.com
+
 gems:
   - jekyll-feed
   - jemoji
+  - jekyll-paginate
+  - support-for
+
+google_analytics: "UA-105302462-1"

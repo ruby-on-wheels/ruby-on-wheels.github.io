@@ -1,21 +1,14 @@
-<header class="px-2 clearfix">
-  <div class="right-lg absolute-lg right-0 top-0">
-    <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
-      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-        <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
-          <!-- {{ site.title }} -->
-          Home
-        </a>
-      </li>
-      {% for my_page in site.pages %}
-        {% if my_page.title %}
-        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-          <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
-            {{ my_page.title }}
-          </a>
-        </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-</header>
+ <div class="header">
+     <div class="container">
+         <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+         <nav class="nav-collapse">
+             <ul class="noList">
+                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
+                 <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                 </li>
+                 {% endfor %}
+             </ul>
+         </nav>
+     </div>
+ </div><!-- end .header -->
