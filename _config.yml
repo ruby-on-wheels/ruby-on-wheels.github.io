@@ -18,4 +18,8 @@ gems:
   - jekyll-paginate
   - support-for
 
+navigation:
+ - title: Home
+   url: /index.html
+
 google_analytics: "UA-105302462-1"
