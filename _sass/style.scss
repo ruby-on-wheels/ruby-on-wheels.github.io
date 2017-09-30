@@ -1,10 +1,6 @@
 // Reset using Normalize
 @import "normalize";
 
-// Import fonts from Google
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
-
 // Site configuration
 @import "config";
 
@@ -16,7 +12,7 @@
 @import "modules/buttons";
 @import "modules/forms";
 @import "modules/tables";
-@import "modules/syntax"; 
+@import "modules/syntax";
 
 // Mobile up base styles
 @import "breakpoints/mobileup";
