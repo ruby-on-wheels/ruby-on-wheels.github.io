@@ -28,7 +28,7 @@ In the morning I removed the bubble wrap ...
 
 ![21.2 V on the voltmeter](/assets/images/IMG_7661.JPG)
 
-21.2V. Looking good! :tada:
+21.2V. Looking good! :+1:
 
 So now that I had electricity on the roof, I had to get it down into the van.
 I adhered two waterproof cable glands (again with SikaFlex 252) on the roof:
@@ -82,7 +82,7 @@ Based on some [experiences](https://www.amumot.de/wlan-im-auto-internet-fuer-unt
 
 ![LTE WiFi router connected to the roof-top antennas](/assets/images/IMG_7693.JPG)
 
-Yes, yes, yes: my mobile office is finally ready for the first test run. :clap:
+Done: my mobile office is finally ready for the first test run. :clap:
 
 ![Old Mercedes-Benz 209D transformed into a mobile office](/assets/images/IMG_7719.JPG)
 
