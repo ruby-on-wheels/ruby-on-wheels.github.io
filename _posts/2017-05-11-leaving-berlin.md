@@ -16,7 +16,7 @@ After the great weekend I tested my office setup. I worked two days in the van n
 
 ![Working in the mobile office in front of my house](/assets/images/IMG_7735.JPG)
 
-I was finally ready to "move" into the van. Deciding which items to bring with me was not a big deal. First of all I lived in a small apartment and didn't own that many things. Second I was already traveling a lot since I started my remote job at [GitHub](https://github.com/) a year ago. Basically I already lived out of my backpack. I had rather issues filling all the drawers in my fan than leaving stuff in Berlin: all my tools, some clothes, my hammock, my guitar and my bicycles. That's it!
+I was finally ready to "move" into the van. Deciding which items to bring with me was not a big deal. First of all I lived in a small apartment and didn't own that many things. Second I was already traveling a lot since I started my remote job at [GitHub](https://github.com/) a year ago. Basically I already lived out of my backpack. I had rather issues filling all the drawers in my van than leaving stuff in Berlin: all my tools, some clothes, my hammock, my guitar and my bicycles. That's it!
 
 I'm not planning to use the chemical toilet; too much hassle emptying the container all the time and I don't really want to drive my own shit through Europe. So I turned the bathroom into a storage room. Enough space for my downhill bike and my all time favorite folding bike:
 
