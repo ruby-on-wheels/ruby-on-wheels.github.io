@@ -2,6 +2,7 @@
 layout: post
 title:  "The first ride"
 date:   2017-02-04
+header-img: assets/images/IMG_6773.JPG
 ---
 
 On my way back from the [Git Merge](https://git-merge.com/) conference in Brussels, I picked up the camper van near Düsseldorf.

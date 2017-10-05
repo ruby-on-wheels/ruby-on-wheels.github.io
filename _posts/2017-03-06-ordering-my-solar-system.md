@@ -2,6 +2,7 @@
 layout: post
 title:  "Ordering my solar system"
 date:   2017-03-06
+header-img: assets/images/background_shot_of_blue_sky_with_white_cloud.jpg
 ---
 
 Today I ordered all the components of my future solar system. :tada:

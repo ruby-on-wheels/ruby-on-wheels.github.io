@@ -1,23 +1,17 @@
 title: Ruby on Roads
+header-img: assets/images/home.jpg
+email: jakob.class@gmail.com
+copyright_name: Jakob Class
 description: A developer on the road.
+twitter_username: classisch
+github_username:  mikrobi
+email_username:  jakob.class@gmail.com
+
+
+google_tracking_id: "UA-105302462-1"
 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 paginate: 10
 
-social:
-   github: mikrobi
-   twitter: classisch
-   email: jakob.class@gmail.com
-
-gems:
-  - jekyll-feed
-  - jemoji
-  - jekyll-paginate
-  - support-for
-
-navigation:
- - title: Home
-   url: /index.html
-
-google_analytics: "UA-105302462-1"
+gems: [jekyll-paginate, jekyll-feed, jemoji]

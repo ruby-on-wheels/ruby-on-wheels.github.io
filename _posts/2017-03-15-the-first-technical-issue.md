@@ -2,6 +2,7 @@
 layout: post
 title:  "The first technical issue"
 date:   2017-03-15
+header-img: assets/images/IMG_7030.JPG
 ---
 
 After [co-working](http://sayulitacowork.com/) in [paradise](https://www.google.com/maps/place/Sayulita,+Nayarit,+Mexico/@20.8697947,-105.4475249,15z) for a few weeks and visiting my co-workers at [HQ](https://www.google.com/maps/place/GitHub/@37.7822713,-122.3934366,17z), I found an oil puddle below the transmission.
