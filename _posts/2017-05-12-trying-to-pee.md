@@ -19,7 +19,7 @@ After work I drive further towards Hamburg. I enjoy the relaxed ride on highway 
 
 ![Driving on highway A24](/assets/images/IMG_7959.JPG)
 
-In front of Hamburg I stop for quick pee break and call my friend to tell her that I'll arrive very soon. Right after leaving the rest stop a police car passes my van. They show me a sign to follow. Oh boy, let's hope everything is fine with the van! :open_mouth:
+In front of Hamburg I stop for a quick pee break and call my friend to tell her that I'll arrive very soon. Right after leaving the rest stop a police car passes my van. They show me a sign to follow. Oh boy, let's hope everything is fine with the van! :open_mouth:
 
 It turns out that there's no need to worry about the van. They don't care about the vehicle at all. They rather care about the suspicious tattooed driver from Berlin.
 
