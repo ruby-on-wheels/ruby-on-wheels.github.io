@@ -20,8 +20,32 @@ body {
 p {
 	line-height: 1.5;
 	margin: 30px 0;
+}
+
+p, li {
 	a {
 		text-decoration: underline;
+	}
+}
+
+div.google-maps {
+	position: relative;
+	padding-bottom: 75%; // This is the aspect ratio
+	height: 0;
+	overflow: hidden;
+	iframe {
+		border: 0;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100% !important;
+		height: 100% !important;
+	}
+}
+
+article {
+	li {
+		margin-bottom: 12px;
 	}
 }
 
