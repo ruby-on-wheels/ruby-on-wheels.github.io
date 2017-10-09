@@ -45,7 +45,7 @@ In Berlin I regularly had a slight cold. Roughly every third month, I would feel
 
 When you live in an average apartment in Berlin it feels like resources are unlimited. Whenever you open the tap, there's endless fresh water. Whenever you plug a device into an outlet, you can run it as long as you want. Drying your hair with a 2000 watts blow dryer after taking a hot shower for 20 minutes at night: no problem!
 
-That changes when you live in a van. All of a sudden everything is limited and you start using things more sustainably. When my water tank is empty, I have to go and find a source of water and carry the water back to my van. When it's dark, I have 200 Ah in my battery until the sun will charge it the next day. The amount of water that I used in Berlin to brush my teeth is probably enough for a whole day in my van. Just because 80% of the water just flowed from the tap right into the drain without even touching my body.
+That changes when you live in a van. All of a sudden everything is limited and you start using things more sustainably. When my water tank is empty, I have to go and find a source of water and carry the water back to my van. When it's dark, I have 200 Ah in my battery until the sun will charge it the next day. The amount of water that I used in Berlin to brush my teeth is probably enough for a whole day in my van. Maybe 80% of the water just flowed from the tap right into the drain without even touching my body.
 
 The limitations of a van don't necessarily result in a lower quality of life. I can still do everything I want. I just don't waste that much resources any more, because I am more aware of their limitations. We often forget about these. Especially when we live in western urban areas.
 

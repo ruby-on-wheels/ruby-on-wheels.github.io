@@ -5,11 +5,11 @@ date:   2017-10-07
 header-img: assets/images/Sharing_saved_places_on_Google_Maps_-_Ruby_on_Wheels.jpg
 ---
 
-I usually save the places where I stay over night in the Google Maps app. It helps me to remember my exact route and is also helpful when I recommend great spots to other van people I meet on the road. Here is how you can export your saved places from Google Maps and share it with other people in an embedded interactive map on your website:
+I usually save the places where I stay over night in the Google Maps app. It helps me to remember my exact route and is also helpful when I recommend great spots to other van people who I meet on the road. Here is how you can export your saved places from Google Maps and share it with other people in an embedded interactive map on your website:
 
 1. Go to [Google Takeout](https://takeout.google.com/settings/takeout) create an archive that contains your data for Maps (your places) and download the archive:
 ![Export Google Maps data](/assets/images/Data_tools_-_Download_your_data.jpg)
-2. Convert the JSON file from the archive to KML file using an [online converter](http://nearby.org.uk/convert-saved-places.php).
+2. Convert the JSON file from the archive to a KML file using an [online converter](http://nearby.org.uk/convert-saved-places.php).
 3. Go to [My Maps](https://www.google.com/maps/d/u/) on the Google Maps website and create a new map.
 4. Import the KML file into your map:
 ![Import places via the KML file](/assets/images/Places_visited_with_my_van.jpg)
