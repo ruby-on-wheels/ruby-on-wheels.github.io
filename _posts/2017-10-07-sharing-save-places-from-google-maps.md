@@ -3,6 +3,7 @@ layout: post
 title:  Sharing saved places from Google Maps
 date:   2017-10-07
 header-img: assets/images/Sharing_saved_places_on_Google_Maps_-_Ruby_on_Wheels.jpg
+comments: true
 ---
 
 I usually save the places where I stay over night in the Google Maps app. It helps me to remember my exact route and is also helpful when I recommend great spots to other van people who I meet on the road. Here is how you can export your saved places from Google Maps and share it with other people in an embedded interactive map on your website:

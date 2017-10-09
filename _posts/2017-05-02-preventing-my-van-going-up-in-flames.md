@@ -3,6 +3,7 @@ layout: post
 title:  "Preventing my van going up in flames"
 date:   2017-05-02
 header-img: assets/images/IMG_7612.JPG
+comments: true
 ---
 
 It has been raining a lot for the last weeks in Berlin. I was eager to install the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}). So I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.

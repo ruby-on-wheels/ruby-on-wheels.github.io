@@ -3,6 +3,7 @@ layout: post
 title:  "Turning my van into a mobile office"
 date:   2017-05-06
 header-img: assets/images/IMG_7664.JPG
+comments: true
 ---
 
 After constant rainy days, I could finally install the solar panels and the roof-top antennas for my mobile WiFi router. :tada:

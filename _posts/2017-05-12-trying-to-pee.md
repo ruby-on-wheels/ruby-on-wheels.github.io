@@ -3,6 +3,7 @@ layout: post
 title:  Trying to pee
 date:   2017-05-12
 header-img: assets/images/IMG_7968.JPG
+comments: true
 ---
 
 Two-thirds on my way to Hamburg I get tired. I've already driven about 185 km since I [left]({% post_url 2017-05-11-leaving-berlin %}) Berlin at 10pm. It doesn't seem realistic to reach Hamburg  tonight. I leave the highway and drive around in the dark to find a place to sleep. Not that hard: a few minutes later I park on a [dirt road in a forest](https://goo.gl/maps/pNppiBAUVuT2) near [Neustadt-Glewe](https://www.google.com/maps/place/Neustadt-Glewe,+Germany) where I spend the first night of my trip.

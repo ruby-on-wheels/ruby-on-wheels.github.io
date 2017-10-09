@@ -2,6 +2,7 @@
 layout: post
 title:  "My future mobile office"
 date:   2017-01-11
+comments: true
 ---
 
 Today, I checked out my future mobile office near [Düsseldorf, Germany](https://www.google.com/maps/place/D%C3%BCsseldorf,+Germany/@51.2385861,6.6742667,11z): A Mercedes-Benz 209D from 1984.

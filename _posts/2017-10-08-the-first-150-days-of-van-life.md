@@ -3,6 +3,7 @@ layout: post
 title:  The first 150 days of van life
 date:   2017-10-08
 header-img: assets/images/IMG_8728.JPG
+comments: true
 ---
 
 Today marks my 150th day in my van. Since I [left]({% post_url 2017-05-11-leaving-berlin %}) Berlin in May I visited 6 countries, drove more than 12,000 km, collected more than 180,000 Wh of solar power and met a lot of interesting people.
