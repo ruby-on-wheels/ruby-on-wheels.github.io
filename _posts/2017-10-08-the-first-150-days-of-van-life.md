@@ -22,7 +22,7 @@ My life in the van feels like a smooth flow of uncontrolled events. Things just 
 
 ![Relaxing in my hammock](/assets/images/IMG_8728.JPG)
 
-## Living more health
+## Living more healthy
 
 Berlin offers a great variety of delicious and affordable places to eat. Why should I have spent my valuable time on grocery shopping and cooking, if I could get a great meal right around the corner? Although it's very easy to eat out in a big city, it's more challenging to stick to a healthy diet. I often ate stuff like shawarma, burgers, doner kebab, schnitzel or pizza.
 
