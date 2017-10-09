@@ -77,6 +77,10 @@ a img {
 blockquote {
 	color: $gray;
 	font-style: italic;
+	margin: 20px 0;
+	p {
+		margin: 0;
+	}
 }
 
 hr.small {
