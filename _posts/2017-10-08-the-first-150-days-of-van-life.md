@@ -51,7 +51,7 @@ The limitations of a van don't necessarily result in a lower quality of life. I 
 
 ## Being more outgoing
 
-In Berlin I usually didn't approach the next random stranger on the street and started a conversation. Instead I made plans with my friends and mostly ignored all the unknown people around me. Even if I would pay attention to these strangers, they mostly seemed busy or tired from work.
+In Berlin, I usually didn't approach the next random stranger on the street and started a conversation. Instead, I made plans with my friends and mostly ignored all the unknown people around me. Even if I would pay attention to these strangers, they mostly seemed busy or tired from work.
 
 When I leave my van after work and go to the beach, I usually meet relaxed and open-minded people: vacationers, travelers, surfers, hippies. They don't seem to be stressed and everyone has interesting stories to tell. No stranger is surprised if I approach them out of the blue and say "hi". It's normal. I definitely get more in touch with new people than I did before my trip.
 
