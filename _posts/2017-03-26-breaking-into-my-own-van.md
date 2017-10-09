@@ -3,6 +3,7 @@ layout: post
 title:  "Breaking into my own van"
 date:   2017-03-26
 header-img: assets/images/IMG_7085.JPG
+comments: true
 ---
 
 All of sudden the door to the bathroom wouldn't open any more. It appeared that the lock on the door broke. Too bad that all screws to the bathroom construction are inside. I had to disassemble the roof window to access the bathroom from the top. Obviously it's not too hard to break into a camper van. :thinking:
