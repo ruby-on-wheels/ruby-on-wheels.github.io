@@ -30,7 +30,7 @@ It turns out that there's no need to worry about the van. They don't care about 
 *"I don't know if I can pee right now. I haven't drunken much water today and I peed just three minutes ago."*<br>
 *"Don't worry. You can always pee. We just need a little bit."*
 
-So I’m holding this little plastic cup, standing right in front of my van with the cop standing right next to me, to observe what I am doing. I feel relaxed because I know there's nothing to worry about. Still I can't pee. I'm totally empty. I'm closing my eyes and thinking about the sea. Still no luck.
+So I’m holding this little plastic cup, standing right in front of my van with the cop standing right next to me, to observe what I am doing. I feel relaxed because I know there's nothing to worry about. Still I can't pee. I'm totally empty. I close my eyes and think about the sea. Still no luck.
 
 *"Sorry, I really can't pee right now."*<br>
 *"Keep on trying, we have time!"*
