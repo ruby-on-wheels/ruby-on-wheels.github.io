@@ -9,14 +9,14 @@ After [co-working](http://sayulitacowork.com/) in [paradise](https://www.google.
 
 ![Oil puddle below the van](/assets/images/IMG_7027.JPG)
 
-Looking closer I realized that the transmission was completely covered in oil.
+Looking a little closer I realized that the transmission was completely covered in oil.
 
 ![Transmission leaking oil](/assets/images/IMG_7030.JPG)
 ![Transmission leaking even more oil](/assets/images/IMG_7059.JPG)
 
-Might be connected with the wrong timing I've experienced during my [first ride]({% post_url 2017-02-04-the-first-ride %})?
+It might be connected with the wrong timing, that I experienced during my [first ride]({% post_url 2017-02-04-the-first-ride %})?
 
-I checked the oil level of the transmission. **Something I should have done before buying the van!** Even though the transmission had already leaked a lot of oil the level was still above the *max* marker. Obviously the person who changed the oil filled too much oil into the transmission. Too much or too little oil is something critical and can damage the transmission!
+I checked the oil level of the transmission. **Something I should have done before buying the van!** Even though the transmission already leaked a lot of oil the level was still above the *max* marker. Obviously the person who changed the oil filled too much oil into the transmission. Too much or too little oil is something critical and can damage the transmission!
 
 I carefully removed some oil with a hand pump until the level seemed about right: pump out, test drive, measure, repeat.
 
@@ -24,6 +24,6 @@ I carefully removed some oil with a hand pump until the level seemed about right
 
 The timing of the transmission improved. When the engine is warm, gears are switched almost exactly like described in the official specs. However when the engine is still cold the transmission switches a bit too late into the next gear. As this is my first Mercedes-Benz I can't tell if this is normal behavior or not.
 
-In general I consider the issue as fixed: the timing improved and the transmission doesn't leak any oil anymore! :heavy_check_mark:
+In general I will consider the issue as fixed: the timing improved and the transmission doesn't leak any oil anymore! :heavy_check_mark:
 
 I'll regularly check the oil level of the transmission and keep an eye on it.

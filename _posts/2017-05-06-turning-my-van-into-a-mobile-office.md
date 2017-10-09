@@ -7,17 +7,17 @@ header-img: assets/images/IMG_7664.JPG
 
 After constant rainy days, I could finally install the solar panels and the roof-top antennas for my mobile WiFi router. :tada:
 
-While it was still raining I mounted the panels on plastic spoilers.
+While it was still raining, I mounted the panels on plastic spoilers.
 
 ![100 Wp solar panel mounted on spoiler](/assets/images/IMG_7640.JPG)
 
-The rain stopped in the evening so there was still enough daylight to prepare everything: cleaning the roof, marking the position for the panels and drilling two holes for the cables: one for the antenna cables and one for the panel cables.
+The rain stopped in the evening, so there was still enough daylight to prepare everything: cleaning the roof, marking the position for the panels and drilling two holes for the cables: one for the antenna cables and one for the panel cables.
 
 It was already dark when I put the [SikaFlex 252](https://www.offgridtec.com/sikaflex-252-weiss-montagekleber-solarbefestigung.html) adhesive on the spoilers:
 
 ![Spoilers with SikaFlex 252](/assets/images/IMG_7653.JPG)
 
-Protected and covered in bubble wrap I adhered the spoilers with the mounted panels on the alcove:
+Protected and covered in bubble wrap, I adhered the spoilers with the mounted panels on the alcove:
 
 ![Solar panels covered in bubble wrap on the alcove](/assets/images/IMG_7655.JPG)
 
@@ -67,7 +67,7 @@ Definitely not required but nice to have, I connected a bluetooth dongle to the 
 
 ![Bluetooth dongle to read data from the solar charge controller](/assets/images/IMG_8032.JPG)
 
-It sends some real-time and historical data of the charge controller via bluetooth to my smartphone. I enjoyed observing these numbers so much. :laughing: Especially around noon when the sun was all straight up and my panels almost reached their maximum specified power of 350Wp:
+It sends some real-time and historical data of the charge controller via bluetooth to my smartphone. I enjoy observing these numbers so much. :laughing: Especially around noon when the sun was all straight up and my panels almost reached their maximum specified power of 350Wp:
 
 ![Wooden box with new devices](/assets/images/IMG_7966.PNG)
 

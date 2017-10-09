@@ -5,7 +5,7 @@ date:   2017-03-06
 header-img: assets/images/background_shot_of_blue_sky_with_white_cloud.jpg
 ---
 
-Today I ordered all the components of my future solar system. :tada:
+Today I ordered all the components for my future solar system. :tada:
 
 As I'll be working from my van I want to be 100% autonomous for several days even on cloudy and rainy days.
 
@@ -25,9 +25,9 @@ To get a rough idea about the required capacity I measured the power consumption
 | Fridge (optional)     | 110       | 14                | 1540        |
 | **Total**             |           |                   | **1898.1**  |
 
-Based on my estimation I need at least 360Wh on a regular working day. 360Wh roughly correlates with 360Wh / 12.8V ≈ 28Ah.
+Based on my estimate I need at least 360Wh on a regular working day. 360Wh roughly correlates with 360Wh / 12.8V ≈ 28Ah.
 
-The built-in absorption refrigerator is very old and eats a lot of power. I might replace it with a more efficient compressor fridge in future but meanwhile I'll turn it off while I don't need it. Fruits, vegetables, bread, pasta and a lot of other food can be stored for a couple of days without a fridge. With the help of cooling elements I should be able to run the fridge during the day and turn it off at night. Operating the fridge for 14 instead of 24 hours seems reasonable.
+The built-in absorption refrigerator is very old and eats a lot of power. I might replace it with a more efficient compressor fridge in the future but in the meanwhile I'll turn it off while I don't need it. Fruits, vegetables, bread, pasta and a lot of other food can be stored for a couple of days without a fridge. With the help of cooling elements I should be able to run the fridge during the day and turn it off at night. Operating the fridge for 14 instead of 24 hours seems reasonable.
 
 Considering all devices including the fridge I need about 1900Wh a day which roughly correlates with 1900Wh / 12.8V ≈ 148Ah.
 
@@ -45,7 +45,7 @@ The battery consists of four 3.2V cells that are connected in series and deliver
 
 ## Selecting the best matching solar panels for the given space
 
-Picking the right solar panels was not easy because a lot of parameters have to be considered: the available space, the angle of the solar panels (fixed or flexible) and of course the hours of daily sunshine. Especially the later is hard to specify because it further depends on the location (north vs. south), the season (winter vs. summer) and of course the daily weather (cloudy vs. sunny). Based on climate statistics and reports I found online, I assumed that a solar panel with 100Wp would deliver about 500Wh a day from spring to autumn. So my overall energy consumption of 1900Wh correlates with a 1900 / 5 = 380Wp solar panel setup.
+Picking the right solar panels was not easy, because a lot of parameters had to be considered: the available space, the angle of the solar panels (fixed or flexible) and of course the hours of daily sunshine. Especially the latter is hard to specify because it further depends on the location (north vs. south), the season (winter vs. summer) and of course the daily weather (cloudy vs. sunny). Based on climate statistics and reports I found online, I assumed that a solar panel with 100Wp would deliver about 500Wh a day from spring to autumn. So my overall energy consumption of 1900Wh correlates with a 1900 / 5 = 380Wp solar panel setup.
 
 The rack and the two windows in the roof of my van forced me to use the space on top of the alcove. I picked three mono-crystalline panels that would cover as much space as possible: two [100Wp panels](https://www.offgridtec.com/generatoren/solarmodule/12v-24v-solarmodule/offgridtecr-100w-mono-solarpanel-12v.html) (540mm x 1200mm) and one [150Wp panel](https://www.offgridtec.com/offgridtecr-150w-mono-12v-solarpanel.html) (1340mm x 67mm).
 
@@ -55,4 +55,4 @@ After reading through several [tests](https://www.amumot.de/solar-laderegler-12v
 
 To operate and charge devices that run with 230V AC like my cordless impact wrench, I also ordered a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/) that provides 1500W of continuous and up to 3000W peak power for start-up currents.
 
-I'm really looking forward to get all the parts delivered and install the solar system in my van! :sunny: :electric_plug:
+I'm really looking forward to getting all the parts delivered and install the solar system in my van! :sunny: :electric_plug:

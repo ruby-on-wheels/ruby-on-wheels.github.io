@@ -5,9 +5,9 @@ date:   2017-05-02
 header-img: assets/images/IMG_7612.JPG
 ---
 
-It has been raining a lot for the last weeks in Berlin. I urged installing the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}) so I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.
+It has been raining a lot for the last weeks in Berlin. I was eager to install the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}). So I drove around to find a bridge that offers a dry place to work on the roof. While driving in the rain I realized that the wipers moved very slowly.
 
-I couldn't find any issues with the wipers or the motor. However I observed that the blinkers also flashed a bit weakly. While diving deeper into the issue I realized that several electric devices operated weakly:
+I couldn't find any issues with the wipers or the motor. However, I also observed that the blinkers were flashing a bit weak. While diving deeper into the issue I realized that several electric devices operated weakly:
 
 - the headlights
 - the blinkers
@@ -15,7 +15,7 @@ I couldn't find any issues with the wipers or the motor. However I observed that
 - the fan for the heating
 - several lamps on the instrument panel
 
-Where to start looking for the root cause of all these problems? :thinking: With the help of the wire diagram I tracked the issue down to the fuse box.
+Hmm, where should I start looking for the root of all these problems? :thinking: With the help of the wire diagram I tracked the issue down to the fuse box.
 
 ![Wire diagram for a Mercedes-Benz 207D/209D](/assets/images/IMG_7618.JPG)
 
@@ -27,7 +27,7 @@ Some cables even looked scorched:
 
 ![Fuse box in bad condition](/assets/images/IMG_7118.JPG)
 
-For some of these connectors I measured a resistance above 200 Ω. :scream: The connectors were held together by bolts that got loose over time. These loose connections caused very bad conductivity, resulting in a lot of heat which further led to corrosion. A vicious circle!
+On some of these connectors I measured a resistance above 200 Ω. :scream: The connectors were held together by bolts that got loose over time. These loose connections caused very bad conductivity, resulting in a lot of heat which further led to corrosion. A vicious circle!
 
 Ignoring this issue might have resulted in my van going up in flames. :fire:
 
