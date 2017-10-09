@@ -6,7 +6,7 @@ header-img: assets/images/IMG_7678.JPG
 comments: true
 ---
 
-On the weekend I went on a first little trip with a friend. We successfully tested the fridge and enjoyed some cold beers at [lake](https://www.google.com/maps/place/Strandbad+Motzen/@52.2110184,13.5722572,2143m) near Berlin. The weather finally got better and we could get a sense of the summer that would hopefully come soon.
+On the weekend I went on a first little trip with a friend. We successfully tested the fridge and enjoyed some cold beers at a [lake](https://www.google.com/maps/place/Strandbad+Motzen/@52.2110184,13.5722572,2143m) near Berlin. The weather finally got better and we could get a sense of the summer that would hopefully come soon.
 
 ![Relaxing and drinking a beer at a lake](/assets/images/IMG_7677.JPG)
 
