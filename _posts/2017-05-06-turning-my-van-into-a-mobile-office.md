@@ -37,7 +37,7 @@ I adhered two waterproof cable glands (again with SikaFlex 252) on the roof:
 
 ![Glands for the cables of antennas and solar panels](/assets/images/IMG_7662.JPG)
 
-Time to wired up the battery and devices I [ordered](({% post_url 2017-03-06-ordering-my-solar-system %})) back in March:
+Time to wire up the battery and devices I [ordered](({% post_url 2017-03-06-ordering-my-solar-system %})) back in March:
 
 - a [200Ah LiFePO4 battery](https://www.victronenergy.com/upload/documents/Datasheet-12,8-Volt-lithium-iron-phosphate-batteries-EN.pdf)
 - a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/)
