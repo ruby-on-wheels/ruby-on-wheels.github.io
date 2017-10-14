@@ -48,6 +48,9 @@ article {
 	li {
 		margin-bottom: 12px;
 	}
+	img {
+		@extend .img-responsive;
+	}
 }
 
 h1,
