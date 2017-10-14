@@ -15,3 +15,5 @@ permalink: blog/:title/
 paginate: 10
 
 gems: [jekyll-paginate, jekyll-feed, jemoji]
+sass:
+  style: compressed
