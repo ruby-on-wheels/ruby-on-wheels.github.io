@@ -36,7 +36,7 @@ That changed after moving into the van. The van life allows me to better integra
 
 ![Workout park in Casa de Campo, Madrid](/assets/images/IMG_9773.JPG)
 
-As soon as I realize that I lose concentration, I accept it and I stop my work. I close the laptop and do something that helps to relax my brain. Sometimes a break takes 10 minutes and sometimes a break takes 3 hours. But when I open the laptop again, I'm ready to focus again. Using my working time more efficiently allows me to spend more time for myself. Maybe one reason why I feel more balanced is consciously spending more time on things and activities that I really enjoy.
+As soon as I realize that I lose concentration, I accept it and I stop my work. I close the laptop and do something that helps my brain to relax. Sometimes a break takes 10 minutes and sometimes a break takes 3 hours. But when I open the laptop again, I'm ready to focus again. Using my working time more efficiently allows me to spend more time for myself. Maybe one reason why I feel more balanced is consciously spending more time on things and activities that I really enjoy.
 
 ## Did my productivity change?
 
