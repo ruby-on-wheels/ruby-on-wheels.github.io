@@ -74,7 +74,7 @@ It sends some real-time and historical data of the charge controller via bluetoo
 
 Awesome! My solar panel is installed and ready to deliver all the power I need. :heavy_check_mark:
 
-The only thing left for a proper office: internet. I picked the [Huawei B315s-22 LTE WiFi router](https://www.amazon.de/gp/product/B00UTYHF8M) because it can be operated with 12V and provides two SMA connectors for two external antennas: one for sending and one for receiving data.
+<span id="mobile-internet">The<span> only thing left for a proper office: internet. I picked the [Huawei B315s-22 LTE WiFi router](https://www.amazon.de/gp/product/B00UTYHF8M) because it can be operated with 12V and provides two SMA connectors for two external antennas: one for sending and one for receiving data.
 
 Based on some [experiences](https://www.amumot.de/wlan-im-auto-internet-fuer-unterwegs-im-wohnmobil/) from other van people I bought two [MIMO antennas](https://www.amazon.de/gp/product/B00E8GDN60/).
 
