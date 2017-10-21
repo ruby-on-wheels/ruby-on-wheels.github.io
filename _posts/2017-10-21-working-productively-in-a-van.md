@@ -18,7 +18,7 @@ I work with a prepaid SIM-card from [WIND](https://www.wind.it). The Italian tel
 
 I usually work from the back of my van on a table. For more flexibility, I use an external keyboard and trackpad. A height adjustable laptop stand allows me to sit in an upright position without bending my neck. I planned to install a separated display in the van. But during my first weeks, I got used to working on my 15" laptop screen. I don't really miss the second display that I used in Berlin.
 
-![Laptop on a stand with an external keyboard and trackpad in the back of my van](/assets/images/IMG_9661.jpg)
+![Laptop on a stand with an external keyboard and trackpad in the back of my van](/assets/images/IMG_9661.JPG)
 
 ## Working asynchronously
 
@@ -34,7 +34,7 @@ In Berlin I used to work from a co-working space to avoid those kind of issues. 
 
 That changed after moving into the van. The van life allows me to better integrate personal activities into my work routine because everything is closer: There are people around who tell me stories unrelated to programming. There's a hammock right in front of my van for taking a relaxed nap outside, a workout park where I can do pull-ups and dips or a beach where I can take a sun bath to get my daily fill of vitamin D.
 
-![Workout park in Casa de Campo, Madrid](/assets/images/IMG_9773.jpg)
+![Workout park in Casa de Campo, Madrid](/assets/images/IMG_9773.JPG)
 
 As soon as I realize that I lose concentration, I accept it and I stop my work. I close the laptop and do something that helps to relax my brain. Sometimes a break takes 10 minutes and sometimes a break takes 3 hours. But when I open the laptop again, I'm ready to focus again. Using my working time more efficiently allows me to spend more time for myself. Maybe one reason why I feel more balanced is consciously spending more time on things and activities that I really enjoy.
 
@@ -46,6 +46,6 @@ I really like what one of my co-workers told me when asking about my productivit
 
 > The only thing that has changed is your background in our video calls: Octocat stickers instead of the white wall of the co-working space in Berlin.
 
-![Screenshot of a video meeting](/assets/images/Video_Meeting.jpg)
+![Screenshot of a video meeting](/assets/images/Video_Meeting.JPG)
 
 Based on the regular positive feedback from my peers and my own evaluation, it doesn't seem like the van life had a negative impact on my work performance. :chart_with_upwards_trend:
