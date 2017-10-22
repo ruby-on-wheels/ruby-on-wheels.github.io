@@ -32,6 +32,8 @@ In the morning I removed the bubble wrap ...
 
 21.2V. Looking good! :+1:
 
+**Edit**: In October 2017, I [extended the setup]({% post_url 2017-10-05-extending-my-solar-system %}) with another 100Wp solar panel.
+
 So now that I had electricity on the roof, I had to get it down into the van.
 I adhered two waterproof cable glands (again with SikaFlex 252) on the roof:
 
@@ -54,7 +56,7 @@ I removed the old battery from the wooden box behind the driver's seat to make s
 
 ![Wooden box with old battery](/assets/images/IMG_7665.JPG)
 
-First I installed the solar charge controller and connected it to the cables coming down from the roof:
+First I installed the [solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50) and connected it to the cables coming down from the roof:
 
 ![Installed solar charge controller](/assets/images/IMG_7695.JPG)
 

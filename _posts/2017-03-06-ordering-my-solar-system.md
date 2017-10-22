@@ -10,7 +10,7 @@ Today I ordered all the components for my future solar system. :tada:
 
 As I'll be working from my van I want to be 100% autonomous for several days even on cloudy and rainy days.
 
-## Estimating the required energy
+## <span id="estimating-required-energy">Estimating the required energy<span>
 
 To get a rough idea about the required capacity I measured the power consumption of all devices that will be operated in my van:
 
@@ -49,6 +49,8 @@ The battery consists of four 3.2V cells that are connected in series and deliver
 Picking the right solar panels was not easy, because a lot of parameters had to be considered: the available space, the angle of the solar panels (fixed or flexible) and of course the hours of daily sunshine. Especially the latter is hard to specify because it further depends on the location (north vs. south), the season (winter vs. summer) and of course the daily weather (cloudy vs. sunny). Based on climate statistics and reports I found online, I assumed that a solar panel with 100Wp would deliver about 500Wh a day from spring to autumn. So my overall energy consumption of 1900Wh correlates with a 1900 / 5 = 380Wp solar panel setup.
 
 The rack and the two windows in the roof of my van forced me to use the space on top of the alcove. I picked three mono-crystalline panels that would cover as much space as possible: two [100Wp panels](https://www.offgridtec.com/generatoren/solarmodule/12v-24v-solarmodule/offgridtecr-100w-mono-solarpanel-12v.html) (540mm x 1200mm) and one [150Wp panel](https://www.offgridtec.com/offgridtecr-150w-mono-12v-solarpanel.html) (1340mm x 67mm).
+
+**Edit**: In October 2017, I [extended the setup]({% post_url 2017-10-05-extending-my-solar-system %}) with another 100Wp solar panel.
 
 After reading through several [tests](https://www.amumot.de/solar-laderegler-12v-mppt/) I picked the [SmartSolar MPPT 100/30 solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50) from Victron Energy which seemed to be one of the most efficient controllers currently available.
 
