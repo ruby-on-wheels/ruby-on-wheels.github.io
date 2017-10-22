@@ -22,7 +22,7 @@ The new panel increased the average yield from 1,200Wh up to 1,600Wh.
 
 ## Reducing the power consumption of my office
 
-So far, I had used the default MagSafe 2 power adapter to charge my laptop. The power adapter converted 230V DC down to 20V AC. I had to plug the adapter into my [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/) that converted the battery's 12V AC to 230 DC. A lot of conversions with an undesired byproduct: heat. A single adapter that converts 12V AC to 20V AC seemed way more efficient. So I installed a [panel](https://www.amazon.de/gp/product/B01JOQ75GW/) with two 12V sockets and an additional USB outlet into one of the seat benches in the back of my van. Finally I could skip the AC-to-DC-to-AC conversion by charging my laptop with a [third-party charger](https://www.amazon.de/gp/product/B0117Y37AM/) that was directly connected to the battery.
+So far, I had used the default MagSafe 2 power adapter to charge my laptop. The power adapter converted 230V DC down to 20V AC. I had to plug the adapter into my [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/) that converted the battery's 12V AC to 230 DC. A lot of conversions with an undesired byproduct: heat. A single adapter that converts 12V AC to 20V AC seemed way more efficient. So I installed a [panel](https://www.amazon.de/gp/product/B01JOQ75GW/) with two 12V sockets and an additional USB outlet into one of the seat benches in the back of my van. Finally I could skip the AC-to-DC-to-AC conversion by charging my laptop with a [third-party 12V MagSafe 2 charger](https://www.amazon.de/gp/product/B0117Y37AM/) that was directly connected to the battery.
 
 ![12V power adapter with a MagSafe 2 connector](/assets/images/IMG_0014.jpg)
 
