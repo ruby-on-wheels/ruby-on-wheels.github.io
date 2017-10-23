@@ -6,15 +6,15 @@ header-img: assets/images/IMG_7664.JPG
 comments: true
 ---
 
-After constant rainy days, I could finally install the solar panels and the roof-top antennas for my mobile WiFi router. :tada:
+After constant rainy days, I could finally install the [solar panels]({% post_url 2017-03-06-ordering-my-solar-system %}#panels) and the roof-top antennas for my mobile WiFi router. :tada:
 
-While it was still raining, I mounted the panels on plastic spoilers.
+While it was still raining, I mounted the panels on plastic [spoilers](https://www.amazon.de/gp/product/B01BNK5ZPA?tag=mumothhoofba-21).
 
 ![100 Wp solar panel mounted on spoiler](/assets/images/IMG_7640.JPG)
 
 The rain stopped in the evening, so there was still enough daylight to prepare everything: cleaning the roof, marking the position for the panels and drilling two holes for the cables: one for the antenna cables and one for the panel cables.
 
-It was already dark when I put the [SikaFlex 252](https://www.offgridtec.com/sikaflex-252-weiss-montagekleber-solarbefestigung.html) adhesive on the spoilers:
+It was already dark when I put the [SikaFlex 252](https://www.amazon.de/gp/product/B01D8KCDDA?tag=mumothhoofba-21) adhesive on the spoilers:
 
 ![Spoilers with SikaFlex 252](/assets/images/IMG_7653.JPG)
 
@@ -41,10 +41,10 @@ I adhered two waterproof cable glands (again with SikaFlex 252) on the roof:
 
 Time to wire up the battery and devices I [ordered]({% post_url 2017-03-06-ordering-my-solar-system %}) back in March:
 
-- a [200Ah LiFePO4 battery](https://www.victronenergy.com/upload/documents/Datasheet-12,8-Volt-lithium-iron-phosphate-batteries-EN.pdf)
-- a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/)
-- a [battery management system](https://www.victronenergy.com/upload/documents/Datasheet-BMS-12-200-EN.pdf)
-- a [MPPT solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50)
+- a [200Ah LiFePO4 battery](https://www.amazon.de/gp/product/B00NT9IDDA?tag=mumothhoofba-21)
+- a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK?tag=mumothhoofba-21)
+- a [battery management system](https://www.amazon.de/gp/product/B01MYRUUEE?tag=mumothhoofba-21)
+- a [MPPT solar charge controller](https://www.amazon.de/gp/product/B01BPL4D6E?tag=mumothhoofba-21)
 
 ![Electrical devices of the solar system: battery, voltage converter, battery management system and solar charge controller](/assets/images/IMG_7664.JPG)
 
@@ -56,7 +56,7 @@ I removed the old battery from the wooden box behind the driver's seat to make s
 
 ![Wooden box with old battery](/assets/images/IMG_7665.JPG)
 
-First I installed the [solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50) and connected it to the cables coming down from the roof:
+First I installed the [solar charge controller](https://www.amazon.de/gp/product/B01BPL4D6E?tag=mumothhoofba-21) and connected it to the cables coming down from the roof:
 
 ![Installed solar charge controller](/assets/images/IMG_7695.JPG)
 
@@ -66,7 +66,7 @@ After playing some Tetris with the remaining devices everything found its spot i
 
 ![Wooden box with new devices](/assets/images/IMG_7698.JPG)
 
-Definitely not required but nice to have, I connected a bluetooth dongle to the solar charge controller.
+Definitely not required but nice to have, I connected a [bluetooth dongle](https://www.amazon.de/gp/product/B01LLMYGDC?tag=mumothhoofba-21) to the solar charge controller.
 
 ![Bluetooth dongle to read data from the solar charge controller](/assets/images/IMG_8032.JPG)
 
@@ -76,9 +76,9 @@ It sends some real-time and historical data of the charge controller via bluetoo
 
 Awesome! My solar panel is installed and ready to deliver all the power I need. :heavy_check_mark:
 
-<span id="mobile-internet">The<span> only thing left for a proper office: internet. I picked the [Huawei B315s-22 LTE WiFi router](https://www.amazon.de/gp/product/B00UTYHF8M) because it can be operated with 12V and provides two SMA connectors for two external antennas: one for sending and one for receiving data.
+<span id="mobile-internet">The<span> only thing left for a proper office: internet. I picked the [Huawei B315s-22 LTE WiFi router](https://www.amazon.de/gp/product/B00UTYHF8M?tag=mumothhoofba-21) because it can be operated with 12V and provides two SMA connectors for two external antennas: one for sending and one for receiving data.
 
-Based on some [experiences](https://www.amumot.de/wlan-im-auto-internet-fuer-unterwegs-im-wohnmobil/) from other van people I bought two [MIMO antennas](https://www.amazon.de/gp/product/B00E8GDN60/).
+Based on some [experiences](https://www.amumot.de/wlan-im-auto-internet-fuer-unterwegs-im-wohnmobil/) from other van people I bought two [MIMO antennas](https://www.amazon.de/gp/product/B00E8GDN60?tag=mumothhoofba-21).
 
 ![Antennas mounted on the roof](/assets/images/IMG_7687.JPG)
 

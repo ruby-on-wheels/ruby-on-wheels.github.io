@@ -40,22 +40,22 @@ For camper vans you can generally choose between three main types of batteries: 
 
 Gel and lead-acid batteries can't be fully discharged without causing damage. They should also get fully charged on a regular basis. Especially when charged by solar energy that isn't constantly available this might be tricky. If you want to be able to efficiently use 200Ah without charging the battery, you probably have to pick a gel-based setup that delivers at least 300Ah or even 400Ah. Such a setup would result in about 130kg and 0.05m² of space whereas a 200Ah lithium battery only weighs 42kg and requires about 0.03m².
 
-Considering that I plan to use the battery for several years I picked a high-quality [LiFePO4 (Lithium-Iron-Phosphate) battery](https://www.victronenergy.com/upload/documents/Datasheet-12,8-Volt-lithium-iron-phosphate-batteries-EN.pdf) from Victron Energy with 200Ah. With the fridge turned on this battery would allow me to sustain at least for a full day. With the fridge turned off I should be able to work for a bit more than five days without charging the battery at all.
+Considering that I plan to use the battery for several years I picked a high-quality [LiFePO4 (Lithium-Iron-Phosphate) battery](https://www.amazon.de/gp/product/B00NT9IDDA?tag=mumothhoofba-21) from Victron Energy with 200Ah. With the fridge turned on this battery would allow me to sustain at least for a full day. With the fridge turned off I should be able to work for a bit more than five days without charging the battery at all.
 
-The battery consists of four 3.2V cells that are connected in series and deliver 12.8V in total. These cells do not auto-balance at the end of the charge cycle. To guarantee a long lifetime of the whole battery I also ordered the [battery management system (BMS) 12/200](https://www.victronenergy.com/upload/documents/Datasheet-BMS-12-200-EN.pdf) which offers several connectors to efficiently charge and protect the battery.
+The battery consists of four 3.2V cells that are connected in series and deliver 12.8V in total. These cells do not auto-balance at the end of the charge cycle. To guarantee a long lifetime of the whole battery I also ordered the [battery management system (BMS) 12/200](https://www.amazon.de/gp/product/B01MYRUUEE?tag=mumothhoofba-21) which offers several connectors to efficiently charge and protect the battery.
 
-## Selecting the best matching solar panels for the given space
+## <span id="panels">Selecting the best matching solar panels for the given space</span>
 
 Picking the right solar panels was not easy, because a lot of parameters had to be considered: the available space, the angle of the solar panels (fixed or flexible) and of course the hours of daily sunshine. Especially the latter is hard to specify because it further depends on the location (north vs. south), the season (winter vs. summer) and of course the daily weather (cloudy vs. sunny). Based on climate statistics and reports I found online, I assumed that a solar panel with 100Wp would deliver about 500Wh a day from spring to autumn. So my overall energy consumption of 1900Wh correlates with a 1900 / 5 = 380Wp solar panel setup.
 
-The rack and the two windows in the roof of my van forced me to use the space on top of the alcove. I picked three mono-crystalline panels that would cover as much space as possible: two [100Wp panels](https://www.offgridtec.com/generatoren/solarmodule/12v-24v-solarmodule/offgridtecr-100w-mono-solarpanel-12v.html) (540mm x 1200mm) and one [150Wp panel](https://www.offgridtec.com/offgridtecr-150w-mono-12v-solarpanel.html) (1340mm x 67mm).
+The rack and the two windows in the roof of my van forced me to use the space on top of the alcove. I picked three mono-crystalline panels that would cover as much space as possible: two [100Wp panels](https://www.amazon.de/gp/product/B005I1999Y?tag=mumothhoofba-21) (540mm x 1200mm) and one [150Wp panel](https://www.amazon.de/gp/product/B00EDLED6Y?tag=mumothhoofba-21) (1340mm x 67mm).
 
 **Edit**: In October 2017, I [extended the setup]({% post_url 2017-10-05-extending-my-solar-system %}) with another 100Wp solar panel.
 
-After reading through several [tests](https://www.amumot.de/solar-laderegler-12v-mppt/) I picked the [SmartSolar MPPT 100/30 solar charge controller](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50) from Victron Energy which seemed to be one of the most efficient controllers currently available.
+After reading through several [tests](https://www.amumot.de/solar-laderegler-12v-mppt/) I picked the [SmartSolar MPPT 100/30 solar charge controller](https://www.amazon.de/gp/product/B01BPL4D6E?tag=mumothhoofba-21) from Victron Energy which seemed to be one of the most efficient controllers currently available.
 
 ## Operating 230V AC devices
 
-To operate and charge devices that run with 230V AC like my cordless impact wrench, I also ordered a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK/) that provides 1500W of continuous and up to 3000W peak power for start-up currents.
+To operate and charge devices that run with 230V AC like my cordless impact wrench, I also ordered a [voltage converter](https://www.amazon.de/gp/product/B00FMUVRKK?tag=mumothhoofba-21) that provides 1500W of continuous and up to 3000W peak power for start-up currents.
 
 I'm really looking forward to getting all the parts delivered and install the solar system in my van! :sunny: :electric_plug:
