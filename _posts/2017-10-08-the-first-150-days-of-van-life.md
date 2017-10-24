@@ -38,7 +38,7 @@ Sometimes I even work outside of my van on a camping table.
 
 ![Working outside of the van right next to the sea](/assets/images/IMG_8258.JPG)
 
-I work in a natural environment instead of a smelly office with a fake climate produced by an A/C. When I turn my head, I see trees, the mountains, the sea or a river. It takes me one second to leave my desk and walk barefoot in the gras, sand or water. No need for a bike or train ride for several minutes through a crowed city full of fumes.
+I work in a natural environment instead of a smelly office with a fake climate produced by an A/C. When I turn my head, I see trees, the mountains, the sea or a river. It takes me one second to leave my desk and walk barefoot in the grass, sand or water. No need for a bike or train ride for several minutes through a crowed city full of fumes.
 
 In Berlin I regularly had a slight cold. Roughly every third month, I would feel a little sick or exhausted. Since I've lived in the van I haven't been sick **once** in five months.
 
