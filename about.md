@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "Ruby on Wheels: The story of a developer living in a van."
+description: "Ruby on Wheels: The story of a developer living on the road."
 header-img: assets/images/IMG_8951.JPG
 ---
 
