@@ -26,11 +26,11 @@ After a few days, I had learnt how to avoid conflicts with the law enforcement: 
 
 My favorite area is [Casa de Campo](https://www.google.com/maps/place/Casa+de+Campo,+Madrid,+Spain), a huge park in the west of Madrid. There are plenty of big parking areas to rotate.
 
-![Narrow street in the center of Madrid](/assets/images/IMG_9740.jpg)
+![Parking lot at Casa de Campo](/assets/images/IMG_9740.JPG)
 
 Although the park is close to the city center, it still feels like a very natural environment.
 
-![View from a parking lot at Casa de Campo](/assets/images/IMG_9730.jpg)
+![View from a parking lot at Casa de Campo](/assets/images/IMG_9730.JPG)
 
 Close to a clean public toilet, where there is a beautiful water dispenser: well tasting, portable water for free.
 
@@ -76,15 +76,15 @@ Everyone has their own schedule. Once in awhile, we spend a few days together in
 
 Madrid is an awesome city. If there was a beach, it would be the perfect city for me. However sometimes, I wanted to escape from the concrete jungle to relax and breath in some fresh air. When I needed a break, I got behind the steering wheel and left the city for a while.
 
-![Sun set view from behind the steering wheel](/assets/images/IMG_9728.jpg)
+![Sun set view from behind the steering wheel](/assets/images/IMG_9728.JPG)
 
 The mountains around Madrid offer great places to calm down and enjoy nature. Like [Lago de Bolarque](https://www.google.com/maps/place/Mirador+del+Lago+Bolarque), east of Madrid:
 
-![Boats on Lago de Bolarque](/assets/images/IMG_9724.jpg)
+![Boats on Lago de Bolarque](/assets/images/IMG_9724.JPG)
 
 A beautiful sun set at [Embalse de Valmayor](https://www.google.com/maps/place/Embalse+de+Valmayor), west of Madrid:
 
-![Sun set view from behind the steering wheel](/assets/images/IMG_9743.jpg)
+![Sun set view from behind the steering wheel](/assets/images/IMG_9743.JPG)
 
 Or the relaxing sound of the water floating through [Río Lozoya](https://www.google.it/maps/place/Río+Lozoya/), north of Madrid:
 
