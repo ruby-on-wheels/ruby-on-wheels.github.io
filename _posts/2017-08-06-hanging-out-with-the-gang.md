@@ -30,7 +30,7 @@ The day after, the sun finally came back and we went surfing at [Playa de Esteir
 
 ![Cliffs at Playa de Esteiro](/assets/images/IMG_9370.JPG)
 
-The perfect places to fool around with the gang. :sunglasses:
+The perfect place to fool around with the gang. :sunglasses:
 
 ![The gang at Playa de Esteiro](/assets/images/IMG_9372.JPG)
 
