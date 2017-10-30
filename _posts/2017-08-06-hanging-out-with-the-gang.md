@@ -6,7 +6,7 @@ header-img: assets/images/IMG_9372.JPG
 comments: true
 ---
 
-Today, I left three awesome guys that I met about two weeks ago. Alex, Markus and Severin, are surfer buddies from Bavaria, Germany. They've been traveling along the northern Spanish coast in their VW T4 vans. For a couple of days, we were parked next to each other at a beach near [Aviles](https://www.google.com/maps/place/Aviles,+Asturias/).
+Today, I left three awesome guys that I met about two weeks ago. Alex, Markus and Severin are surfer buddies from Bavaria, Germany. They've been traveling along the northern Spanish coast in their VW T4 vans. For a couple of days, we were parked next to each other at a beach near [Aviles](https://www.google.com/maps/place/Aviles,+Asturias/).
 
 ![Our vans parked next to a beach](/assets/images/IMG_9294.JPG)
 
