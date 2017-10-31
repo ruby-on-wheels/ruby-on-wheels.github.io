@@ -10,7 +10,7 @@ On a sunny day in the summer, I was able to collect up to 2,300Wh with my [350Wp
 
 ## Using the full capacity of the charge controller
 
-My [solar charge controller](https://www.amazon.de/gp/product/B01BPL4D6E?tag=mumothhoofba-21) can handle up to 440W. So I ordered another [100Wp  solar panel](https://www.amazon.de/gp/product/B005I1999Y?tag=mumothhoofba-21) (540mm x 1200mm), matching [spoilers](https://www.amazon.de/gp/product/B01BNK5ZPA?tag=mumothhoofba-21) and [SikaFlex 252](https://www.amazon.de/gp/product/B01D8KCDDA?tag=mumothhoofba-21) adhesive. Two weeks later, I finally mounted the panel on the roof during a nice sunset at a parking lot in Madrid.
+My [solar charge controller](https://www.amazon.de/gp/product/B01BPL4D6E?tag=mumothhoofba-21) can handle up to 440W. So I ordered another [100Wp  solar panel](https://www.amazon.de/gp/product/B005I1999Y?tag=mumothhoofba-21) (540mm x 1200mm), matching [spoilers](https://www.amazon.de/gp/product/B01BNK5ZPA?tag=mumothhoofba-21) and [SikaFlex 252](https://www.amazon.de/gp/product/B01D8KCDDA?tag=mumothhoofba-21) adhesive. Two weeks later, I finally mounted the panel on the roof during a nice sunset in a parking lot in Madrid.
 
 ![Sunset at a parking lot in Madrid](/assets/images/IMG_9901.jpg)
 
