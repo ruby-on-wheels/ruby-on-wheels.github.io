@@ -34,6 +34,6 @@ On the second day, we dove a bit deeper into the parts of my vehicle by studying
 
 ![Construction of the automatic transmission](/assets/images/IMG_8099.jpg)
 
-I learnt a ton and gained a new friend in Hürtgenwald! Thank you Axel! :wrench::sunglasses:
+I learned a ton and gained a new friend in Hürtgenwald! Thank you Axel! :wrench::sunglasses:
 
 ![Selfie with Axel](/assets/images/IMG_8114.JPG)
