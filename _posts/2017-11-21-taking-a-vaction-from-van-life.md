@@ -65,7 +65,7 @@ where we enjoyed some drinks and the sunset.
 
 ![Sunset in Crystal bay](/assets/images/IMG_0170.jpg)
 
-We really liked Crystal bay. The next day, we came back to discover the sea life of the bay. The water was perfect for snorkeling: warm and full of colorful fishes and corals. :fish:
+We really liked Crystal bay. The next day, we came back to discover the sea life in the bay. The water was perfect for snorkeling: warm and full of colorful fishes and corals. :fish:
 
 ![Snorkeling in Crystal bay](/assets/images/IMG_0290.jpg)
 
