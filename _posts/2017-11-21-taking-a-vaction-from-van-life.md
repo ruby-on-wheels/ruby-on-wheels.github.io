@@ -93,11 +93,11 @@ We spent the night at a nice lodge with an infinity pool offering a beautiful vi
 
 ![Pool with a beautiful view to the volcano](/assets/images/IMG_0222.jpg)
 
-My friend preferred to travel by taxi which turned out to be a great decision. Her driver, Artom, invited us to visit the place where he was born and raised. Off from the common tourist attractions, we drove about 30 km into the countryside in the north west of Lombok. As soon as we reached the village, we were surrounded by curious kids: Who are these strangers and what are they doing in our village?
+My friend preferred to travel by taxi which turned out to be a great decision. Her driver, Artam, invited us to visit the place where he was born and raised. Off from the common tourist attractions, we drove about 30 km into the countryside in the north west of Lombok. As soon as we reached the village, we were surrounded by curious kids: Who are these strangers and what are they doing in our village?
 
 ![Surrounded by curious kids](/assets/images/IMG_0220.jpg)
 
-Artom was the only one who could speak English and helped us communicating with the locals. We took a little walk through the village and everyone was super friendly, invited us to hangout and offered us something to drink or eat.
+Artam was the only one who could speak English and helped us communicating with the locals. We took a little walk through the village and everyone was super friendly, invited us to hangout and offered us something to drink or eat.
 
 ![Hanging out with locals](/assets/images/IMG_0225.jpg)
 
@@ -105,7 +105,7 @@ What a great experience! After spending several nights in comfortable hotel beds
 
 ## Relaxing and surfing in the south of Lombok
 
-After showing us his village, Artom drove is down south to [Kuta](https://www.google.com/maps/place/Kuta,+Pujut,+Central+Lombok+Regency,+West+Nusa+Tenggara,+Indonesia/) where we spent our last days in Lombok. We relaxed on beautiful beaches like [Mandalika beach](https://www.google.com/maps/place/Mandalika+Beach/)
+After showing us his village, Artam drove is down south to [Kuta](https://www.google.com/maps/place/Kuta,+Pujut,+Central+Lombok+Regency,+West+Nusa+Tenggara,+Indonesia/) where we spent our last days in Lombok. We relaxed on beautiful beaches like [Mandalika beach](https://www.google.com/maps/place/Mandalika+Beach/)
 
 ![Mandalika beach](/assets/images/IMG_0230.jpg)
 
