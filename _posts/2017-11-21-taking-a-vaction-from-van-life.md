@@ -35,7 +35,7 @@ Tourism has definitely influenced the area: hip restaurants that offer yummy but
 
 ## Discovering the nature of Nusa Penida
 
-After curing the jet-lag in Canggu for two days, we took a boat to [Nusa Penida](https://www.google.com/maps/place/Penida+Island/), a little island in the west of Bali. In contrast to Canggu, tourism has just started to develop on Nusa Penida. New restaurants, guesthouses and hostels arise next to the recently modernized roads. Still, everything feels very authentic when cruising through the villages.
+After curing the jet-lag in Canggu for two days, we took a boat to [Nusa Penida](https://www.google.com/maps/place/Penida+Island/), a little island in the east of Bali. In contrast to Canggu, tourism has just started to develop on Nusa Penida. New restaurants, guesthouses and hostels arise next to the recently modernized roads. Still, everything feels very authentic when cruising through the villages.
 
 We spent three nights at a charming guesthouse in [Batununggul](https://www.google.com/maps/place/Batununggul,+Nusapenida,+Klungkung+Regency,+Bali,+Indonesia/) right in front of the beach with a nice view on the smoking volcano [Gunung Agung](https://www.google.com/maps/place/Mount+Agung/) that [erupted](http://www.news.com.au/travel/travel-updates/incidents/panic-as-balis-mount-agung-volcano-erupts/news-story/56c0f91b6745c4b682c14dfabb6b0f6a) just today. :scream:
 
