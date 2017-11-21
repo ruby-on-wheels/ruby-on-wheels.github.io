@@ -45,11 +45,11 @@ Scooters or motorbikes are the best way to get around on the Indonesian islands.
 
 ![My friend on his rental scooter](/assets/images/IMG_0289.jpg)
 
-We drove west, parked our scooters on a little [hill](https://www.google.com/maps/place/8°46'19.7"S+115°37'19.8"E/) and hiked down to [Atuh beach](https://www.google.com/maps/place/Atuh+Beach/) where we spent a relaxed beach day.
+We drove east, parked our scooters on a little [hill](https://www.google.com/maps/place/8°46'19.7"S+115°37'19.8"E/) and hiked down to [Atuh beach](https://www.google.com/maps/place/Atuh+Beach/) where we spent a relaxed beach day.
 
 ![Atuh beach on Nusa Penida](/assets/images/IMG_0118.jpg)
 
-The next day we were headed east. We parked our scooters in [Crystal bay](https://www.google.com/maps/place/Crystal+Bay+Nusa+Penida/) and hiked through the rainforest. We passed [Pandan beach](https://www.google.com/maps/place/Pandan+beach/) where we saw some other people relaxing in the shade of the palm trees.
+The next day we were headed west. We parked our scooters in [Crystal bay](https://www.google.com/maps/place/Crystal+Bay+Nusa+Penida/) and hiked through the rainforest. We passed [Pandan beach](https://www.google.com/maps/place/Pandan+beach/) where we saw some other people relaxing in the shade of the palm trees.
 
 ![View from the forest down to Pandan beach](/assets/images/IMG_0137.jpg)
 
