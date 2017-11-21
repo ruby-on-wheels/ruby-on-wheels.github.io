@@ -12,7 +12,7 @@ I definitely miss my loved ones in Berlin. Especially my sister. Instead of seei
 
 Initially I hesitated to join them: Why should I fly around the globe to enjoy beaches, when I can park my van right next to the amazing beaches in Portugal and Spain? Where should I leave my van for two weeks?
 
-At the end, the desire to see my sister and my friends overcame my concerns. And hey, Indonesia is something different than Southern Europe! :wink:
+At the end, the desire to see my sister and my friends overcame my concerns. And hey, Indonesia is something different than southern Europe! :wink:
 
 Taking a vacation from van life turned out to be fairly simple. The less you own, the less you have to pack. After five minutes my 30 liters backpack was ready: passport, tooth brush, nail clipper, a huge beach towel, flip-flops, my surf shorts, some underwear, a pair of shorts, a few shirts and my laptop, the only object of real value in my van.
 
@@ -41,7 +41,7 @@ We spent three nights at a charming guesthouse in [Batununggul](https://www.goog
 
 ![View from the guesthouse on Gunung Agung](/assets/images/IMG_0291.jpg)
 
-Scooters or motorbikes are the best way to get around the Indonesian islands. We rented scooters and cruised around some of the beautiful areas of Nusa Penida.
+Scooters or motorbikes are the best way to get around on the Indonesian islands. We rented scooters and cruised to some beautiful areas of Nusa Penida.
 
 ![My friend on his rental scooter](/assets/images/IMG_0289.jpg)
 
@@ -53,7 +53,7 @@ The next day we were headed east. We parked our scooters in [Crystal bay](https:
 
 ![View from the forest down to Pandan beach](/assets/images/IMG_0137.jpg)
 
-After hiking for another 30 minutes, we reached [Puyung beach](https://www.google.com/maps/place/Puyung+Beach/). A lonely beach backed by palm trees without any other people. Amazing!
+After hiking for another 30 minutes, we reached [Puyung beach](https://www.google.com/maps/place/Puyung+Beach/). A lonely beach backed by palm trees. Amazing!
 
 ![Lonely Puyung beach](/assets/images/IMG_0139.jpg)
 
@@ -71,7 +71,7 @@ We really liked Crystal bay. The next day, we came back to discover the sea life
 
 ## Meeting locals in the north of Lombok
 
-As there is no direct connection from Nusa Penida to [Lombok](https://www.google.com/maps/place/Lombok/), we took a boat early in the morning back to Bali to catch a speed boat from [Padang Bai](https://www.google.com/maps/place/Padangbai,+Manggis,+Karangasem+Regency,+Bali,+Indonesia/) to [Teluk Kode](https://www.google.com/maps/place/Teluk+Kode/). We spent our first two nights on Lombok 25 km further down south the harbor.
+As there is no direct connection from Nusa Penida to [Lombok](https://www.google.com/maps/place/Lombok/), we took a boat early in the morning back to Bali to catch a speed boat from [Padang Bai](https://www.google.com/maps/place/Padangbai,+Manggis,+Karangasem+Regency,+Bali,+Indonesia/) to [Teluk Kode](https://www.google.com/maps/place/Teluk+Kode/). 25 km further down south the harbor, we spent our first two nights on Lombok .
 
 In the area of [Senggigi](https://www.google.com/maps/place/Senggigi+Beach/) we enjoyed a breath taking sunset,
 
@@ -93,7 +93,7 @@ We spent the night at a nice lodge with an infinity pool offering a beautiful vi
 
 ![Pool with a beautiful view to the volcano](/assets/images/IMG_0222.jpg)
 
-My friend preferred to travel by taxi which turned out to be a great decision. Her driver, Artom, invited us to visit the place where he was born and raised. Off from the common tourist attractions, we drove about 30 km into the countryside in the north west of Lombok. As soon as we reached the village, we were surrounded by curious kids who just left the school: Who are these strangers and what are they doing in our village?
+My friend preferred to travel by taxi which turned out to be a great decision. Her driver, Artom, invited us to visit the place where he was born and raised. Off from the common tourist attractions, we drove about 30 km into the countryside in the north west of Lombok. As soon as we reached the village, we were surrounded by curious kids: Who are these strangers and what are they doing in our village?
 
 ![Surrounded by curious kids](/assets/images/IMG_0220.jpg)
 
@@ -111,7 +111,7 @@ After showing us his village, Artom drove is down south to [Kuta](https://www.go
 
 and went surfing in the bay of [Gerupuk](https://www.google.com/maps/place/Gerupuk+Surf+Cafe+%26+Restaurant/). The bay is a paradise for surfers. There are five spots in the bay that work on various tide, wind and swell combinations. Basically you can surf there almost anytime! :surfer:
 
-The only downside: these spots are far out in the bay and can only be reached by boat. Jiharu and his brother took us out to one of the spots called "Gerupuk Inside",
+The only downside: these spots are far out in the bay and can only be reached by boat. Jiharu and his brother brought us to one of the spots called "Gerupuk Inside",
 
 ![On our way to the surf spot in Jiharu's boat](/assets/images/IMG_0244.jpg)
 
@@ -129,8 +129,8 @@ Our last day in Bali was not very spectacular. We drove with our rental scooters
 
 By the time the weather allowed us to continue our trip, we had to return back to Canggu to grab our bags, eat dinner and catch our flight. At least we experienced an adventures scooter trip. :wink: We ended our last day in Bali with a delicious dinner and yummy smoothies at the [Shady Shack](https://www.google.com/maps/place/The+Shady+Shack/). It was time to go back "home"! :wave:
 
-In contrast to the cold weather in Berlin, the sun was shining when I came back to Madrid. Expect of a harmless flyer on the windshield, everything seemed fine.
+In contrast to the cold weather in Berlin, the sun was shining when I came back to Madrid. Except of a harmless flyer on the windshield, everything seemed fine.
 
 ![My van in Valdebernardo](/assets/images/IMG_0267.jpg)
 
-What a great trip! I'm so glad that I joined the others. I would have definitely missed out on a great experience. At the same time I'm happy to back "home". Van, sweet van! :minibus:
+What a great trip! I'm so glad that I joined the others. I would have definitely missed out on a great experience. At the same time I'm happy to be back "home". Van, sweet van! :minibus:
