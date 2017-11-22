@@ -105,7 +105,7 @@ What a great experience! After spending several nights in comfortable hotel beds
 
 ## Relaxing and surfing in the south of Lombok
 
-After showing us his village, Artam drove is down south to [Kuta](https://www.google.com/maps/place/Kuta,+Pujut,+Central+Lombok+Regency,+West+Nusa+Tenggara,+Indonesia/) where we spent our last days in Lombok. We relaxed on beautiful beaches like [Mandalika beach](https://www.google.com/maps/place/Mandalika+Beach/)
+After showing us his village, Artam drove us down south to [Kuta](https://www.google.com/maps/place/Kuta,+Pujut,+Central+Lombok+Regency,+West+Nusa+Tenggara,+Indonesia/), where we spent our last days in Lombok. We relaxed on beautiful beaches like [Mandalika beach](https://www.google.com/maps/place/Mandalika+Beach/)
 
 ![Mandalika beach](/assets/images/IMG_0230.jpg)
 
@@ -133,4 +133,4 @@ In contrast to the cold weather in Berlin, the sun was shining when I came back 
 
 ![My van in Valdebernardo](/assets/images/IMG_0267.jpg)
 
-What a great trip! I'm so glad that I joined the others. I would have definitely missed out on a great experience. At the same time I'm happy to be back "home". Van, sweet van! :minibus:
+What a great trip! I'm so glad that I joined the others. I definitely would have missed out on a great experience. At the same time, I'm happy to be back "home". Van, sweet van! :minibus:
