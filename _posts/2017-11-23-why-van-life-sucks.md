@@ -36,6 +36,6 @@ Currently, only a few people can or want to live nomadically. On my trip, I met 
 
 Before living in a van, I worked remotely from different places around the world and traveled by airplane. Back then, I experienced similar problems. Maybe these challenges are rather related to steady travels than van life? Admittedly, chances are high that you travel more often, when you live in a rolling "home". :wink:
 
-Right now, I totally enjoy traveling. There are still a lot of places that I want to visit. Who knows, maybe one day, I settle in a nice place and go on smaller trips once in awhile? Everything is possible! :crystal_ball:
+Right now, I totally enjoy traveling. There are still a lot of places that I want to visit. Who knows, maybe one day, I settle in a nice place and go on shorter trips once in awhile? Everything is possible! :crystal_ball:
 
 Do you live in a van? What are you struggling with?
