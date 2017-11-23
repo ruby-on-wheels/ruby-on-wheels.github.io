@@ -3,7 +3,7 @@ layout: post
 title:  Why van life sucks
 date:   2017-11-23
 header-img: assets/images/IMG_8599.JPG
-comments: false
+comments: true
 ---
 
 Most of the people living a "normal" life are concerned about the lack of comfort: What do I do when I have to go to the bathroom in the middle of the night? Where do I take a shower? Am I freezing in the winter? Where do I do my laundry? Is the van too small for me?
