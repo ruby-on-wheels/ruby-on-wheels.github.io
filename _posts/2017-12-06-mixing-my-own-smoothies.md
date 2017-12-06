@@ -12,7 +12,7 @@ In Indonesia, I fell in love with all these rich and fruity smoothies. So good. 
 
 ![Orange smoothie](/assets/images/IMG_0407.jpg)
 
-A light and fresh drink to start the day. Rich in Vitamin C:
+A light and fresh drink to start the day. Rich in vitamin C:
 
 - apple
 - carrots
@@ -55,7 +55,7 @@ A perfect drink in the afternoon to get refreshed:
 
 ![Green smoothie](/assets/images/IMG_0298.jpg)
 
-Definitely delicious but probably not that healthy. After enjoying the brown knockout you might want to take a little siesta and digest: :wink:
+Definitely delicious but probably not that healthy. After enjoying the brown knockout, you might want to take a little siesta and digest: :wink:
 
 - banana
 - dates
@@ -69,4 +69,4 @@ Definitely delicious but probably not that healthy. After enjoying the brown kno
 
 The list could be endless: Mango lassi, liquid muesli, a mix of vegetables, ... I've tried a lot and almost everything was really delicious.
 
-The blender was definitely a great investment! In case I will ever get tired of software development, I might start selling fresh and healthy smoothies to hungry surfers! Right at the beach! :sweat_smile:
+The blender was definitely a great investment! In case I will ever get tired of software development, I might start selling fresh and healthy smoothies to hungry surfers! Right at the beach! :stuck_out_tongue_closed_eyes:
