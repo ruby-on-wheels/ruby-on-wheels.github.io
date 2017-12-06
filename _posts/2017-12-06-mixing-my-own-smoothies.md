@@ -6,7 +6,7 @@ header-img: assets/images/IMG_0408.jpg
 comments: true
 ---
 
-In Indonesia, I fell in love with all these rich and fruity smoothies. So good. I couldn't get enough! When I came back to Spain, I immediately bought a powerful 800W blender to mix my own smoothies on the road. Since then, I've experimented with all kind of different ingredients. Here is a small selection of all these delicious and healthy drinks.
+While I was in [Indonesia]({% post_url 2017-11-23-why-van-life-sucks %}), I fell in love with all these rich and fruity smoothies. So good. I couldn't get enough! When I came back to Spain, I immediately bought a powerful 800W blender to mix my own smoothies on the road. Since then, I've experimented with all kind of different ingredients. Here is a small selection of all these delicious and healthy drinks.
 
 ## The orange sunrise
 
