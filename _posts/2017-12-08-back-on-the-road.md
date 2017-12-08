@@ -28,7 +28,7 @@ Early the next morning, I was having a hard time leaving my warm bed. But my rew
 
 ![Sun rise in the fog](/assets/images/IMG_0384.jpg)
 
-I drove a bit further to escape the fog and also had the benefit from of the heat from the engine. A few minutes later, I stopped at a rest area with facilities and a spacious parking area. A perfect spot to spend my working day. The fog was gone and the sun started heating up my van.
+I drove a bit further to escape the fog and also had the benefit of the heat from the engine. A few minutes later, I stopped at a rest area with facilities and a spacious parking area. A perfect spot to spend my working day. The fog was gone and the sun started heating up my van.
 
 ![Sun shine into the van](/assets/images/IMG_0399.jpg)
 
