@@ -3,7 +3,7 @@ layout: post
 title:  A bag of shit
 date:   2017-12-09
 header-img: assets/images/IMG_0510.jpg
-comments: false
+comments: true
 ---
 
 Weekend! :tada: Usually, I only work during the week. So I decided to spend my second morning at [Barragem do Divôr](https://www.google.com/maps/place/Albufeira+da+Barragem+do+Divôr/) hiking around the lake.  It obviously hasn't rained a lot during this summer in Portugal. The water was really low and huge parts of the lake bed were dried out.
