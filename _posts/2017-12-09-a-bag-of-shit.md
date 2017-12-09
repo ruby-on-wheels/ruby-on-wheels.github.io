@@ -36,7 +36,7 @@ with several old and ran down houses.
 
 ![Ran down house in Montemor-o-Novo](/assets/images/IMG_0493.jpg)
 
-The town didn't feel dead, yet. Maybe because of all these lively gardens with orange trees?
+The town didn't feel dead, though. Maybe because of all these lively gardens with orange trees?
 
 ![Orange tree in Montemor-o-Novo](/assets/images/IMG_0494.jpg)
 
