@@ -22,7 +22,7 @@ I drove further through [Alc√°cer do Sal](https://www.google.com/maps/place/Alc√
 
 ![Van parked under a highway bridge](/assets/images/IMG_0525.jpg)
 
-It looked like a good spot to hide from the heavy rain. The only downside was the Sado river about 300 meters away from me. Was there a chance of the dirt road getting flooded? The road was about two meters higher than the water level and there were a bunch of fields between me and the river. The fields were about one meter lower than my van. A lot of space that could be filled by the water before it would reach the road. The rain was only supposed to last for a couple of hours. A flooded dirt road seemed like a very low risk that I was willing to accept.
+It looked like a good spot to hide from the heavy rain. The only downside was the Sado river about 300 meters away from me. Was there a chance of the dirt road getting flooded? The road was about two meters higher than the water level and there were a bunch of fields between me and the river. The fields were about one meter lower than my van. A lot of space to fill before the road would get flooded. The rain was only supposed to last for a couple of hours. A flooded dirt road seemed like a very low risk that I was willing to accept.
 
 ## Meeting new friends
 
