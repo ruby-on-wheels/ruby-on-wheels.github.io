@@ -23,13 +23,13 @@ We spent three relaxed days together with our vans parked next to each other.
 
 ![Andre's and my van parked next to each other](/assets/images/IMG_0567.jpg)
 
-We were all working on our own projects. During our breaks, we sat together, talked and enjoyed the sun. German camper vans would show up once in awhile. I've never seen so many Germans in Portugal than in this parking lot. Most of them were customers of Andre and drove by to get their solar system installed, repaired or extended.
+We were all working on our own projects. During our breaks, we sat together, talked and enjoyed the sun. German camper vans would show up once in awhile. I've never seen as many Germans in Portugal as I did in this parking lot. Most of them were customers of Andre and drove by to get their solar system installed, repaired or extended.
 
 ## Meeting Ingrid and Olaf
 
 Andre and Tanja are well connected and some of their visitors were friends who just came by to say hello. :wave: Like Ingrid and Olaf, a retired couple who sold their house five years ago to enjoy their life. Their vehicle was way more fancy than my old clunker. As mentioned in a [previous]({% post_url 2017-12-09-a-bag-of-shit %}) post, I usually prefer the simple vans with "character". But when I got to know Ingrid and Olaf, I learnt that prejudices might not always be true. Not everyone who owns a fancy RV is boring and watches TV all day long (although a lot of them do! :satisfied:).
 
-They are double my age and enjoy a little more comfort. When they told me their stories I was impressed. They drove all the way down to Syria 25 years ago. Back then, there was no 3G, Google Maps and suchlike. They had to collect local coins and look for public phones to stay in touch with their friends and families. They didn't work in a mobile office and had video calls with their co-workers every week. They went on a real adventure. How did I dare thinking they were boring people? Compared to what they've already done, I'm the boring person! :wink:
+They are double my age and enjoy a little more comfort. When they told me their stories, I was impressed. They drove all the way down to Syria 25 years ago. There was no 3G, Google Maps and suchlike back then. They had to collect local coins and look for public phones to stay in touch with their friends and families. They didn't work in a mobile office and had video calls with their co-workers every week. They went on a real adventure. How did I dare thinking they were boring people? Compared to what they've already done, I'm the boring person! :wink:
 
 I really enjoyed the time with Tanja, Andre, Ingrid and Olaf. However, the parking lot wasn't really exciting any more when the weather turned bad.
 
