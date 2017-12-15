@@ -23,7 +23,7 @@ We spent three relaxed days together with our vans parked next to each other.
 
 ![Andre's and my van parked next to each other](/assets/images/IMG_0567.jpg)
 
-We were all working on our own projects. During our breaks we sat together, talked and enjoyed the sun. Once in awhile, German camper vans would show up. I've never seen so many Germans in Portugal than in this parking lot. Most of them were customers of Andre and drove by to get their solar system installed, repaired or extended.
+We were all working on our own projects. During our breaks, we sat together, talked and enjoyed the sun. Once in awhile, German camper vans would show up. I've never seen so many Germans in Portugal than in this parking lot. Most of them were customers of Andre and drove by to get their solar system installed, repaired or extended.
 
 ## Meeting Ingrid and Olaf
 
