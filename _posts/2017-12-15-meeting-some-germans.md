@@ -17,7 +17,7 @@ Since I've been on the road, Tanja and I haven't exchanged any further mails. I 
 
 Tanja and Andre met while they were both traveling. When they became a couple she "moved" into his "apartment": a big camper van based on a Mercedes-Benz Vario. Together with two dogs they live in Andre's Vario and use Tanja's smaller van for day trips into cities and so on.
 
-Andre is probably well-known in the German van scene. He runs a [blog](https://www.amumot.de/blog/) that offers a lot of useful information about solar systems for camper vans. His website was very helpful for me when I picked the components for [my solar system]({% post_url 2017-03-06-ordering-my-solar-system %}). He has been living in a camper vans for about six years and turned his experiences into a business. In his [online shop](https://www.amumot-shop.de/), he sells everything you need to operate your van with solar power.
+Andre is probably well-known in the German van scene. He runs a [blog](https://www.amumot.de/blog/) that offers a lot of useful information about solar systems for camper vans. His website was very helpful for me when I picked the components for [my solar system]({% post_url 2017-03-06-ordering-my-solar-system %}). He has been living in camper vans for about six years and turned his experiences into a business. In his [online shop](https://www.amumot-shop.de/), he sells everything you need to operate your van with solar power.
 
 We spent three relaxed days together with our vans parked next to each other.
 
