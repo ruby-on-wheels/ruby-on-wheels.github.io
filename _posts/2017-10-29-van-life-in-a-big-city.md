@@ -86,7 +86,7 @@ A beautiful sun set at [Embalse de Valmayor](https://www.google.com/maps/place/E
 
 ![Sun set view from behind the steering wheel](/assets/images/IMG_9743.JPG)
 
-Or the relaxing sound of the water floating through [Río Lozoya](https://www.google.it/maps/place/Río+Lozoya/), north of Madrid:
+Or the relaxing sound of the water floating through [Río Lozoya](https://www.google.com/maps/place/Río+Lozoya/), north of Madrid:
 
 ![Scenery at Río Lozoya](/assets/images/IMG_9866.jpg)
 
