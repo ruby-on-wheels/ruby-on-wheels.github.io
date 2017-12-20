@@ -6,7 +6,7 @@ header-img: assets/images/IMG_0748.jpg
 comments: true
 ---
 
-I will spend the Christmas season together with my family and friends in my [hometown](https://www.google.com/maps/place/88316+Isny+im+Allgäu,+Germany/). Instead of traveling 5,000 km by van, I booked a flight and will park my van at a friend's place near Faro. I had a free weekend and a couple of working days left to explore the Algarve on my way to Faro. Less than a week is definitely not enough time to enjoy this beautiful area in the south of Portugal. I decided to explore as many spots as possible that I could checkout in more detail after Christmas.
+I will be spending Christmas together with my family and friends in my [hometown](https://www.google.com/maps/place/88316+Isny+im+Allgäu,+Germany/). Instead of traveling 5,000 km by van, I booked a flight and will park my van at a friend's place near Faro. I had a free weekend and a couple of working days left to explore the Algarve on my way to Faro. Less than a week is definitely not enough time to enjoy this beautiful area in the south of Portugal. I decided to explore as many spots as possible that I could checkout in more detail after Christmas.
 
 ## Exploring the cliffed coast
 
@@ -48,7 +48,7 @@ I reached the very bottom of Portugal in the afternoon where I checked out the [
 
 ## Hanging out with hippies
 
-There were a lot of tourists in [Sagres](https://www.google.com/maps/place/Sagres,+Portugal/) and most of the parking lots were full of modern camper vans. I didn't really like the vibe. The area was good for surfing but not for spending the night in a relaxed atmosphere. I remembered people telling me about [Praia do Barranco](https://www.google.com/maps/place/Barranco+Beach/). A beach close to Sagres that was hard to reach and described as a hotspot for hippies and crazy people. That sounded way more interesting!
+There were a lot of tourists in [Sagres](https://www.google.com/maps/place/Sagres,+Portugal/) and most of the parking lots were full of modern camper vans. I didn't really like the vibe. The area was good for surfing but not for spending the night in a relaxed atmosphere. I remembered people telling me about [Praia do Barranco](https://www.google.com/maps/place/Barranco+Beach/). A beach close to Sagres that was hard to reach and it was described as a hotspot for hippies and crazy people. That sounded way more interesting!
 
 I picked up a hitchhiker on my way to the beach. He totally matched the description. A friendly dude from England who just came back from busking. While we were slowly driving down the broken and bumpy path to the beach, he told me that he lived in a cave. It was located on the top of a steep slope right behind the parking lot. A minimalistic natural house. Perfect!
 
