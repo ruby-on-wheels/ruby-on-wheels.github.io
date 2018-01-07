@@ -42,7 +42,7 @@ It was obvious that I needed another vehicle to pull my van out of that misery.
 
 I picked the best place and date for my adventure. :innocent: I was in the middle of nowhere and it was Epiphany, a federal holiday on which Spanish families get together and give presents to each other. There was no farmer around that could pull out my van with a tractor.
 
-I couldn't find any help locally. So, I called my insurance and ended up waiting the whole afternoon for a tow truck. The weather was nice at least and there were a lot of interesting birds and other animals to observe. Apparently, I got stuck near [Corredor Verde Dos Bahías](http://www.juntadeandalucia.es/medioambiente/corredorVerde/mostrarFicha.do?idCorredor=31). A hiking trail that is the home for many protected animals and plants. :bird: :rabbit2: :seedling:
+I couldn't find any help locally. So, I called my insurance and ended up waiting the whole afternoon for a tow truck. The weather was nice at least and there were a lot of interesting birds and other animals to observe. Apparently, I got stuck near [Corredor Verde Dos Bahías](http://www.juntadeandalucia.es/medioambiente/corredorVerde/mostrarFicha.do?idCorredor=31). A hiking trail where you can find various protected animals and plants. :bird: :rabbit2: :seedling:
 
 ## Bringing the van back on the road
 
