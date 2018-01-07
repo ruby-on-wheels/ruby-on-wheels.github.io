@@ -16,6 +16,8 @@ I drove a little into the mainland behind a mountain. I found shelter from the s
 
 ![Church in Cádiz](/assets/images/IMG_0876.jpg)
 
+![Huge tree in Cádiz](/assets/images/IMG_0878.jpg)
+
 ![Orange trees in Cádiz](/assets/images/IMG_0924.jpg)
 
 ## A challenging way back to the coast
