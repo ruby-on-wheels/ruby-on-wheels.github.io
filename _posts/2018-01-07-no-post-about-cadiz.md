@@ -22,7 +22,7 @@ I drove a little into the mainland behind a mountain. I found shelter from the s
 
 ## A challenging way back to the coast
 
-The scenery on my way back to the coast was really nice. A lot of green plants, mountains and some old farms. However, the further I drove along the road, the worse it got. I took a picture of the road while it was still easy to drive
+The scenery on my way back to the coast was really nice. A lot of green plants, mountains and some old farms. However, the further I drove along the road, the worse it got. I took a picture of the road while it was still easy to drive:
 
 ![Road with potholes](/assets/images/IMG_0961.jpg)
 
