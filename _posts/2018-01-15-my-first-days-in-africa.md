@@ -52,7 +52,7 @@ Instead of going for another off-road adventure, I stayed on paved roads and che
 
 ![Boats in the laguna](/assets/images/IMG_1029.jpg)
 
-While strolling around Moulay Bousselham, I also learnt my first language lessons: "Marhabaan" means "hello" and "shukran" means "thanks". I don't know how to pronounce "قف", but I know that it means "stop". :laughing:
+While strolling around Moulay Bousselham, I learned my first language lessons: "Marhabaan" means "hello" and "shukran" means "thanks". I don't know how to pronounce "قف", but I know that it means "stop". :laughing:
 
 ![Stop sign in Moulay Bousselham](/assets/images/IMG_1035.jpg)
 
