@@ -16,7 +16,7 @@ Some of the vehicles parked next to beach told a story about their owners: They 
 
 ![Off-road truck](/assets/images/IMG_1012.jpg)
 
-Inspired by stories from other van dwellers and the chance to experience temperatures above 20 degrees Celsius in January, I also wanted to go to the other continent!
+Inspired by stories from other vandwellers and the chance to experience temperatures above 20 degrees Celsius in January, I also wanted to go to the other continent!
 
 ## Leaving Europe
 
@@ -36,7 +36,7 @@ The liability insurance for my van unfortunately doesn't cover Morocco. So, I ha
 
 While I was unsuccessfully trying to get some money out of the ATM at the harbor, a local guy approached me and offered help. He spoke English pretty well. Useful! We parked my van in the harbor where "his friends" watched it. His "befriended" taxi driver drove us around the city. We stopped at a bank where I could finally get some cash. Next, we drove to the [office](https://www.google.com/maps/place/PANASSUR+-+Panafricaine+d'assurances/) of the same [company](http://www.panassur.ma/) that offered the expensive insurance at the harbor. At the office my "friend" translated everything. Et voilà, I had an insurance for my van for 650 MAD a month. We also got a SIM card from [Maroc Telecom](https://www.iam.ma) on the way back to the harbor. :+1:
 
-I had everything I needed when we came back to my van: cash, insurance and a SIM card. Of course my "friend" wanted to get some money for the service he and his "friends" provided. I'm very sure that I payed way too much for the cab ride. But when I break it down, I ended up paying about 800 MAD a month for the insurance which still seems ok. The guy was friendly and really helpful. Who cares. I was happy. Next time, I'll cycle into the city to the office and get the insurance for 650 MAD. :wink:
+I had everything I needed when we came back to my van: cash, insurance and a SIM card. Of course my "friend" wanted to get some money for the service he and his "friends" provided. I'm very sure that I paid way too much for the cab ride. But when I break it down, I ended up paying about 800 MAD a month for the insurance which still seems ok. The guy was friendly and really helpful. Who cares. I was happy. Next time, I'll cycle into the city to the office and get the insurance for 650 MAD. :wink:
 
 ## Leaving Tangier
 
@@ -72,7 +72,7 @@ I also marveled at the loading techniques of the Moroccan people. Some trucks we
 
 ![Loaded trucks](/assets/images/IMG_1047.jpg)
 
-Others transported a fridge and bicycles with out any rack on the roof of their car. Their roof seemed about to  collapse under all the weight. :sweat_smile:
+Others transported a fridge and bicycles without any rack on the roof of their car. Their roof seemed about to  collapse under all the weight. :sweat_smile:
 
 I had a very welcoming impression of the people I got in touch with at rest stops. They usually greeted me with "Welcome! How do you like Morocco?" and were always up for some small talk. Except for the rainy weather, I really liked it in Morocco so far. :+1:
 
