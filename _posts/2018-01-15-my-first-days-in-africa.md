@@ -10,7 +10,7 @@ I spend a very relaxed work week at [Playa de dos Lances](https://www.google.com
 
 ![View to Africa](/assets/images/IMG_0993.jpg)
 
-Some of the vehicles parked next to beach told a story about their owners: They were on their way into the desert on the other side of the ocean. Awesome! :sunglasses:
+Some of the vehicles parked next to the beach told a story about their owners: They were on their way into the desert on the other side of the ocean. Awesome! :sunglasses:
 
 ![Off-road truck](/assets/images/IMG_0992.jpg)
 
