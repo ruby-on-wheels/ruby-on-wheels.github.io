@@ -26,7 +26,7 @@ I was super excited when I woke up on Saturday morning. I drove down to the harb
 
 ![Arriving Ferry](/assets/images/IMG_1018.jpg)
 
-At 11am we left the harbor. There wasn't much time for enjoying the ride after getting my passport checked and stamped on the ferry. The high speed ride from Tarifa to Tangier lasted 35 minutes.
+At 11am we left the harbor. There wasn't much time left after getting my passport checked and stamped on the ferry. The high speed ride from Tarifa to Tangier lasted 35 minutes.
 
 ![Ferry ride to Tarifa](/assets/images/IMG_1022.jpg)
 
