@@ -58,7 +58,7 @@ While strolling around Moulay Bousselham, I also learnt my first language lesson
 
 ## Escaping the rain
 
-The rain calmed down over night, but in the morning gray clouds where approaching the bay again. The weather forecast for the north of Morocco didn't look great. In the hope of better weather, I decide to spend the Sunday driving down south as far as possible. I drove down highway A1 with an average speed of 80km/h. Relaxed cruising speed. :sunglasses:
+The rain calmed down over night, but in the morning gray clouds were approaching the bay again. The weather forecast for the north of Morocco didn't look great. In the hope of better weather, I decide to spend the Sunday driving south as far as possible. I drove down highway A1 with an average speed of 80km/h. Relaxed cruising speed. :sunglasses:
 
 I passed [Rabat](https://www.google.com/maps/place/Rabat,+Morocco/), Morocco's capital and [Casablanca](https://www.google.com/maps/place/Casablanca,+Morocco/). I could see the blue sky near [El Jadida](https://www.google.com/maps/place/El+Jadida,+Morocco/) again. The fields looked very green. The farmers were probably happy about all the rain.
 
