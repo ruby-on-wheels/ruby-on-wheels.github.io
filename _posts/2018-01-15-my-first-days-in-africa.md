@@ -74,7 +74,7 @@ I also marveled at the loading techniques of the Moroccan people. Some trucks we
 
 Others transported a fridge and bicycles without any rack on the roof of their car. Their roof seemed about to  collapse under all the weight. :sweat_smile:
 
-I had a very welcoming impression of the people I got in touch with at rest stops. They usually greeted me with "Welcome! How do you like Morocco?" and were always up for some small talk. Except for the rainy weather, I really liked it in Morocco so far. :+1:
+I had a very welcoming impression of the people I got in touch with at rest stops. They usually greeted me with "Welcome! How do you like Morocco?" and were always up for some small talk. Except for the rainy weather, I really liked Morocco so far. :+1:
 
 ## Ending my weekend in Oualidia
 
