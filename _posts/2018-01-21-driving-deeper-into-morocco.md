@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1133.jpg
 comments: true
 ---
 
-I started my first workweek in Morocco on a [campsite](https://www.google.com/maps/place/Laguna+Park/) in [Oualidia](https://www.google.com/maps/place/Oualidia,+Morocco/). The new SIM-card from [Maroc Telecom](https://www.iam.ma) worked like a charm. The connection was fast and reliable all day. Perfect! Knowing that my mobile office was fully operational in Morocco, too, I felt more relaxed and could enjoy the sunset after my first unsuccessful workday in Africa.
+I started my first workweek in Morocco on a [campsite](https://www.google.com/maps/place/Laguna+Park/) in [Oualidia](https://www.google.com/maps/place/Oualidia,+Morocco/). The new SIM-card from [Maroc Telecom](https://www.iam.ma) worked like a charm. The connection was fast and reliable all day. Perfect! Knowing that my mobile office was fully operational in Morocco, too, I felt more relaxed and could enjoy the sunset after my first successful workday in Africa.
 
 ![Sunset in Oualidia](/assets/images/IMG_1071.jpg)
 
