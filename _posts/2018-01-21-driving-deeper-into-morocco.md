@@ -3,28 +3,28 @@ layout: post
 title:  Diving deeper into Morocco
 date:   2018-01-21
 header-img: assets/images/IMG_1133.jpg
-comments: false
+comments: true
 ---
 
-I started my first workweek in Morocco on a [campsite](https://www.google.com/maps/place/Laguna+Park/) in [Oualidia](https://www.google.com/maps/place/Oualidia,+Morocco/). The new SIM-card from [Maroc Telecom](https://www.iam.ma) worked like a charm. The connection was fast and reliable all day. Perfect! Knowing that my mobile office was fully operational in Morocco, too, I felt more relaxed and could fully enjoy the sunset after my first workday in Africa.
+I started my first workweek in Morocco on a [campsite](https://www.google.com/maps/place/Laguna+Park/) in [Oualidia](https://www.google.com/maps/place/Oualidia,+Morocco/). The new SIM-card from [Maroc Telecom](https://www.iam.ma) worked like a charm. The connection was fast and reliable all day. Perfect! Knowing that my mobile office was fully operational in Morocco, too, I felt more relaxed and could enjoy the sunset after my first unsuccessful workday in Africa.
 
 ![Sunset in Oualidia](/assets/images/IMG_1071.jpg)
 
 ## Heading further down south
 
-Looking for warmer temperatures, I followed the coastal road headed south. I found a quiet spot to work on a side road near [Plage Lalla Fatna](https://www.google.com/maps/place/Plage+Lalla+Fatna/).
+I followed the coastal road headed towards the warmer south. I found a quiet spot to work on a side road near [Plage Lalla Fatna](https://www.google.com/maps/place/Plage+Lalla+Fatna/).
 
 ![Van parked on a side road near Plage Lalla Fatna](/assets/images/IMG_1082.jpg)
 
-I had a fantastic view out of my mobile office.
+My mobile office offered a fantastic view over the beach.
 
 ![View to Plage Lalla Fatna](/assets/images/IMG_1084.jpg)
 
-Even in this remote area, I could enjoy a perfect connection.
+Even the internet connection in this remote area was perfect.
 
 ![Speedtest in Morocco](/assets/images/Speedtest_by_Ookla_-_The_Global_Broadband_Speed_Test.jpg)
 
-David and Maria joined me in the evening. They are also from Berlin and travel for one year in their yellow Mercedes-Benz 100D van. We drove down to the beach where we parked our vans next to each other.
+David and Maria joined me in the evening. I met them the day before in Oualidia. They are also from Berlin and travel for one year in their yellow Mercedes-Benz 100D van. We drove down to the beach where we parked our vans next to each other.
 
 ![Our vans parked in front of the beach](/assets/images/IMG_1085.jpg)
 
@@ -40,7 +40,7 @@ The way to Marrakech was visually boring and exhausting to drive. It was very fo
 
 ![Our vans parked in front of the beach](/assets/images/IMG_1095.jpg)
 
-I had to pull my van off the road two times to avoid frontally crashing into trucks that passed other vehicles in the fog. :anguished: I made to Marrakech without further issues where I reunited with David and Maria on a [campsite](https://www.google.com/maps/place/31°42'26.4"N+7°59'20.1"W/).
+I had to pull my van off the road two times to avoid frontally crashing into trucks that passed other vehicles in the fog. :anguished: Fortunately, I made it to Marrakech without further issues where I reunited with David and Maria on a [campsite](https://www.google.com/maps/place/31°42'26.4"N+7°59'20.1"W/).
 
 ## Diving into the medina of Marrakech
 
@@ -72,11 +72,11 @@ I tried all kind of different tajines, a dish that is cooked and severed in an e
 
 ![Lamb tajine](/assets/images/IMG_1100.jpg)
 
-It was very interesting to see that all restaurants served food that was made out of ingredients that you could get on the markets around the corners. Unpacked, fresh local food. Delicious!
+It was very interesting to see all restaurants serving food that was made out of ingredients available on the markets around the corner. Unpacked, fresh local food. Delicious!
 
 ## Driving back to the coast
 
-Marrakech was awesome. However, all the turmoil can also be a little exhausting. It was time to drive back to the coast and continue my trip down south. I left Marrakech on Sunday morning headed to Essaouira. This time there was no fog. Just the sun, the blue sky and the dessert.
+Marrakech was awesome. However, all the turmoil can be a little exhausting. It was time to drive back to the coast and continue my trip down south. I left Marrakech on Sunday morning headed to Essaouira. There was no fog this time. Just the sun, the blue sky and the dessert.
 
 ![Entrance into the medina of Marrakech](/assets/images/IMG_1126.jpg)
 
@@ -88,7 +88,7 @@ In the afternoon, I arrived at [Essaouira](https://www.google.com/maps/place/Ess
 
 ![Canons in Essaouira](/assets/images/IMG_1128.jpg)
 
-I met a dutch couple in the parking lot with a beautiful Mercedes-Benz 609D. :heart: While we were hanging out and talking, a guy came by to park his special "vehicles" next to our vans.
+I met a dutch couple in the parking lot with a beautiful Mercedes-Benz 609D. While we were hanging out and talking, a guy came by to park his special "vehicles" next to our vans.
 
 ![Camel in the parking lot](/assets/images/IMG_1133.jpg)
 
