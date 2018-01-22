@@ -80,7 +80,7 @@ Marrakech was awesome. However, all the turmoil can be a little exhausting. It w
 
 ![Entrance into the medina of Marrakech](/assets/images/IMG_1126.jpg)
 
-Compared to the rainy beginning on my first weekend, this felt and looked more like Africa. :sunny: :sunglasses:
+Compared to the rainy beginning on my [first weekend]({% post_url 2018-01-15-my-first-days-in-africa %}), this felt and looked more like Africa. :sunny: :sunglasses:
 
 In the afternoon, I arrived at [Essaouira](https://www.google.com/maps/place/Essaouira,+Morocco/) and explored the beautiful harbor city with my bicycle.
 
