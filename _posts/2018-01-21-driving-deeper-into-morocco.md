@@ -68,11 +68,11 @@ The High Atlas mountain range was clearly visible in the back. Some people were 
 
 ## Enjoying the Moroccan food
 
-I tried all kind of different tajines, a dish that is cooked and severed in an earthenware pot. My favorite was a lamb tajine cooked with plums, raisins and other delicious ingredients.
+I tried all kind of different tajines, a dish that is cooked and served in an earthenware pot. My favorite was a lamb tajine cooked with plums, raisins and other delicious ingredients.
 
 ![Lamb tajine](/assets/images/IMG_1100.jpg)
 
-It was very interesting to see all restaurants serving food that was made out of ingredients available on the markets around the corner. Unpacked, fresh local food. Delicious!
+It was very interesting to see all restaurants serving food that was made out of ingredients available in the markets around the corner. Unpacked, fresh local food. Delicious!
 
 ## Driving back to the coast
 
