@@ -30,7 +30,7 @@ I quickly forgot about all the chaos in the cities.
 
 ## Cooking fish on wooden fire
 
-A fisherman knocked on my door some afternoon. He offered freshly caught fish for 40 Dirham (4 EUR) per piece. I ended up buying two pieces for 35 Dirham. The only challenge: I've never gutted fish before. Luckily Brahim showed up in the evening. A really nice dude who lives in the area and used to work in a restaurant were he cooked traditional Moroccan food. He offered his help and showed Timo, Ivelina and me how he prepares the fish.
+A fisherman knocked on my door some afternoon. He offered freshly caught fish for 40 Dirham (4 EUR) per piece. I ended up buying two pieces for 35 Dirham. The only challenge: I've never gutted fish before. Luckily Brahim showed up in the evening. A really nice dude who lives in the area and used to work in a restaurant where he cooked traditional Moroccan food. He offered his help and showed Timo, Ivelina and me how he prepares the fish.
 
 ![Brahim preparing the fish](/assets/images/IMG_1150.jpg)
 
