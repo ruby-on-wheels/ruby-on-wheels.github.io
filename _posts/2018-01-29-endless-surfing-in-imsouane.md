@@ -46,11 +46,11 @@ On my way back, the setting sun provided a breath taking, colorful view over Ims
 
 ## Riding endless waves
 
-The wind calmed down on Sunday. I could finally go surfing. The bay in front of the harbor created veeeery long waves that were relatively easy to ride. It was possible to surf more than 600 meters when catching the right wave. I admittedly didn't make it all the way through. But I saw a local boy who actually nade it. Awesome! :surfer:
+The wind calmed down on Sunday. I could finally go surfing. The bay in front of the harbor created veeeery long waves that were relatively easy to ride. It was possible to surf more than 600 meters when catching the right wave. I admittedly didn't make it all the way through. But I saw a local boy who actually made it. Awesome! :surfer:
 
 ![Perfect surfing conditions in Imsouane](/assets/images/IMG_1254.jpg)
 
-Once I reached the beach, I could simply walk along the coast to the harbor. Protected by the wall of the harbor, it was very easy to get back out into the waves. The blue arrow in the screenshot of Google Maps  bewlow indicates the relaxed walk from the beach back into the waves. The white ruler measures a distance of 640 meters that can potentially be surfed. Almost endless! :wink:
+Once I reached the beach, I could simply walk along the coast to the harbor. Protected by the wall of the harbor, it was very easy to get back out into the waves. The blue arrow in the screenshot of Google Maps indicates the relaxed walk from the beach back into the waves. The white ruler measures a distance of 640 meters that can potentially be surfed. Almost endless! :wink:
 
 ![Perfect surfing conditions in Imsouane](/assets/images/Imsouane_Google_Maps.jpg)
 
