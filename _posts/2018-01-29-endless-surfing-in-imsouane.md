@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1254.jpg
 comments: true
 ---
 
-I left the peaceful [spot behind the dunes](({% post_url 2018-01-26-working-behind-the-dunes %})) on Saturday morning and followed a little coastal road. The tiny road invited me to gently cruise along the coast with a relaxed speed of 60km/h. :sunglasses:
+I left the peaceful [spot behind the dunes]({% post_url 2018-01-26-working-behind-the-dunes %}) on Saturday morning and followed a little coastal road. The tiny road invited me to gently cruise along the coast with a relaxed speed of 60km/h. :sunglasses:
 
 ![Coastal road south of Sidi Kaouki](/assets/images/IMG_1201.jpg)
 
