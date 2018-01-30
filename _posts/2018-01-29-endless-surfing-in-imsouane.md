@@ -22,7 +22,7 @@ I passed [Tilit](https://www.google.com/maps/place/Tilit,+Morocco/) when I follo
 
 ![Boats in the habor of Imsouane](/assets/images/IMG_1208.jpg)
 
-I was told that the village has grown a lot since the last ten years. Some old houses at the beach front looked like they might have been built before the surf shops and hostels opened up in the back of the harbor.
+I was told that the village has grown a lot in the last ten years. Some old houses at the beach front looked like they might have been built before the surf shops and hostels opened up in the back of the harbor.
 
 ![Old houses in Imsouane](/assets/images/IMG_1213.jpg)
 
