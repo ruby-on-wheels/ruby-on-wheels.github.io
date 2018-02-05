@@ -10,7 +10,7 @@ I left Imsouane on a cloudy morning last week. I had a final look at the little 
 
 ![View from the cliffs near Imsouane](/assets/images/IMG_1266.jpg)
 
-My short drive ended a few kilometers in front of [Aghroude](https://www.google.com/maps/place/Aghroude,+Morocco/). The area looked worth to explore. I spotted three old Mercedes vans behind some argan trees when following a little path. Their owners were all German. Stefan came here with his red 407D, Robert (number 1) with his purple 208D and Robert (number 2) with his white 310D. Great spot, cool vans and cool owners! I decided to complete the gang with my 209D.
+My short drive ended a few kilometers in front of [Aghroude](https://www.google.com/maps/place/Aghroude,+Morocco/). The area looked worth exploring. I spotted three old Mercedes vans behind some argan trees when following a little path. Their owners were all German. Stefan came here with his red 407D, Robert (number 1) with his purple 208D and Robert (number 2) with his white 310D. Great spot, cool vans and cool owners! I decided to complete the gang with my 209D.
 
 ![Four Mercedes vans on the cliffs](/assets/images/IMG_1460.jpg)
 
