@@ -14,7 +14,7 @@ My short drive ended a few kilometers in front of [Aghroude](https://www.google.
 
 ![Four Mercedes vans on the cliffs](/assets/images/IMG_1460.jpg)
 
-Robert (number 2) is also a developer who works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living off their savings. Stefan also runs a [blog](http://draudi.de/) where he wrote about his van trips through the Middle East, Northern and Central America.
+Robert (number 2) is a developer, too, and works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living off their savings. Stefan also runs a [blog](http://draudi.de/) where he wrote about his van trips through the Middle East, Northern and Central America.
 
 ## Stefan's van
 
@@ -28,7 +28,7 @@ I spent most of my breaks with the others. We often cooked together. Like this h
 
 ![Huge fish for lunch](/assets/images/IMG_1447.jpg)
 
-Delicious and not too heavy. A perfect lunch!
+Delicious and not too heavy. A perfect meal for lunch!
 
 ![Fish in the pan](/assets/images/IMG_1451.jpg)
 
@@ -40,7 +40,7 @@ I usually left my office before the sunset and joined the others at the campfire
 
 ![Campfire](/assets/images/IMG_1470.jpg)
 
-The perfect place to relax and have a conversation while waiting for our dinner to be ready.
+The place was perfect to relax and have a conversation while waiting for our dinner to be ready.
 
 ![Tajine in the campfire](/assets/images/IMG_1273.jpg)
 
@@ -52,7 +52,7 @@ We used the weekend to clean and maintain our vans. I aired and sweep my van unt
 
 ![Van from inside](/assets/images/IMG_1478.jpg)
 
-Robert fixed a broken bench in his van while I built another frame to fix a second gas bottle. I ran out of gas the other day and bought a "new" bottle of cheap Moroccan gas. I kept the "old" bottle because I was not quite sure if I'd be able to exchange the "new" bottle in Germany again. :wink:
+Robert fixed a broken bench in his van while I built another frame to fix a second gas bottle. I ran out of gas the other day and bought a "new" bottle filled with cheap Moroccan gas. I kept the "old" bottle because I was not quite sure if I'd be able to exchange the "new" bottle in Germany again. :wink:
 
 ![Gas bottles](/assets/images/IMG_1256.jpg)
 
