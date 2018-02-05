@@ -14,7 +14,7 @@ My short drive ended a few kilometers in front of [Aghroude](https://www.google.
 
 ![Four Mercedes vans on the cliffs](/assets/images/IMG_1460.jpg)
 
-Robert (number 2) is also a developer who works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living off their savings.
+Robert (number 2) is also a developer who works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living off their savings. Stefan also runs a [blog](http://draudi.de/) where he wrote about his van trips through the Middle East, Northern and Central America.
 
 ## Stefan's van
 
