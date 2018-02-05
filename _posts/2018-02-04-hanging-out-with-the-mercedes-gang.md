@@ -36,7 +36,7 @@ While the others were relaxing and dealing with their own things, I worked from 
 
 ![Office with view over the ocean](/assets/images/IMG_1457.jpg)
 
-I usually stopped my work around sunset and left my van to join the others at the campfire.
+I usually left my office before the sunset and joined the others at the campfire.
 
 ![Campfire](/assets/images/IMG_1470.jpg)
 
@@ -64,4 +64,4 @@ We realized that the air supply was blocked which might have caused a vacuum pre
 
 ![Test drive during the sunset](/assets/images/IMG_1466.jpg)
 
-I really enjoyed the ride in Stefan's 407D. It's definitely a different experience than driving in its littler brother. Who knows, maybe one day, I'll move from the T1 into the T2 model? :wink:
+I really enjoyed the ride in Stefan's 407D. It's definitely a different experience than driving in its little brother. Who knows, maybe one day, I'll move from the T1 into the T2 model? :wink:
