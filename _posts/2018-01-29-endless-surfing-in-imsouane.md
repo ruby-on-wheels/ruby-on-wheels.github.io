@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Endless Surfing in Imsouane
+title:  Endless surfing in Imsouane
 date:   2018-01-29
 header-img: assets/images/IMG_1254.jpg
 comments: true
