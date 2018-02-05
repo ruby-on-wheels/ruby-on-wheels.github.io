@@ -14,7 +14,7 @@ My short drive ended a few kilometers in front of [Aghroude](https://www.google.
 
 ![Four Mercedes vans on the cliffs](/assets/images/IMG_1460.jpg)
 
-Robert (number 2) is also a developer who works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living on their savings.
+Robert (number 2) is also a developer who works on his own software products. Robert (number 1) and Stefan are currently full-time travelers living off their savings.
 
 ## Stefan's van
 
@@ -22,7 +22,7 @@ The 407D caught my eyes immediately. Stefan proudly presented his van from the o
 
 ![Stefan in his 407D](/assets/images/IMG_1439.jpg)
 
-## A typical weekday
+## A typical weekday in our community
 
 I spent most of my breaks with the others. We often cooked together. Like this huge fish that we had for lunch.
 
@@ -32,7 +32,7 @@ Delicious and not too heavy. A perfect lunch!
 
 ![Fish in the pan](/assets/images/IMG_1451.jpg)
 
-While the others were dealing with their own things, I worked from my office that provided a nice view over the ocean.
+While the others were relaxing and dealing with their own things, I worked from my office that offered a nice view over the ocean.
 
 ![Office with view over the ocean](/assets/images/IMG_1457.jpg)
 
@@ -40,7 +40,7 @@ I usually stopped my work around sunset and left my van to join the others at th
 
 ![Campfire](/assets/images/IMG_1470.jpg)
 
-The perfect place to have a conversation while waiting for our dinner to get ready.
+The perfect place to relax and have a conversation while waiting for our dinner to be ready.
 
 ![Tajine in the campfire](/assets/images/IMG_1273.jpg)
 
