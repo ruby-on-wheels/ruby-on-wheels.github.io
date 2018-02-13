@@ -42,7 +42,7 @@ I was at a lonely beach in the north of Spain when I discovered the hole. I didn
 
 ![Treated rust](/assets/images/IMG_9278.jpg)
 
-I fortunately had a can of [Fluid Film](https://www.amazon.de/gp/product/B002RAZX9E?tag=mumothhoofba-21) on board that I sprayed over the treated spots to prevent further corrosion. To protect everything from water, I wrapped everything into plastic using duck tape.
+I fortunately had a can of [Fluid Film](https://www.amazon.de/gp/product/B002RAZX9E?tag=mumothhoofba-21) on board that I sprayed over the treated spots to prevent further corrosion. I wrapped everything into plastic using duck tape to keep rain water outside.
 
 ![Plastic covering the hole](/assets/images/IMG_9633.jpg)
 
