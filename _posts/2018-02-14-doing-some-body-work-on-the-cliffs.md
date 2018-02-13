@@ -14,7 +14,7 @@ Once in awhile, we drove to the next [village](https://www.google.com/maps/place
 
 ![Canned sardines](/assets/images/IMG_1497.jpg)
 
-Globalization at its best: They probably caught the fish somewhere in Asia, shipped it around the globe to label it in Germany and finally sold it to Morocco? :thinking: We preferred buying fresh fish from local fishermen. Like this big guy.
+Globalization at its best: They probably caught the fish somewhere in Asia, shipped it around the globe to label it in Germany and finally sold it in Morocco? :thinking: We preferred buying fresh fish from local fishermen. Like this big guy.
 
 ![Fresh fish from the sea](/assets/images/IMG_1529.jpg)
 
