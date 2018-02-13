@@ -28,7 +28,7 @@ Delicious! There was no need for canned fish from Germany. :wink:
 
 I realized that the insulation below the floor mat was wet after driving in the rain last summer. I tracked the leak back to the left side of the footwell. There was a lot of rust behind the carpet.
 
-![Rust behind the carpet](/assets/images/IMG_9153.jpg)
+![Rust behind the carpet](/assets/images/IMG_9153.JPG)
 
 I removed the windshield washer reservoir in the engine compartment to check the damage from the other side. It looked even worse. The huge plastic tank slowly rubbed the paint off the body over the years.
 
