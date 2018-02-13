@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1460.jpg
 comments: true
 ---
 
-I left Imsouane on a cloudy morning last week. I had a final look at the little fisher and surfer village from the cliffs before I drove further down south.
+I left [Imsouane]({% post_url 2018-01-29-endless-surfing-in-imsouane %}) on a cloudy morning last week. I had a final look at the little fisher and surfer village from the cliffs before I drove further down south.
 
 ![View from the cliffs near Imsouane](/assets/images/IMG_1266.jpg)
 
