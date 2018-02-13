@@ -30,7 +30,7 @@ I realized that the insulation below the floor mat was wet after driving in the 
 
 ![Rust behind the carpet](/assets/images/IMG_9153.JPG)
 
-I removed the windshield washer reservoir in the engine compartment to check the damage from the other side. It looked even worse. The huge plastic tank slowly rubbed the paint off the body over the years.
+I removed the windshield washer reservoir in the engine compartment to check the damage from the other side. It looked even worse. The huge plastic tank had slowly rubbed the paint off the body over the years.
 
 ![Rust behind the windshield washer reservoir](/assets/images/IMG_9266.jpg)
 
