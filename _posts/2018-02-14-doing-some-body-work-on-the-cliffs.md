@@ -96,6 +96,6 @@ The result looked leakproof and way more solid than the previous solution.
 
 ![The result of our little repairing session](/assets/images/IMG_1546.jpg)
 
-Given that we fixed the hole in the open with materials that remained from previous repair sessions, I'm very happy with the result. For the next year(s) my van will hopefully stay dry and warm inside. :wink:
+Given that we fixed the hole in the open with materials that remained from previous repair sessions, I'm very happy with the result. My van will hopefully stay dry and warm inside during the next year(s). :wink:
 
 Thanks for all your support, Stefan! :muscle:
