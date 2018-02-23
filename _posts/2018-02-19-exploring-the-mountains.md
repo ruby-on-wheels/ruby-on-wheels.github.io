@@ -34,7 +34,7 @@ Awesome! I found a new Mercedes gang. Although my camper van didn't really fit i
 
 ![Mercedes crew near the painted rocks](/assets/images/IMG_1658.jpg)
 
-The area around us was totally quiet. No buildings, no cars, no waves. I woke up well rested on Sunday morning. The rising sun warmed up our little camp while I enjoyed my breakfast.
+The area around us was totally quiet. No buildings, no cars, no waves. I woke up well rested on Sunday morning when the rising sun warmed up our little camp.
 
 ![Sunrise near the painted rocks](/assets/images/IMG_1640.jpg)
 
