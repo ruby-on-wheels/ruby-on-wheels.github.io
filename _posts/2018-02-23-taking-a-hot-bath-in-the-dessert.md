@@ -3,7 +3,7 @@ layout: post
 title:  Taking a hot bath in the dessert
 date:   2018-02-23
 header-img: assets/images/IMG_1666.jpg
-comments: false
+comments: true
 ---
 
 [Hossine's village]({% post_url 2018-02-19-exploring-the-mountains %}) was nice but I was looking for something more remote to spend the work week. The hot spring near [Fask](https://www.google.com/maps/place/Fask,+Morocco/) in the middle of the desert sounded like the perfect place to work in a relaxed environment. The ride off the road was quite rough and took about 30 minutes.
@@ -14,7 +14,7 @@ After crossing the broken bridge, I re-united with [Stefan and Robert]({% post_u
 
 ![Hot spring near Fask](/assets/images/IMG_1666.jpg)
 
-All the effort was worth it! A company drilled for oil a couple of years ago. However, they didn't find any oil. They hit on hot water instead which has constantly bubbled out of the ground since then. Some people built a little pool around the spring where you can take a hot bath for free. Amazing!
+All the effort was worth it! A company drilled for oil a couple of years ago. They didn't find any oil, though. They hit on hot water which has constantly bubbled out of the ground since then. Some people built a little pool around the spring in which you can take a hot bath for free. Amazing!
 
 ![People taking a bath in the hot wather](/assets/images/IMG_1682.jpg)
 
