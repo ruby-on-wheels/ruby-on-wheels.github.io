@@ -26,7 +26,7 @@ I spotted a beautiful old firetruck next to a 4x4 Mercedes T1 while exploring th
 
 ![Old firetruck](/assets/images/IMG_1623.jpg)
 
-Fritz and Jule from Germany came here with their Mercedes 711 truck built in 1966. They traveled together with Dominic and Debbi from Switzerland. Dominic was replacing the rear wheel bearing of their 4x4 310D when I came to meet the group.
+Fritz and Jule from Germany came here with their Mercedes 711 truck built in 1966. They traveled together with [Dominic and Debbi](http://halloabenteuer.com/) from Switzerland. Dominic was replacing the rear wheel bearing of their 4x4 310D when I came to meet the group.
 
 ![Dominic repairing his 310D](/assets/images/IMG_1624.jpg)
 
