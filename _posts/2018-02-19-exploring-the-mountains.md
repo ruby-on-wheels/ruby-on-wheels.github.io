@@ -54,7 +54,7 @@ The downhill ride to Tafraoute was quite technical. A lot of big rocks, not as f
 
 I met Hossine when I was about to leave our little Mercedes camp on Monday. He lives in [Abaynou](https://www.google.com/maps/place/Abaynou,+Morocco/), a small village near [Guelmim](https://www.google.com/maps/place/Guelmim+81000,+Morocco/). He came to Tafraoute with some other travelers and had to go back to his village for work. Another passenger and a new destination. There was no need for any plans! :sunglasses:
 
-The long drive with Hossine was relaxed and enjoyable. I got along with him really well. We arrived at his village in the evening where I parked my van in a quiet spot between the oasis and the houses.
+The long drive with Hossine was very enjoyable. I got along with him really well. We arrived at his village in the evening where I parked my van in a quiet spot between the oasis and the houses.
 
 ![Van parked in Abaynou](/assets/images/IMG_1664.jpg)
 
