@@ -12,7 +12,7 @@ We broke up our [Mercedes gang]({% post_url 2018-02-04-hanging-out-with-the-merc
 
 ## Driving into the mountains
 
-My teammates took off Monday, the President's day which is a holiday in the US. I used the long weekend to explore the Anti Atlas mountain range. The scenery completely changed after driving a couple of hours east into the mountains.
+My teammates took Monday off, the President's day which is a holiday in the US. I used the long weekend to explore the Anti Atlas mountain range. The scenery completely changed after driving a couple of hours east into the mountains.
 
 ![Scenery in the Anti Atlas mountain range](/assets/images/IMG_1615.jpg)
 
