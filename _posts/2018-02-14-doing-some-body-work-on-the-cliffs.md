@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Doing some body work on the cliffs
-date:   2018-02-04
+date:   2018-02-14
 header-img: assets/images/IMG_1493.jpg
 comments: true
 ---
