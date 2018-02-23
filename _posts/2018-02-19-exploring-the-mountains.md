@@ -16,7 +16,7 @@ My teammates took Monday off, the President's day which is a holiday in the US. 
 
 ![Scenery in the Anti Atlas mountain range](/assets/images/IMG_1615.jpg)
 
-I passed a local walking next to the road in the middle of nowhere. The next village was at least 25km away. I stopped and asked him if he wanted to get a ride. Sadik happily accepted my offer. He lived in a tiny village up the mountains and was on his way to [Tafraoute](https://www.google.com/maps/place/Tafraoute,+Morocco/) to re-new his insurance for his motorbike. Other travelers had recommended to visit Tafraoute. I decided to bring Sadik to his destination. Win-win! :wink:
+I passed a local walking next to the road in the middle of nowhere. The next village was at least 25km away. I stopped to ask him if he wanted to get a ride. Sadik happily accepted my offer. He lived in a tiny village up the mountains and was on his way to [Tafraoute](https://www.google.com/maps/place/Tafraoute,+Morocco/) to re-new his insurance for his motorbike. Other travelers had recommended to visit Tafraoute. I decided to bring Sadik to his destination. Win-win! :wink:
 
 I dropped Sadik in the center of the town and drove a few kilometers further into a wide area surrounded by mountains.
 
