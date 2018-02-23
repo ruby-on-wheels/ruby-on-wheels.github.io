@@ -61,3 +61,5 @@ The long drive with Hossine was relaxed and enjoyable. I got along with him real
 He invited me to his family's house where we drank a lot of tea, ate a delicious dinner and hold interesting conversations.
 
 ![Hossine and me](/assets/images/IMG_1661.jpg)
+
+What a great long weekend!
