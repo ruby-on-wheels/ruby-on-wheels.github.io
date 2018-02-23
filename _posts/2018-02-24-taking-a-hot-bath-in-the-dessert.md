@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  Taking a hot bath in the dessert
-date:   2018-02-23
+date:   2018-02-24
 header-img: assets/images/IMG_1666.jpg
 comments: true
+published: false
 ---
 
 [Hossine's village]({% post_url 2018-02-19-exploring-the-mountains %}) was nice but I was looking for something more remote to spend the work week. The hot spring near [Fask](https://www.google.com/maps/place/Fask,+Morocco/) in the middle of the desert sounded like the perfect place to work in a relaxed environment. The ride off the road was quite rough and took about 30 minutes.
