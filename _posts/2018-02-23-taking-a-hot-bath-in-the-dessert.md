@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Taking a hot bath in the dessert
-date:   2018-02-24
+date:   2018-02-23
 header-img: assets/images/IMG_1666.jpg
 comments: true
 ---
