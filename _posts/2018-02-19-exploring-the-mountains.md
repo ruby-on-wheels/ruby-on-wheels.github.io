@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1658.jpg
 comments: true
 ---
 
-We broke up our [Mercedes gang]({% post_url 2018-02-04-hanging-out-with-the-mercedes-gang %}) last Friday after spending two and a half weeks at the cliffs north of [Aghroude](https://www.google.com/maps/place/Aghroude,+Morocco/). I only drove a few kilometers down south and spent the night at [Plage Aourir](https://www.google.com/maps/place/Plage+Aourir/) where I enjoyed a beautiful sunset over the ocean.
+We broke up our [Mercedes gang]({% post_url 2018-02-04-hanging-out-with-the-mercedes-gang %}) last Friday after spending two and a half weeks at the cliffs north of [Aghroude](https://www.google.com/maps/place/Aghroude,+Morocco/). I drove a few kilometers down south and spent the night at [Plage Aourir](https://www.google.com/maps/place/Plage+Aourir/) where I enjoyed a beautiful sunset over the ocean.
 
 ![Sunset at Plage Aourir](/assets/images/IMG_1598.jpg)
 
