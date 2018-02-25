@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  Taking a hot bath in the dessert
-date:   2018-02-24
+date:   2018-02-23
 header-img: assets/images/IMG_1666.jpg
 comments: true
-published: false
 ---
 
 [Hossine's village]({% post_url 2018-02-19-exploring-the-mountains %}) was nice but I was looking for something more remote to spend the work week. The hot spring near [Fask](https://www.google.com/maps/place/Fask,+Morocco/) in the middle of the desert sounded like the perfect place to work in a relaxed environment. The ride off the road was quite rough and took about 30 minutes.
@@ -19,7 +18,7 @@ All the effort was worth it! A company drilled for oil a couple of years ago. Th
 
 ![People taking a bath in the hot wather](/assets/images/IMG_1682.jpg)
 
-Locals and travelers come here to take a bath or wash their clothes but also dromedaries visit the spring to enjoy a warm drink.
+Locals and travelers came here to take a bath or wash their clothes. Dromedaries also visited the spring to enjoy a warm drink.
 
 ![Dromedaries next to my van](/assets/images/IMG_1669.jpg)
 
