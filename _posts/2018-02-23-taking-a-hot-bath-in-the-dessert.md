@@ -18,7 +18,7 @@ All the effort was worth it! A company drilled for oil a couple of years ago. Th
 
 ![People taking a bath in the hot wather](/assets/images/IMG_1682.jpg)
 
-Locals and travelers came here to take a bath or wash their clothes. Dromedaries also visited the spring to enjoy a warm drink.
+Not only locals and travelers came here to take a bath or wash their clothes, but also Dromedaries visited the spring to enjoy a warm drink.
 
 ![Dromedaries next to my van](/assets/images/IMG_1669.jpg)
 
