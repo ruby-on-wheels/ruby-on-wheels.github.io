@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1689.jpg
 comments: true
 ---
 
-I left the [hot spring](({% post_url 2018-02-19-exploring-the-mountains %})) on Saturday morning to hang out with Hossine again. We met up with his cousin in [Guelmim](https://www.google.com/maps/place/Guelmim+81000,+Morocco/) to visit the [souk](https://www.google.com/maps/place/Souk+Amhirich/), a traditional market. I was looking for a hoody made out of sheep's wool. These jackets are harder to find in the south than in the north where they are produced. Nevertheless, we were able to score a fitting hoody for a good price with Hossine's help.
+I left the [hot spring](({% post_url 2018-02-23-taking-a-hot-bath-in-the-dessert %})) on Saturday morning to hang out with [Hossine]({% post_url 2018-02-19-exploring-the-mountains %}) again. We met up with his cousin in [Guelmim](https://www.google.com/maps/place/Guelmim+81000,+Morocco/) to visit the [souk](https://www.google.com/maps/place/Souk+Amhirich/), a traditional market. I was looking for a hoody made out of sheep's wool. These jackets are harder to find in the south than in the north where they are produced. Nevertheless, we were able to score a fitting hoody for a good price with Hossine's help.
 
 I really enjoyed strolling around the city with Hossine and his cousin. We visited one of their friends at a shop where we spent a typical Moroccan afternoon: relaxing, talking and of course drinking tea.
 
