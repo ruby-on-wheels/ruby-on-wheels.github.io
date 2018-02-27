@@ -14,7 +14,7 @@ I really enjoyed strolling around the city with Hossine and his cousin. We visit
 
 Tea drinking is a big tradition in Morocco. I didn't only like the good taste, but the whole ceremony. After enjoying a couple of teas, I decided to get a Moroccan tea set for my van.
 
-Observing Hossine's conversations with the sellers was really interesting. They were a mix of consulting, negotiating and small talk. In Germany, I would have probably entered a shop, asked for teapots, compared three pots and bought one of them. Five minutes. Done! In Morocco, we spent about an hour comparing different teapots and talking to different sellers. We weren't in a rush, so there was plenty of time to socialize. I liked it. The situation reminded me of a quote:
+Observing Hossine's conversations with the sellers was really interesting. It was a wild mix of consulting, negotiating and small talk. In Germany, I would have probably entered a shop, asked for teapots, compared three pots and bought one of them. Five minutes. Done! In Morocco, we spent about an hour comparing different teapots and talking to different sellers. We weren't in a rush, so there was plenty of time to socialize. I liked it. The situation reminded me of a quote:
 
 > Europeans have the clock, Africans have the time.
 
