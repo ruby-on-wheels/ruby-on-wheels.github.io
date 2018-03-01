@@ -53,7 +53,7 @@ The connectivity along the coast had always been brilliant. I was used to work f
 
 ![Little sandstorm](/assets/images/IMG_1738.jpg)
 
-I passed a lot of nice places but I had to realize that I couldn't rely on area-wide 3G/4G network coverage anymore. Was it a bad idea to drive into the desert without taking a vacation? Like a traveler thirsty, I was looking for the next oasis. An oasis meant water. Water meant people. People meant villages, and villages hopefully meant a radio mast. :pray:
+I passed a lot of nice places but I had to realize that I couldn't rely on area-wide 3G/4G network coverage anymore. Was it a bad idea to drive into the desert without taking a vacation? Like a thirsty traveler, I was looking for the next oasis. An oasis meant water. Water meant people. People meant villages, and villages hopefully meant a radio mast. :pray:
 
 The connectivity slightly improved when I followed a power line.
 
