@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1804.jpg
 comments: true
 ---
 
-I enjoyed one more tea with [Hossine]({% post_url 2018-02-25-hanging-out-with-hossine %}) on Sunday morning before I started my trip into the Sahara. My first checkpoint was [Assa](https://www.google.co.ma/maps/place/Assa/). The small town seemed friendly and quiet. I only saw few people on the streets when passing the most southern point of my trip through Morocco.
+I enjoyed one more tea with [Hossine]({% post_url 2018-02-25-hanging-out-with-hossine %}) on Sunday morning before I started my trip into the Sahara. My first checkpoint was [Assa](https://www.google.co.ma/maps/place/Assa/). The small town seemed friendly and quiet. I didn't see a lot of people on the streets when passing the most southern point of my trip through Morocco.
 
 ![Passing Assa](/assets/images/IMG_1702.jpg)
 
