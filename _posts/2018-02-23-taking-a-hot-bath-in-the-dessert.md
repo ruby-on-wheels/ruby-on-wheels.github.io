@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Taking a hot bath in the dessert
+title:  Taking a hot bath in the desert
 date:   2018-02-23
 header-img: assets/images/IMG_1666.jpg
 comments: true

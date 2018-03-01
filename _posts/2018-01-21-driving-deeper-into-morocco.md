@@ -76,7 +76,7 @@ It was very interesting to see all restaurants serving food that was made out of
 
 ## Driving back to the coast
 
-Marrakech was awesome. However, all the turmoil can be a little exhausting. It was time to drive back to the coast and continue my trip down south. I left Marrakech on Sunday morning headed to Essaouira. There was no fog this time. Just the sun, the blue sky and the dessert.
+Marrakech was awesome. However, all the turmoil can be a little exhausting. It was time to drive back to the coast and continue my trip down south. I left Marrakech on Sunday morning headed to Essaouira. There was no fog this time. Just the sun, the blue sky and the desert.
 
 ![Entrance into the medina of Marrakech](/assets/images/IMG_1126.jpg)
 
