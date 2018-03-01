@@ -10,7 +10,6 @@ I enjoyed one more tea with [Hossine]({% post_url 2018-02-25-hanging-out-with-ho
 
 ![Passing Assa](/assets/images/IMG_1702.jpg)
 
-
 ## Eating lunch with Mohamed, Mbark and their friends
 
 I spotted some palm trees a few kilometers after Assa. Maybe there was a good place to take a break for lunch?
@@ -25,7 +24,7 @@ I couldn't reject their invitation to join their lunch when I saw the delicious 
 
 ![Chicken tajine](/assets/images/IMG_1708.jpg)
 
-More friends joined the group while we were drinking tea and waiting for the food to get ready. We mostly spook French which worked surprisingly well. My forgotten language skills might have been revived in Morocco? :wink:
+More friends joined the group while we were drinking tea and waiting for the food to get ready. We mostly spoke French which worked surprisingly well. My forgotten language skills might have been revived in Morocco? :wink:
 The food was really good! But the best part of my lunch break was the great company!
 
 ![Great company during my lunch break](/assets/images/IMG_1710.jpg)
