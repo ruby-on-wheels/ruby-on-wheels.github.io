@@ -87,7 +87,7 @@ The spot was located a few kilometers away from the town and really calm. I didn
 
 ## Driving deeper into the Sahara
 
-I left the spot near Foum Zguid this afternoon to reach my final destination for this week: [Zagora](https://www.google.co.ma/maps/place/Zagora/). The town with a population of about 35,000 people seemed like a good spot to do my laundry, socialize and take a little break from traveling.
+I left the spot near Foum Zguid on Wednesday afternoon to reach my final destination for this week: [Zagora](https://www.google.co.ma/maps/place/Zagora/). The town with a population of about 35,000 people seemed like a good spot to do my laundry, socialize and take a little break from traveling.
 
 The drive was a true Saharan experience. The strong tailwind didn't only increase my average speed but also blew up a lot of sand. Soon, the blue sky was covered by a red, dusty cloud. I had drive very carefully to avoid hitting the dromedaries walking around in the sandstorm.
 
