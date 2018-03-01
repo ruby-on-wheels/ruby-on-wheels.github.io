@@ -43,7 +43,7 @@ The rising sun and the clouds created a very impressive atmosphere. I would have
 
 ![Sunrise in Aït-Ouabelli](/assets/images/IMG_1727.jpg)
 
-I drove a couple of minutes headed east until the weather looked better and stopped to get some work done.
+I drove a couple of minutes headed east and stopped to get some work done when the weather looked better.
 
 ![Rainbow in the desert](/assets/images/IMG_1735.jpg)
 
