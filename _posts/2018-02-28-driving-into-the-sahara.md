@@ -49,7 +49,7 @@ I drove a couple of minutes headed east and stopped to get some work done when t
 
 ## Looking for good connectivity
 
-The connectivity along the coast was always brilliant. I was used to work from anywhere in Morocco. This time the connection wasn't great. It was good enough to get my personal tasks done. However, I was afraid the low bandwidth would have a negative impact on the video call scheduled for the evening. I decided to get back on the road to look for a spot with better connectivity.
+The connectivity along the coast had always been brilliant. I was used to work from anywhere in Morocco. This time, the connection wasn't great, though. It was good enough to get my personal tasks done. However, I was afraid the low bandwidth would have a negative impact on the video call scheduled for the evening. I decided to get back on the road to look for a spot with better connectivity.
 
 ![Little sandstorm](/assets/images/IMG_1738.jpg)
 
