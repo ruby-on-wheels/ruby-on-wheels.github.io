@@ -20,7 +20,7 @@ While exploring the area, I met Mohamed, Mohamed (an obviously common name) and 
 
 ![Mohamed preparing french fries on a wooden fire](/assets/images/IMG_1707.jpg)
 
-I couldn't reject their invitation to join their lunch when I saw the delicious food.
+I couldn't reject the invitation to join their lunch when I saw the delicious food.
 
 ![Chicken tajine](/assets/images/IMG_1708.jpg)
 
@@ -29,7 +29,7 @@ The food was really good! But the best part of my lunch break was the great comp
 
 ![Great company during my lunch break](/assets/images/IMG_1710.jpg)
 
-Really funny dudes. Hopefully we'll meet again some day! I gave Mohamed my GitHub shirt as symbol for our new friendship.
+Really funny dudes. Hopefully we'll meet again some day! I gave Mohamed my GitHub shirt as symbol of our friendship.
 
 ![Mohamed with my GitHub shirt](/assets/images/IMG_1712.jpg)
 
