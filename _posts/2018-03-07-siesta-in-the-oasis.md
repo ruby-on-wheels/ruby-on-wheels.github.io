@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1830.jpg
 comments: true
 ---
 
-On Wednesday, I arrived in [Zagora](https://www.google.com/maps/place/Zagora/) after [driving though a heavy sand storm]({% post_url 2018-02-28-driving-into-the-sahara %}). The town is located in an oasis. I checked into a small [campsite](https://www.google.com/maps/place/Camping+Oasis+Palmier/) surrounded by palm trees and cob walls that blocked the wind. Finally I was able to breath without inhaling a ton of sand. :mask:
+I arrived in [Zagora](https://www.google.com/maps/place/Zagora/) after [driving though a heavy sand storm]({% post_url 2018-02-28-driving-into-the-sahara %}) on Wednesday. The town is located in an oasis. I checked into a small [campsite](https://www.google.com/maps/place/Camping+Oasis+Palmier/) surrounded by palm trees and cob walls that blocked the wind. Finally I was able to breath without inhaling a ton of sand. :mask:
 
 ![Palm trees and cob walls](/assets/images/IMG_1817.jpg)
 
