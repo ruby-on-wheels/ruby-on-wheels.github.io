@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1804.jpg
 comments: true
 ---
 
-I enjoyed one more tea with [Hossine]({% post_url 2018-02-25-hanging-out-with-hossine %}) on Sunday morning before I started my trip into the Sahara. My first checkpoint was [Assa](https://www.google.co.ma/maps/place/Assa/). The small town seemed friendly and quiet. I didn't see a lot of people on the streets when passing the most southern point of my trip through Morocco.
+I enjoyed one more tea with [Hossine]({% post_url 2018-02-25-hanging-out-with-hossine %}) on Sunday morning before I started my trip into the Sahara. My first checkpoint was [Assa](https://www.google.com/maps/place/Assa/). The small town seemed friendly and quiet. I didn't see a lot of people on the streets when passing the most southern point of my trip through Morocco.
 
 ![Passing Assa](/assets/images/IMG_1702.jpg)
 
@@ -35,7 +35,7 @@ Really funny dudes. Hopefully we'll meet again some day! I gave Mohamed my GitHu
 
 ## Sleeping between palm trees
 
-I followed the road in parallel to the Algerian border until I reached [Aït-Ouabelli](https://www.google.co.ma/maps/place/Aït-Ouabelli/). The little village was surrounded by an oasis where I found a quiet spot right behind the riverbed.
+I followed the road in parallel to the Algerian border until I reached [Aït-Ouabelli](https://www.google.com/maps/place/Aït-Ouabelli/). The little village was surrounded by an oasis where I found a quiet spot right behind the riverbed.
 
 ![Sunset in Aït-Ouabelli](/assets/images/IMG_1721.jpg)
 
@@ -59,7 +59,7 @@ The connectivity slightly improved when I followed a power line.
 
 ![Little sandstorm](/assets/images/IMG_1739.jpg)
 
-I finally reached the life-giving oasis near [Tissint](https://www.google.co.ma/maps/place/Tissint/).
+I finally reached the life-giving oasis near [Tissint](https://www.google.com/maps/place/Tissint/).
 
 ![Oasis near Tissint](/assets/images/IMG_1741.jpg)
 
@@ -77,7 +77,7 @@ A beautiful spot for travelers on vacation. I had to move on. No village, no LTE
 
 ![Berlin indicated by as signpost](/assets/images/IMG_1750.jpg)
 
-I luckily didn't have to drive all the 7643km to find my next spot. I quickly reached [Foum Zguid](https://www.google.co.ma/maps/place/Foum+Zguid/) where I parked my mobile office between two trees.
+I luckily didn't have to drive all the 7643km to find my next spot. I quickly reached [Foum Zguid](https://www.google.com/maps/place/Foum+Zguid/) where I parked my mobile office between two trees.
 
 ![Mobile office in the desert](/assets/images/IMG_1761.jpg)
 
@@ -87,7 +87,7 @@ The spot was located a few kilometers away from the town and really calm. I didn
 
 ## Driving deeper into the Sahara
 
-I left the spot near Foum Zguid on Wednesday afternoon to reach my final destination for this week: [Zagora](https://www.google.co.ma/maps/place/Zagora/). The town with a population of about 35,000 people seemed like a good spot to do my laundry, socialize and take a little break from traveling.
+I left the spot near Foum Zguid on Wednesday afternoon to reach my final destination for this week: [Zagora](https://www.google.com/maps/place/Zagora/). The town with a population of about 35,000 people seemed like a good spot to do my laundry, socialize and take a little break from traveling.
 
 The drive was a true Saharan experience. The strong tailwind didn't only increase my average speed but also blew up a lot of sand. Soon, the blue sky was covered by a red, dusty cloud. I had drive very carefully to avoid hitting the dromedaries walking around in the sandstorm.
 
