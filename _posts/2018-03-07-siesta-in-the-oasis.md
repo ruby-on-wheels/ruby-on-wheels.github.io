@@ -30,7 +30,7 @@ Robert's old Peugeot camper van and Tom's Land Rover were also parked in the bac
 
 ![Sunset on the campsite](/assets/images/IMG_1829.jpg)
 
-I especially enjoyed Roberts stories. He was born in the 60s and had a lot of interesting stuff to tell. I spent a lot of my breaks talking with him about everything under the sun. There was chemistry between us although we had a very different lifestyle. :wink:
+I especially enjoyed Robert's stories. He was born in the 60s and had a lot of interesting stuff to tell. I spent a lot of my breaks talking with him about everything under the sun. There was chemistry between us although we had a very different lifestyle. :wink:
 
 ## Cycling up the mountain
 
