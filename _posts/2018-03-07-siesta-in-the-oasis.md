@@ -50,7 +50,7 @@ I enjoyed a beautiful view over the oasis when I reached the summit right after 
 
 ![View from the summit](/assets/images/IMG_1838.jpg)
 
-I found a nice trail on my way back which was a lot of fun to ride!
+There was a nice trail on my way back which was a lot of fun to ride!
 
 ![Trail down the mountain](/assets/images/IMG_1844.jpg)
 
