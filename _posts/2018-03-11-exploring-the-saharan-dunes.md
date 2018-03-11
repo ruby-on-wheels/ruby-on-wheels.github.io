@@ -22,7 +22,7 @@ Wow, what an impressive landscape!
 
 ## Working between sand dunes
 
-The LTE connectivity was surprisingly good at the western foot of Erg Chebbi. Perfect! I was able to work in my mobile office surround by Saharan sand. I parked my van next to a tree between some dunes where I spent a very peaceful night.
+The LTE connectivity was surprisingly good at the western foot of Erg Chebbi. Perfect! I was able to work in my mobile office surrounded by Saharan sand. I parked my van next to a tree between some dunes where I spent a very peaceful night.
 
 ![Van parked in front of Erg Chebbi](/assets/images/IMG_1919.jpg)
 
@@ -62,7 +62,7 @@ The walk up the dune was really exhausting. My feet sunk deep into the sand on e
 
 ![On top of the dune](/assets/images/IMG_1985.jpg)
 
-I made it right in time. The sun was about to rise when I sat on the edge of the dune. What a great spot to enjoy your breakfast! I had a beautiful a view over the whole erg. The mountains in the back were already part of Algeria.
+I made it right in time. The sun was about to rise when I sat on the edge of the dune. What a great spot to enjoy my breakfast! I had a beautiful view over the whole erg. The mountains in the back were already part of Algeria.
 
 ![Sunrise ove top of the dune](/assets/images/IMG_1994.jpg)
 
