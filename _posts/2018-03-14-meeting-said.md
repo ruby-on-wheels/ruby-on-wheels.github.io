@@ -16,7 +16,7 @@ The area around the campsite offered a lot of interesting places to discover. Li
 
 ![Ruins of the old Kasbah of Meski](/assets/images/IMG_2011.jpg)
 
-I was told that the whole village was moved to the other side of the canyon after Meski got destroyed by heavy rain in the 60s. It was an interesting experience to walk through the tiny alleys and rooms of apartments that were full of life only 60 years ago.
+I was told that the whole village was moved to the other side of the canyon after Meski got destroyed by heavy rain in the 60s. It was an interesting experience to walk through the tiny alleys and apartments that were full of life only 60 years ago.
 
 ## Meeting a new friend
 
