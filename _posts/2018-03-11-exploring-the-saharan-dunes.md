@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1946.jpg
 comments: true
 ---
 
-People usually imagine endless sand dunes when they think about the African desert. However, the Sahara is mainly rocky like the area where I slept on Wednesday after leaving [Zagora](({% post_url 2018-03-07-siesta-in-the-oasis %})).
+People usually imagine endless sand dunes when they think about the African desert. However, the Sahara is mainly rocky like the area where I slept on Wednesday after leaving [Zagora]({% post_url 2018-03-07-siesta-in-the-oasis %}).
 
 ![Rocky desert](/assets/images/IMG_1865.jpg)
 
