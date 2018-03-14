@@ -24,7 +24,7 @@ A [big reservoir](https://www.google.co.ma/maps/place/Barrage+Al-Hassan+Addakhil
 
 ![Barrage Al-Hassan Addakhil near Errachidia](/assets/images/IMG_2023.jpg)
 
-I spotted another van when I approached the lake. Alf and Willi from Austria stayed in company with Said who lives close by. Said seemed like a nice guy. We got along pretty well. Although he told me that I was talking way to much, he seemed to enjoy my blathering. We spent a really funny evening together eating, talking and laughing. Alf and Willi left the following day. I decided to stay because I really enjoyed Said's company.
+I spotted another van when I approached the lake. Alf and Willi from Austria stayed there with Said who lives in a small village close to the lake. Said seemed like a nice guy. We got along pretty well. Although he told me that I was talking way too much, he seemed to enjoy my blathering. We spent a really funny evening eating, talking and laughing together. Alf and Willi left the following day, but I decided to stay because I really enjoyed Said's company.
 
 He'd cycle from his place to my van and during my breaks we sat in front of my van, ate, drank tea, talked or just enjoyed the silence together.
 
@@ -38,7 +38,7 @@ Said showed me some pictures of a Berlin couple at his place. He met them at the
 
 ![Photos of Said's friends](/assets/images/IMG_2041.jpg)
 
-They stayed in touch via (traditional) mail. Unfortunately, they lost track of each other and Said hasn't been able to find them on Facebook. I posted some of the pictures in a few Facebook groups. Maybe we'll be able to find his friends?
+They stayed in touch via (traditional) mail. Unfortunately, they lost track of each other and Said hasn't been able to find them on Facebook, yet. I posted some of the pictures in a few Facebook groups. Maybe we'll be able to find his friends?
 
 I was a bit sad when I had to say goodbye to Said. I really enjoyed the time that we spent together.
 
