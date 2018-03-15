@@ -30,7 +30,7 @@ He'd cycle from his place to my van and during my breaks we sat in front of my v
 
 ![Sunset at the lake near Errachidia](/assets/images/IMG_2034.jpg)
 
-His bicycle was in very bad condition. He basically rode a bike without breaks. :see_no_evil: I wished I could have fixed the breaks, but I only had incompatible spare parts for my hydraulic brakes with me. I gave him my portable lights in the hope they'd reduce the risk of getting hit by a car while cycling in the dark. :pray:
+His bicycle was in very bad condition. He basically rode a bike without brakes. :see_no_evil: I wished I could have fixed the brakes, but I only had incompatible spare parts for my hydraulic brakes with me. I gave him my portable lights in the hope they'd reduce the risk of getting hit by a car while cycling in the dark. :pray:
 
 ## Trying to find Said's friends from Berlin
 
