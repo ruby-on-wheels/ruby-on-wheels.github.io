@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2032.jpg
 comments: true
 ---
 
-I quickly left Erg Chebbi when a sandstorm arose right after I came back from my [hike through the dunes]({% post_url 2018-03-11-exploring-the-saharan-dunes %}). [Fritz and Jule]({% post_url 2018-02-19-exploring-the-mountains %}) texted me that they stayed at a [nice campsite](https://www.google.co.ma/maps/place/Source+Bleue/) a few kilometers north of Erg Chebbi. Although they left the campsite by the time I arrived, I stayed there for two nights.
+I quickly left Erg Chebbi when a sandstorm arose right after I came back from my [hike through the dunes]({% post_url 2018-03-11-exploring-the-saharan-dunes %}). [Fritz and Jule]({% post_url 2018-02-19-exploring-the-mountains %}) texted me that they stayed at a [nice campsite](https://www.google.com/maps/place/Source+Bleue/) a few kilometers north of Erg Chebbi. Although they left the campsite by the time I arrived, I stayed there for two nights.
 
 The atmosphere was great. The campsite is a community project and a mix of a public park and a campsite. On Sunday, several families came by and had picnics under the palm trees next to my van. I really liked the concept of locals and travelers sharing the same place.
 
@@ -20,7 +20,7 @@ I was told that the whole village was moved to the other side of the canyon afte
 
 ## Meeting a new friend
 
-A [big reservoir](https://www.google.co.ma/maps/place/Barrage+Al-Hassan+Addakhil/) near [Errachidia](https://www.google.co.ma/maps/place/Errachidia/) caught my eyes when I was on my way further north. The spot seemed great to work and sleep.
+A [big reservoir](https://www.google.com/maps/place/Barrage+Al-Hassan+Addakhil/) near [Errachidia](https://www.google.com/maps/place/Errachidia/) caught my eyes when I was on my way further north. The spot seemed great to work and sleep.
 
 ![Barrage Al-Hassan Addakhil near Errachidia](/assets/images/IMG_2023.jpg)
 
