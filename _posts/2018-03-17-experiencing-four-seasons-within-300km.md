@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2085.jpg
 comments: true
 ---
 
-Morocco is one of the most diverse country that I've visited. Crossing the Atlas mountain range was impressive. I experienced summer, fall, winter and spring within a couple of days on a trip that was only about 300km .
+Morocco is one of the most diverse country that I've visited. Crossing the Atlas mountain range was impressive. I experienced summer, fall, winter and spring within a couple of days on a trip that was only about 300km.
 
 After enjoying temperatures around 29 degrees Celsius (84 Fahrenheit) with [Said]({% post_url 2018-03-14-meeting-said %}) near [Errachidia](https://www.google.com/maps/place/Errachidia/), I drove over the eastern High Atlas and stayed in the desert a few kilometers in front of [Midelt](https://www.google.com/maps/place/Midelt/).
 
