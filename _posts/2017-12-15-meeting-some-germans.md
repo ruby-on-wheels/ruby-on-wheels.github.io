@@ -11,7 +11,7 @@ Moving into a van was just a random thought last winter. I had no idea if it wou
 ## Meeting Tanja and Andre
 
 Since I've been on the road, Tanja and I haven't exchanged any further mails. I remembered that Tanja usually spends the winter in Portugal, so I sent her another mail last week. Apparently she and her boyfriend Andre were close to me. A few days later, I met them in a parking lot on a little hill with a nice view on [Santiago do Cacém
-](https://www.google.it/maps/place/Santiago+do+Cacém,+Portugal/).
+](https://www.google.com/maps/place/Santiago+do+Cacém,+Portugal/).
 
 ![View from the parking lot on Santiago do Cacém](/assets/images/IMG_0557.jpg)
 

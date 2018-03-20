@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2132.jpg
 comments: true
 ---
 
-[Chefchaouen](https://www.google.it/maps/place/Chefchaouen,+Morocco/) was my last stop before driving to the harbor of [Tangier](https://www.google.it/maps/place/Tangier,+Morocco/) city. Located in the Riff mountains, Chefchaouen is known for its blue buildings.
+[Chefchaouen](https://www.google.com/maps/place/Chefchaouen,+Morocco/) was my last stop before driving to the harbor of [Tangier](https://www.google.com/maps/place/Tangier,+Morocco/) city. Located in the Riff mountains, Chefchaouen is known for its blue buildings.
 
 ![Houses painted in blue](/assets/images/IMG_2093.jpg)
 
@@ -28,7 +28,7 @@ The forecast didn't look promising, either. I decided to leave Chefchaouen early
 
 ## No ferries to Europe
 
-When I arrived at the harbor, I had to realize that all ferries from Tangier city to Spain were canceled because of the bad weather. I was told to drive to [Tanger-Med](https://www.google.it/maps/place/Tanger+Med+Port+Authority/), a cargo port located about an hour away from Tangier city. However, there was even more chaos in Tanger-Med. Some ferries were sold out, some were delayed and others were canceled. The people at the checkin weren't very helpful, either. They closed the office most of the time. Once in awhile, they'd open the counter to tell me that I'd have to wait for the next ferry.
+When I arrived at the harbor, I had to realize that all ferries from Tangier city to Spain were canceled because of the bad weather. I was told to drive to [Tanger-Med](https://www.google.com/maps/place/Tanger+Med+Port+Authority/), a cargo port located about an hour away from Tangier city. However, there was even more chaos in Tanger-Med. Some ferries were sold out, some were delayed and others were canceled. The people at the checkin weren't very helpful, either. They closed the office most of the time. Once in awhile, they'd open the counter to tell me that I'd have to wait for the next ferry.
 
 I could already see the European continent on the other side of the Strait of Gibraltar.
 
@@ -46,7 +46,7 @@ I finally boarded a ferry after spending 24 hours in the harbor. The weather tur
 
 I was back on European ground after spending two awesome months in Morocco. A totally different world. Although I was still far away from my home country, I felt like coming back to a familiar place. Back to Spain, a country that seemed so different more than half a year ago when coming from Germany. :wink:
 
-I was really exhausted. Luckily, Robert and Stefan were parked very close at a quite spot near [Algeciras](https://www.google.it/maps/place/Algeciras,+Cádiz,+Spain/).
+I was really exhausted. Luckily, Robert and Stefan were parked very close at a quite spot near [Algeciras](https://www.google.com/maps/place/Algeciras,+Cádiz,+Spain/).
 
 ![Spot near Algeciras](/assets/images/IMG_2132.jpg)
 
