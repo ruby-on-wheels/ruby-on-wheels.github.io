@@ -44,7 +44,7 @@ I finally boarded a ferry after spending 24 hours in the harbor. The weather tur
 
 ![Sailing towards the Spanish coast](/assets/images/IMG_2124.jpg)
 
-I was back on European ground after spending two awesome months in Morocco. A totally different world. Although I was still far away from my home country, I felt like coming back to a familiar place. Back to Spain, a country that seemed so different more than half a year ago when coming from Germany. :wink:
+I was back on European ground after spending more than two months in Morocco. A totally different world. Although I was still far away from my home country, I felt like coming back to a familiar place. Back to Spain, a country that seemed so different more than half a year ago when coming from Germany. :wink:
 
 I was really exhausted. Luckily, Robert and Stefan were parked very close at a quite spot near [Algeciras](https://www.google.com/maps/place/Algeciras,+Cádiz,+Spain/).
 
