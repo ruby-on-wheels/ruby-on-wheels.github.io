@@ -18,4 +18,4 @@ I joined the others during my breaks from work. We got along pretty well and the
 
 ![Campfire](/assets/images/IMG_2148.jpg)
 
-After spending a very pleasant work week in good company, I feel ready to continue my trip towards [Madrid]({% post_url 2017-10-29-van-life-in-a-big-city %}). :es:
+After spending a very pleasant work week in great company, I feel ready to continue my trip towards [Madrid]({% post_url 2017-10-29-van-life-in-a-big-city %}). :es:
