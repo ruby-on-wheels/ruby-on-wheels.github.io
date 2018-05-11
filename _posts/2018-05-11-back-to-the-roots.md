@@ -16,7 +16,7 @@ When I left [Costa del Sol]({% post_url 2018-03-22-rovering-at-costa-del-sol %})
 
 My plans totally changed during a short business trip by plane to Amsterdam: I spotted an old Mercedes 508D that was for sale. It was a former ambulance of the Dutch army. The perfect vehicle for a conversion into a camper van. I fell in love with the van and arranged a preliminary deal with the current owner.
 
-With a heavy heart I left Madrid a week ago to drive back to Germany where I will [sell](https://www.ebay-kleinanzeigen.de/s-anzeige/mercedes-benz-209d-wohnwagen-mit-h-zulassung-und-450w-solaranlage/865011131-220-3396) my 209D, import and register the 508D and see my family and friends again.
+With a heavy heart I left Madrid a week ago to drive back to Germany where I will [sell](https://www.ebay-kleinanzeigen.de/s-anzeige/mercedes-benz-209d-wohnwagen-mit-h-zulassung-und-450w-solaranlage/865011131-220-3396) my 209D, try to import and register the 508D and see my family and friends again.
 
 Headed to Germany, I met [Robert and his dog Wilma]({% post_url 2018-02-04-hanging-out-with-the-mercedes-gang %}) in France again. For about a week we drove together through France and enjoyed the green nature in the French countryside.
 
