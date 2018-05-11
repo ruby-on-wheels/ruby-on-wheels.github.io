@@ -24,7 +24,7 @@ Headed to Germany, I met [Robert and his dog Wilma]({% post_url 2018-02-04-hangi
 
 ## Exploring my roots
 
-After one year, it felt strange to drive on German roads again. Additionally, I saw myself driving towards the city were I was born. I haven't been to Freiburg for about 20 years. Although I had a tough schedule, I decided to spent my anniversary exploring remarkable places of my childhood.
+After one year, it felt strange to drive on German roads again. Additionally, I saw myself driving towards the city were I was born. I haven't been to Freiburg for about 20 years. Although I had a tight schedule, I decided to spent my anniversary exploring remarkable places of my childhood.
 
 I parked my van in front of the primary school where I learned how to read and write. I walked my former way to school and ended up at the dormitory where my parents used live when I was born. I recognized all the shops, trees and playgrounds and of course the big apartment building where we used to live.
 
