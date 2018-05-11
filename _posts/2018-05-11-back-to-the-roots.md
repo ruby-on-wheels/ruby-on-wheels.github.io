@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2420.jpg
 comments: true
 ---
 
-Today marked the 365th day living in my van. I [left Berlin]({% post_url 2017-05-11-leaving-berlin %}) one year ago. On my anniversary, I coincidentally passed [Freiburg](https://www.google.com/maps/place/Freiburg,+Germany/), Germany. I was born and raised in Freiburg. As fate willed, my trip through Europe and Africa led me to my place of birth.
+Today marked the 365th day living in my van. I [left Berlin]({% post_url 2017-05-11-leaving-berlin %}) one year ago. On my anniversary, I coincidentally passed [Freiburg](https://www.google.com/maps/place/Freiburg,+Germany/), Germany. I was born and raised in Freiburg. As fate willed, my trip through Europe and Africa led me to the place of my birth.
 
 ## My unplanned way back to Germany
 
