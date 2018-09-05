@@ -64,4 +64,4 @@ A broken thermostat that I had to replace to prevent the engine from overheating
 
 ![Replacing the thermostat of the OM314 engine](/assets/images/IMG_3056.jpg)
 
-These and many other issues have kept me really busy during my "free" time. I've learned a lot within the last couple of months and I'm really looking forward to work on the interior! :tada:
+These and many other issues have kept me really busy during my "free" time. I've learned a lot within the last couple of months and I'm really looking forward to working on the interior! :tada:
