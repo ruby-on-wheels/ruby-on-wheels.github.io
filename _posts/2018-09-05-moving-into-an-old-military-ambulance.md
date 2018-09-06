@@ -38,7 +38,11 @@ During week days I could work remotely from my provisional office in the spaciou
 
 ![Provisional office in the spacious driver's cabin](/assets/images/IMG_2997.jpg)
 
-and in the evening or on the weekends I could work on the van or relax in my hammock.
+and in the evening or on the weekends I could work on the van
+
+![Working on the van in a parking lot](/assets/images/IMG_3058.jpg)
+
+or relax in my hammock.
 
 ![Relaxing in my hammock](/assets/images/IMG_3006.jpg)
 
