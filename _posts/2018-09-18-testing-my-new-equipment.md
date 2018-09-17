@@ -36,17 +36,17 @@ While relaxing and enjoying these beautiful places, I could also test my new equ
 
 ## Ice cold beer :beer:
 
-The absorption refrigerator in my 209D was absolutely inefficient. It constantly consumed 110W and didn't even do a great job cooling down my food and drinks. I was tired of drinking warm beer during the summer and turning off the fridge at night to save battery.
+The absorption refrigerator in my 209D was absolutely inefficient. It constantly consumed 110W and even didn't do a great job cooling down my food and drinks. I was tired of drinking warm beer during the summer and turning off the fridge at night to save battery.
 
 I wanted a proper solution and bought a [12V compressor fridge](https://www.amazon.de/gp/product/B00D0GLD4S?tag=mumothhoofba-21) from Dometic. While my previous absorber fridge would need 2640Wh a day, the [Dometic CFX 50]((https://www.amazon.de/gp/product/B00D0GLD4S?tag=mumothhoofba-21)) would only consume about 150 to 300Wh and even allow me to freeze my food. A pricy fridge but I didn't regret buying it. No more warm beer, no more battery draining. This fridge is amazing!
 
 ## Cooking with solar energy
 
-Now that I could save so much energy by using a compressor fridge, I had more energy left to use an electric cooker. I installed the [same devices]({% post_url 2017-03-06-ordering-my-solar-system %}) that proved successful in my previous camper van. However, I upgraded the setup with a [2000W voltage converter](https://www.amazon.de/dp/B07573DBYF?tag=mumothhoofba-21).
+All the energy saved by using a compressor fridge allowed me to use an electric cooker. I installed the [same devices]({% post_url 2017-03-06-ordering-my-solar-system %}) that proved successful in my previous camper van. However, I upgraded the setup with a [2000W voltage converter](https://www.amazon.de/dp/B07573DBYF?tag=mumothhoofba-21).
 
 ![2000W voltage converter](/assets/images/IMG_2858.jpg)
 
-The converter was powerful enough to operate an [induction cooker](https://www.amazon.de/dp/B017IV85KA?tag=mumothhoofba-21) that would boil one liter of water in about a minute. Preparing meals in a [stainless steel pan](https://www.amazon.de/dp/B0758H2BF6?tag=mumothhoofba-21) like pan cakes worked like a charm.
+The converter was powerful enough to operate an [induction cooker](https://www.amazon.de/dp/B017IV85KA?tag=mumothhoofba-21) that would boil one liter of water in about a minute. Preparing meals in a [stainless steel pan](https://www.amazon.de/dp/B0758H2BF6?tag=mumothhoofba-21) like these pan cakes worked like a charm.
 
 ![cooking pan cakes](/assets/images/IMG_3089.jpg)
 
