@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2149.jpg
 comments: true
 ---
 
-The quiet spot located north of [Algeciras](https://www.google.com/maps/place/Algeciras,+Cádiz,+Spain/) was perfect for recovering from my exhausting [trip back to Europe]({% post_url 2018-03-20-coming-back-to-europe %}). We had nice view on the [Rock of Gibraltar](https://www.google.com/maps/place/Rock+of+Gibraltar/) and the Riff mountain chain in Africa.
+The quiet spot located north of [Algeciras](https://www.google.com/maps/place/Algeciras,+Cádiz,+Spain/) was perfect for recovering from my exhausting [trip back to Europe]({% post_url 2018-03-20-coming-back-to-europe %}). We had nice a view on the [Rock of Gibraltar](https://www.google.com/maps/place/Rock+of+Gibraltar/) and the Riff mountain chain in Africa.
 
 ![View to the Rock of Gibraltar and the Riff mountain chain](/assets/images/IMG_2149.jpg)
 
