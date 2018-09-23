@@ -52,7 +52,7 @@ I decided to squeeze polystyrene into the remaining hollow areas between the sla
 
 ![Polystyrene panels in the hollow areas](/assets/images/IMG_3382.jpg)
 
-I'm almost done with insulating the van. I could definitely feel a difference while the cold and rainy weather came over Berlin to announce autumn. :maple_leaf:
+I'm almost done with insulating the van. I could definitely feel a difference while the cold and rainy weather came over Berlin to announce the autumn. :maple_leaf:
 
 ![Lying in the hammock](/assets/images/IMG_3378.jpg)
 
