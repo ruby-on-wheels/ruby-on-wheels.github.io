@@ -36,4 +36,4 @@ and makes sure that the fumes stay outside.
 
 The 2000Watt diesel heater is a perfect addition to my electric heater. It does a great job heating up my van. Within a few minutes, it was 25 degrees Celsius in my van and I had to take off my jacket. :sweat_smile:
 
-Next up, I'll insulated the floor to converse the heat even better. :muscle:
+Next up, I'll be insulating the floor to make the heat even better. :muscle:
