@@ -18,7 +18,7 @@ The heater can be operated in two modes: 800Watt and 400Watt. On cloudy days, I 
 
 ## Installing a diesel heater
 
-Permanently heating the van in the winter with solar energy didn't seem scalable. I extend my setup with a diesel heater connected to the van's tank. Placed right behind the driver's cabin, it sucks cold air through a radiator and blows hot air into the back of the van.
+Permanently heating the van in the winter with solar energy didn't seem scalable. So, I extended my setup with a diesel heater connected to the van's tank. Placed right behind the driver's cabin, it sucks cold air through a radiator and blows hot air into the back of the van.
 
 ![Diesel heater](/assets/images/IMG_3409.jpg)
 
