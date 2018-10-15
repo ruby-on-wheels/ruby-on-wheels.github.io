@@ -14,7 +14,7 @@ It was about time to remove the original vinyl flooring that didn't look great a
 
 ![Original wooden floor panel in good condition](/assets/images/IMG_3415.jpg)
 
-There was no need for a replacement. I could directly put a layer of the [remaining insulator]({% post_url 2018-09-23-insulating-my-van %}) on the wooden floor.
+There was no need for replacing it. I could directly put a layer of the [remaining insulator]({% post_url 2018-09-23-insulating-my-van %}) on the wooden floor.
 
 ![Insulated floor](/assets/images/IMG_3430.jpg)
 
