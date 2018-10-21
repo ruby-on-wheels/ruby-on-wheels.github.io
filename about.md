@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: "Ruby on Wheels: The story of a developer living on the road."
-header-img: assets/images/IMG_3036.JPG
+header-img: assets/images/IMG_3036.jpg
 ---
 
 :wave: I’m Jakob, a software engineer from Germany. I live in a camper van and [work remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for [GitHub](https://github.com/). On this website, I write about my [experiences]({% post_url 2017-10-08-the-first-150-days-of-van-life %}) building, living and working out of a camper van.
