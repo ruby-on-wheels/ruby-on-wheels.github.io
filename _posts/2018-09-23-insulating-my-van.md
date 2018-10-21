@@ -32,7 +32,7 @@ Applying the insulator in every nook and corner was quite elaborate and took me 
 
 ![Van with self-adhesive insulation](/assets/images/IMG_3317.jpg)
 
-## Building the scaffold for the cladding
+## <span id="scaffold">Building the scaffold for the cladding<span>
 
 I'm planning to cover the walls and the ceiling with wood. I built a wooden scaffold to avoid thermal bridges between the body and the air inside the van when mounting the cladding.
 
@@ -40,15 +40,15 @@ I'm planning to cover the walls and the ceiling with wood. I built a wooden scaf
 
 Slightly squeezed into the insulated roof, the wooden arches offer a surface to install the ceiling without putting screws into the body.
 
-![Wooden arch squished into the insulated roof](/assets/images/IMG_3343.jpg)
+![Wooden arch squeezed into the insulated roof](/assets/images/IMG_3343.jpg)
 
-Similarly, I mounted slats on the horizontal pillars that will allow me to mount the walls and furnitures without creating thermal bridges.
+Similarly, I mounted beams on the horizontal steel ribs that will allow me to mount the walls and furnitures without creating thermal bridges.
 
-![Wooden arch squished into the insulated roof](/assets/images/IMG_3375.jpg)
+![Horizontal beams to hold the wall](/assets/images/IMG_3375.jpg)
 
 ## Finalizing the insulation
 
-I decided to squeeze polystyrene into the remaining hollow areas between the slats and the horizontal pillars. The hard panels should further improve the insulation and prevent the self-adhesive mats from coming off.
+I decided to squeeze polystyrene into the remaining hollow areas between the slats and the horizontal steel ribs. The hard panels should further improve the insulation and prevent the self-adhesive mats from coming off.
 
 ![Polystyrene panels in the hollow areas](/assets/images/IMG_3382.jpg)
 
