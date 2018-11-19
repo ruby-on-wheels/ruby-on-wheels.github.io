@@ -8,7 +8,7 @@ comments: true
 
 I spent a lot of time think about building a shower or not. I had a spacious bathroom without a shower in my [previous van]({% post_url 2017-01-11-my-future-mobile-office %}) that wasted a lot of space. I couldn't even wash myself in the bathroom because I used it as a storage room. The outdoor shower that I built in June, 2017 turned out to be useless, too. I only used it about five times in one year.
 
-I didn't really need a shower when I was in the open countryside. There were lakes, rivers or the sea. I only felt a need for a shower when I stayed in cities. However, it was kinda awkward to take an outdoor shower in a crowded city center. I usually took showers in public pools, gyms or at my friends' places when I visiting cities. It worked, but wasn't ideal. I wanted to be more independent.
+I didn't really need a shower when I was in the open countryside. There were lakes, rivers or the sea. I only felt a need for a shower when I stayed in cities. However, it was a little awkward to take an outdoor shower in a crowded city center. I usually took showers in public pools, gyms or at my friends' places when I visiting cities. It worked, but wasn't ideal. I wanted to be more independent.
 
 ## Designing my multi purpose shower
 
