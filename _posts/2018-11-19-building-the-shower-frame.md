@@ -48,7 +48,7 @@ The cabin will be a about 66 cm wide and deep. Big enough to take a shower and s
 
 ![Shower from the back of the van](/assets/images/IMG_3629.jpg)
 
-The last couple of days have been very cold and rainy. Doing wood work on the streets of Berlin has become a little tricky. But if you keep your eyes open, you can still get some work done. Like today, when I found shelter from the rain behind a hardware store.
+<span id="shelter">The<span> last couple of days have been very cold and rainy. Doing wood work on the streets of Berlin has become a little tricky. But if you keep your eyes open, you can still get some work done. Like today, when I found shelter from the rain behind a hardware store.
 
 ![Shelter behind a hardware store](/assets/images/IMG_3638.jpg)
 
