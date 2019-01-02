@@ -3,7 +3,7 @@ layout: post
 title:  Looking for shelter in Bavaria
 date:   2018-11-29
 header-img: assets/images/IMG_3674.jpg
-comments: false
+comments: true
 ---
 
 Although I found a lot of public [sheltered places]({% post_url 2018-11-19-building-the-shower-frame %}#shelter) to work on my van, I haven't been able to make a lot of progress recently. The glaze didn't dry well because of the cold and rainy weather. I also couldn't fully charge my battery while parking the van under roofs. The van wasn't ready for traveling, but there was no point in staying much longer. It was time to hit the road towards the south!
