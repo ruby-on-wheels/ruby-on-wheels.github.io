@@ -14,7 +14,7 @@ The garage in front of their house is a huge building that provides a lot of spa
 
 ![Garage in front of the house](/assets/images/IMG_3718.jpg)
 
-We were able to enjoy a couple of sunny days but the weather became colder every day. It didn't take long until the first snow covered the ground. :snowflake:
+We were able to enjoy a couple of sunny days but the weather became colder quickly. It didn't take long until the first snow covered the ground. :snowflake:
 
 ![Garage in front of the house](/assets/images/IMG_3900.jpg)
 
