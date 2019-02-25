@@ -14,11 +14,11 @@ The original panels didn't feel very smooth. I also didn't like the vertical scr
 
 ![Raw wooden panels with vertical scratches](/assets/images/IMG_3701.jpg)
 
-I sanded the panels until I was satisfied with their look and feel.
+I sanded the panels until I was satisfied with the look and feel.
 
 ![Sanding the wooden panels](/assets/images/IMG_3717.jpg)
 
-To protect the wood from dirt and humidity, I finished the panels with a [natural wood wax](https://www.amazon.de/OSMO-Osmo-Color-Dekorwachs-transp-750/dp/B002ABTN64?tag=mumothhoofba-21). Although the sun warmed up the barn a little bit, it took quite long until the wood completely soaked up the oil and wax.
+To protect the wood from dirt and humidity, I finished the panels with a [natural wood wax](https://www.amazon.de/OSMO-Osmo-Color-Dekorwachs-transp-750/dp/B002ABTN64?tag=mumothhoofba-21). Although the sun warmed up the barn a little bit, it took quite a long time until the wood completely soaked up the oil and wax.
 
 ![Waxed panels](/assets/images/IMG_3762.jpg)
 
