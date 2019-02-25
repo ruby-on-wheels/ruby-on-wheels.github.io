@@ -34,7 +34,7 @@ When using these metal clips, you usually have to mount one board after the othe
 
 ![Board with grooves on both sides](/assets/images/IMG_4120.jpg)
 
-By placing the board with the two grooves into the center, I could place the first board in the center. Adding the remaining boards towards both sides separately resulted in a nice symmetric look.
+By placing the board with the two grooves into the center, I could add the remaining boards towards both sides in parallel which resulted in a nice symmetric look.
 
 ![Boards aligned to the center](/assets/images/IMG_4141.jpg)
 
