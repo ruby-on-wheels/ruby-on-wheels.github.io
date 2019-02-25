@@ -2,7 +2,7 @@
 layout: post
 title:  Fitting the wooden ceiling
 date:   2019-02-25
-header-img: assets/images/IMG_4183.jpg
+header-img: assets/images/IMG_4186.jpg
 comments: true
 ---
 
