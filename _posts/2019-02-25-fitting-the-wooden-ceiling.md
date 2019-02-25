@@ -6,7 +6,7 @@ header-img: assets/images/IMG_4186.jpg
 comments: true
 ---
 
-After [covering the walls with wood]({% post_url 2019-01-21-fitting-the-wall-panels %}), I continued with the ceiling. I picked tongue and groove boards that would visually stand out from the flat wall panels. For aesthetic reasons, I wanted to keep the number of visible screws as low as possible. The boards had to be mounted very closely to the insulator to gain the highest headroom possible. Unfortunately, the body of my Mercedes 508 is not a simple cuboid that would have allowed me to easily mount the boards. Especially in the back of the van the body is very curved.
+After [covering the walls with wood]({% post_url 2019-01-21-fitting-the-wall-panels %}), I continued with the ceiling. I picked tongue and groove boards that would visually stand out from the flat wall panels. For aesthetic reasons, I wanted to keep the number of visible screws as low as possible. The boards had to be mounted very closely to the insulator to gain the highest headroom possible. Unfortunately, the body of my Mercedes 508 is not a simple cuboid that would have allowed me to easily mount the boards. Especially the back of the van is very curved.
 
 ![Sketch of the challenging body shape of a Mercedes 508](/assets/images/mb508-ambulance-sketch.jpg)
 
