@@ -6,7 +6,7 @@ header-img: assets/images/IMG_3161.jpg
 comments: true
 ---
 
-My [previous camper van]({% post_url 2017-01-11-my-future-mobile-office %}) was equipped with a gas stove and a [450Wh solar system]({% post_url 2017-03-06-ordering-my-solar-system %}) which served me well. Even during the winter, I never ran out of battery. I wanted to avoid installing a gas system into the ambulance and aimed for a solution solely using on solar energy. Before building the interior and integrating all the devices into the van, I wanted to make sure everything worked as expected.
+My [previous camper van]({% post_url 2017-01-11-my-future-mobile-office %}) was equipped with a gas stove and a [450Wh solar system]({% post_url 2017-03-06-ordering-my-solar-system %}) which served me well. Even during the winter, I never ran out of battery. I wanted to avoid installing a gas system into the ambulance and aimed for a solution only based on solar energy. Before building the interior and integrating all the devices into the van, I wanted to make sure everything worked as expected.
 
 ## A little trip through Germany
 
