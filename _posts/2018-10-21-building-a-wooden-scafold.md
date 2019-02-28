@@ -20,15 +20,15 @@ I built wooden arches that exactly matched the height of the insulated steel rib
 
 ![Wooden arch squished into the insulated roof](/assets/images/IMG_3343.jpg)
 
-The arches were squeezed right into the insulated nut at the top of the van's walls.
+The arches were squeezed right into the insulated groove at the top of the van's walls.
 
-![Arch squeezed into the nut](/assets/images/IMG_3521.jpg)
+![Arch squeezed into the groove](/assets/images/IMG_3521.jpg)
 
 Custom L-shaped bars were supposed to be placed horizontally between the arches.
 
 ![L-shaped bars](/assets/images/IMG_3487.jpg)
 
-However, I had troubles squeezing the bars into the insulated nut, so I rounded all the corners and fitted each piece individually.
+However, I had troubles squeezing the bars into the insulated groove, so I rounded all the corners and fitted each piece individually.
 
 ![Finally shape of horizontal bars](/assets/images/IMG_3489.jpg)
 
@@ -36,11 +36,11 @@ I glazed all the pieces to make sure they won't bend because of the frequently c
 
 ![Glazed bars](/assets/images/IMG_3511.jpg)
 
-When the glaze was dry, I pushed the fitted L-shaped bars into the nut between the arches.
+When the glaze was dry, I pushed the fitted L-shaped bars into the groove between the arches.
 
-![Pushing the bars into the nut](/assets/images/IMG_3518.jpg)
+![Pushing the bars into the groove](/assets/images/IMG_3518.jpg)
 
-Squeezed into the nut, the bars stabilized the arches and provided a robust horizontal surface to mount the wall cladding.
+Squeezed into the groove, the bars stabilized the arches and provided a robust horizontal surface to mount the wall cladding.
 
 ![Bars stabilizing the arches](/assets/images/IMG_3515.jpg)
 
