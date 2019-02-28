@@ -58,7 +58,7 @@ While running these cooking experiments, I measured up to 175A going through the
 
 ![extended wires](/assets/images/IMG_3082.jpg)
 
-The cooker consumed about 20 to 30Ah for each meal. Depending on the weather and the time it took my two [250Wh solar panels](https://www.amazon.de/gp/product/B01GJLZOK4?tag=mumothhoofba-21) about one to three hours to feed that energy back into the [battery](https://www.amazon.de/gp/product/B00NT9IDDA?tag=mumothhoofba-21).
+The cooker consumed about 20 to 30Ah for each meal. Depending on the weather and the time it took my two [250Wp solar panels](https://www.amazon.de/gp/product/B01GJLZOK4?tag=mumothhoofba-21) about one to three hours to feed that energy back into the [battery](https://www.amazon.de/gp/product/B00NT9IDDA?tag=mumothhoofba-21).
 
 
 I had a really nice trip and I was quite happy with the outcome of my experiments. The setup seems very promising and I can't wait to install everything into the van! :tada:
