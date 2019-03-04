@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Build a scaffold for the seating area
+title:  Building a scaffold for the seating area
 date:   2019-03-04
 header-img: assets/images/IMG_4253.jpg
 comments: true
