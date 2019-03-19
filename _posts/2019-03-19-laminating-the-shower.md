@@ -6,11 +6,11 @@ header-img: assets/images/IMG_4363.jpg
 comments: true
 ---
 
-The shower cabin that I [built]({% post_url 2019-01-05-building-the-shower-cabin %}) out of plywood had to be protected from the water. I spend a lot of time researching suitable materials. I found several solutions based on PVC panels that were sealed with silicon. These solutions didn't convince me. While driving the van, everything heavily vibrates. I was afraid that the silicone joints would eventually start leaking when using the shower very often. Pictures of [cracked shower trays](https://www.google.com/search?q=cracked+shower+tray+in+caravan&tbm=isch) and [moldy silicone joints](https://www.google.com/search?q=moldy+silicone+joints+shower&tbm=isch) made me looking for better solutions.
+The shower cabin that I [built]({% post_url 2019-01-05-building-the-shower-cabin %}) out of plywood had to be protected from the water. I spent a lot of time researching suitable materials. I found several solutions based on PVC panels that were sealed with silicon. These solutions didn't convince me. While driving the van, everything heavily vibrates. I was afraid that the silicone joints would eventually start leaking when using the shower very often. Pictures of [cracked shower trays](https://www.google.com/search?q=cracked+shower+tray+in+caravan&tbm=isch) and [moldy silicone joints](https://www.google.com/search?q=moldy+silicone+joints+shower&tbm=isch) made me want to look for better solutions.
 
 ## Learning about boat-building
 
-I wanted to build a long-lasting shower cabin without any joints. I quickly ended up reading a lot about boat-building. A lot of boats are built out of wood and float in the water for several years without breaking or getting moldy. After watching a [video](https://www.youtube.com/watch?v=z0SH5drQsGY&t=915s) of two professionals fixing a boat, I felt prepared to laminate the shower cabin with fiberglass and epoxy resin.
+I wanted to build a long-lasting shower cabin without any joints. So immediately started reading up a lot on boat-building. A lot of boats are built out of wood and float in the water for several years without breaking or getting moldy. After watching a [video](https://www.youtube.com/watch?v=z0SH5drQsGY&t=915s) of two professionals fixing a boat, I felt prepared to laminate the shower cabin with fiberglass and epoxy resin.
 
 ## Preparing everything
 
