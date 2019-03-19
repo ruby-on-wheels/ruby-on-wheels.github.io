@@ -6,7 +6,7 @@ header-img: assets/images/IMG_4363.jpg
 comments: true
 ---
 
-The shower cabin that I [built]({% post_url 2019-01-05-building-the-shower-cabin %}) out of plywood had to be protected from the water. I spend a lot of time researching for suitable materials. I found several solutions based on PVC panels that were sealed with silicon. These solutions didn't convince me. While driving the van everything heavily vibrates. I was afraid that the silicone joints would eventually start leaking when using the shower very often. Pictures of [cracked shower trays](https://www.google.com/search?q=cracked+shower+tray+in+caravan&tbm=isch) and [moldy silicone joints](https://www.google.com/search?q=moldy+silicone+joints+shower&tbm=isch) made me looking for better solutions.
+The shower cabin that I [built]({% post_url 2019-01-05-building-the-shower-cabin %}) out of plywood had to be protected from the water. I spend a lot of time researching suitable materials. I found several solutions based on PVC panels that were sealed with silicon. These solutions didn't convince me. While driving the van everything heavily vibrates. I was afraid that the silicone joints would eventually start leaking when using the shower very often. Pictures of [cracked shower trays](https://www.google.com/search?q=cracked+shower+tray+in+caravan&tbm=isch) and [moldy silicone joints](https://www.google.com/search?q=moldy+silicone+joints+shower&tbm=isch) made me looking for better solutions.
 
 ## Learning about boat-building
 
