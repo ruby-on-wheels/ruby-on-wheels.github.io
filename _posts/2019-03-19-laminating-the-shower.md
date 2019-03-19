@@ -56,6 +56,6 @@ Although I applied a lot of layers on the wooden floor, it's still nicely visibl
 
 ![Laminated floor](/assets/images/IMG_4364.jpg)
 
-I'm really happy with the outcome of my work. Now I have stable and water-proof shower without any joints and silicone. I can't wait to take the first shower in my wooden shower! :tada: :shower:
+I'm really happy with the outcome of my work. Now I have stable and waterproof shower without any joints and silicone. I can't wait to take the first shower in my wooden shower! :tada: :shower:
 
 ![Laminated shower](/assets/images/IMG_4363.jpg)
