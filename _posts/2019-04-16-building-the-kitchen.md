@@ -3,7 +3,7 @@ layout: post
 title:  Building the kitchen
 date:   2019-04-16
 header-img: assets/images/IMG_4564.jpg
-comments: false
+comments: true
 ---
 
 I decided to split my kitchen into two parts. A bigger, permanent countertop with the sink next to the shower and a smaller, foldable countertop for the electric cooker right next to the door. The later would allow me to open the door while cooking to prevent my van smelling like a deep fryer.
