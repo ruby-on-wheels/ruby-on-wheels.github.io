@@ -40,7 +40,7 @@ The absorption refrigerator in my 209D was absolutely inefficient. It was consta
 
 I wanted a proper solution and bought a [12V compressor fridge](https://www.amazon.de/gp/product/B00D0GLD4S?tag=mumothhoofba-21) from Dometic. While my previous absorber fridge would need 2640Wh a day, the [Dometic CFX 50]((https://www.amazon.de/gp/product/B00D0GLD4S?tag=mumothhoofba-21)) would only consume about 150 to 300Wh and even allow me to freeze my food. It's a pricy fridge but totally worth it. I have no regrets. No more warm beer, no more battery draining. This fridge is amazing!
 
-## Cooking with solar energy
+## <span id="electric-cooker">Cooking with solar energy</span>
 
 All the energy saved by using a compressor fridge allowed me to use an electric cooker. I installed the [same devices]({% post_url 2017-03-06-ordering-my-solar-system %}) that proved successful in my previous camper van. However, I upgraded the setup with a [2000W voltage converter](https://www.amazon.de/dp/B07573DBYF?tag=mumothhoofba-21).
 
