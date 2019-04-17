@@ -6,7 +6,7 @@ header-img: assets/images/IMG_4495.jpg
 comments: true
 ---
 
-The water system of my [previous van]({% post_url 2017-01-11-my-future-mobile-office %}) was pretty simple: a 40 liters tank with a submersible pump and a small sink. Unfortunately, I couldn't keep the water drinkable without some chemical additives. I didn't like the idea of drinking a chemical cocktail, so I only used to water the wash my body and the dishes. I didn't like buying portable water in jerrycans, either. Based on my negative experience, I decided to install a professional water filter system that would allow me to treat water, even when obtained from questionable sources.
+The water system of my [previous van]({% post_url 2017-01-11-my-future-mobile-office %}) was pretty simple: a 40 liters tank with a submersible pump and a small sink. Unfortunately, I couldn't keep the water drinkable without some chemical additives. I didn't like the idea of drinking a chemical cocktail, so I only used the water to wash my body and the dishes. I didn't like buying portable water in jerrycans, either. Based on my negative experience, I decided to install a professional water filter system that would allow me to treat water, even when obtained from questionable sources.
 
 ## Installing the fresh water tank
 
