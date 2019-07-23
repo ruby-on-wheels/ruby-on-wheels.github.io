@@ -38,7 +38,7 @@ We took the ferry from [Livorno](https://www.google.com/maps/place/Livorno,+Prov
 
 ![Rocky beach at the west coast of Sardinia](/assets/images/IMG_4678.jpg)
 
-I really enjoyed hanging out with my buddies after work watching the beautiful sunsets. Good times!
+I really enjoyed hanging out with my buddies watching the beautiful sunsets after work. Good times!
 
 ![Sun set](/assets/images/IMG_4904.jpg)
 
