@@ -86,7 +86,7 @@ Via [Fulda](https://www.google.com/maps/place/Fulda/) to the [farm]({% post_url 
 
 ![Summer party at the farm](/assets/images/IMG_5290.jpg)
 
-Back to my hometown where I spent joyful days with family and friends and relaxing evenings by myself,
+Back to my hometown where I spent joyful days with my family and friends and relaxing evenings by myself,
 
 ![Relaxing in the sunset](/assets/images/IMG_5381.jpg)
 
