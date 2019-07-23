@@ -70,7 +70,7 @@ On my way to Amsterdam I stopped in my [hometown](https://www.google.com/maps/pl
 
 ![Field near Isny](/assets/images/IMG_4977.jpg)
 
-I really enjoyed the time with my family and friends. After traveling through foreign countries for more than a year, I felt like spending the summer in Germany with close friends and my family spread across the country. I sketched out a rough route through Germany to meet some these people: From Amsterdam to [Cologne](https://www.google.com/maps/place/Cologne/) where we celebrated the record release of my friends' band the [Boneshakers](https://www.facebook.com/theboneshakersofficial/).
+I really enjoyed the time with my family and friends. After traveling through foreign countries for more than a year, I felt like spending the summer in Germany with my family and close friends spread across country. I sketched out a rough route through Germany to meet some these people: From Amsterdam to [Cologne](https://www.google.com/maps/place/Cologne/) where we celebrated the record release of my friends' band the [Boneshakers](https://www.facebook.com/theboneshakersofficial/).
 
 ![Boneshakers record release party](/assets/images/IMG_5103.jpg)
 
