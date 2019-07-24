@@ -54,7 +54,7 @@ In contrast to the rough west coast, there are some calm white sand beaches at t
 
 ![White sand beach in Sardinia](/assets/images/IMG_4709.jpg)
 
-Most of these beaches are only reachable by boat or hiking. We mostly stayed on top of the cliffs where I had good connectivity to do my work. :computer:
+Most of these beaches are only reachable by boat or foot. We mostly stayed on top of the cliffs where I had good connectivity to do my work. :computer:
 
 ![Vans on top of the cliffs](/assets/images/IMG_4827.jpg)
 
