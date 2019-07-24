@@ -94,7 +94,7 @@ and finally to Munich where I found one of the best spots in a big city.
 
 ![Great spot in Munich near Isar](/assets/images/IMG_5451.jpg)
 
-I spent a whole work week surrounded by trees, right next to a refreshing river. It took me only a few minutes to cycle into the city center where I met with my friends after work. What an awesome spot! Nevertheless, I left Munich last week to enjoy the nature in the Alps,
+I spent a whole work week surrounded by trees, right next to a refreshing river. The city center was only a 10 minutes bike ride away where I met with my friends after work. What an awesome spot! Nevertheless, I left Munich last week to enjoy the nature in the Alps,
 
 ![Nature in the Alps](/assets/images/IMG_5475.jpg)
 
