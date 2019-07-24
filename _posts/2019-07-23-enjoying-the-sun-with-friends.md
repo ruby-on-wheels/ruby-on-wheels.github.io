@@ -46,7 +46,7 @@ While you can go surfing at the west coast,
 
 ![Surfing on the west coast of Sardinia](/assets/images/IMG_4863.jpg)
 
-there are also big mountains in the east where you can go hiking and mountain-biking.
+there are also big mountains in the east where you can go hiking, climbing and mountain-biking.
 
 ![Mountains in Sardinia](/assets/images/IMG_4814.jpg)
 
@@ -70,11 +70,11 @@ On my way to Amsterdam I stopped in my [hometown](https://www.google.com/maps/pl
 
 ![Field near Isny](/assets/images/IMG_4977.jpg)
 
-I really enjoyed the time with my family and friends. After traveling through foreign countries for more than a year, I felt like spending the summer in Germany with my family and close friends spread across country. I sketched out a rough route through Germany to meet some these people: From Amsterdam to [Cologne](https://www.google.com/maps/place/Cologne/) where we celebrated the record release of my friends' band the [Boneshakers](https://www.facebook.com/theboneshakersofficial/).
+I really enjoyed the time with my family and friends. After traveling through foreign countries for more than a year, I felt like spending the summer in Germany with my family and close friends living all across country. I sketched out a rough route through Germany to meet most of them: From Amsterdam to [Cologne](https://www.google.com/maps/place/Cologne/) where we celebrated the record release of my friends' band the [Boneshakers](https://www.facebook.com/theboneshakersofficial/).
 
 ![Boneshakers record release party](/assets/images/IMG_5103.jpg)
 
-Via [Münster](https://www.google.com/maps/place/Münster/) and [Hanover](https://www.google.com/maps/place/Hanover/) to [Berlin](https://www.google.com/maps/place/Berlin/) where I spent a lovely weeks in my old neighborhood near [Tempelhofer Feld](https://www.google.com/maps/place/Tempelhofer+Feld/).
+Via [Münster](https://www.google.com/maps/place/Münster/) and [Hanover](https://www.google.com/maps/place/Hanover/) to [Berlin](https://www.google.com/maps/place/Berlin/) where I spent a few lovely weeks in my old neighborhood near [Tempelhofer Feld](https://www.google.com/maps/place/Tempelhofer+Feld/).
 
 ![Van parked next to Tempelhofer Feld](/assets/images/IMG_5052.jpg)
 
@@ -94,11 +94,11 @@ and finally to Munich where I found one of the best spots in a big city.
 
 ![Great spot in Munich near Isar](/assets/images/IMG_5451.jpg)
 
-I spent a whole work week surrounded by trees, right next to a refreshing river. It took me only a few minutes to cycle into the city center to meet with my friends after work. What an awesome spot! Nevertheless, I left Munich last week to enjoy the nature in the Alps,
+I spent a whole work week surrounded by trees, right next to a refreshing river. It took me only a few minutes to cycle into the city center where I met with my friends after work. What an awesome spot! Nevertheless, I left Munich last week to enjoy the nature in the Alps,
 
 ![Nature in the Alps](/assets/images/IMG_5475.jpg)
 
-and meet my friend for some mountain-biking.
+and met my friend for some mountain-biking.
 
 ![Mountain-biking with one of my best friends](/assets/images/IMG_5473.jpg)
 
