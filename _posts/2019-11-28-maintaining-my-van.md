@@ -56,7 +56,7 @@ The new leaf springs increased the clearance by several centimeters. :tada:
 
 ## Servicing the engine
 
-While regularly changing the oil and the filter, the official workshop manual also suggests to check and adjust the valve clearances to make sure the engine runs smoothly. I was very existed to open to engine for the first time.
+While regularly changing the oil and the filter, the official workshop manual also suggests to check and adjust the valve clearances to make sure the engine runs smoothly. I was very excited when opening the engine cover for the first time.
 
 ![Engine without the cylinder head cover](/assets/images/IMG_5688.jpg)
 
