@@ -76,7 +76,7 @@ I've been using the stove almost every day for about a month and am really happy
 
 ![Wood stove in my van](/assets/images/IMG_6418.jpg)
 
-The foldable handles on the side of the stove are perfect for drying the wood before burning it. I also really enjoy cooking with the stove.
+The foldable handles on the side of the stove are perfect for drying the wood before burning it. I really enjoy cooking with the stove.
 
 ![Cooking with the stove](/assets/images/IMG_6350.jpg)
 
