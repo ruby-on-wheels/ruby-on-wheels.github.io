@@ -89,7 +89,7 @@ Although it was raining most of the time, I spent a great week with all my frien
 
 ## Leaving the Spanish mainland
 
-Although I enjoyed the time in Madrid, the weather wasn't joyful at all. So, I left the Spanish capital headed south to the Atlantic ocean.
+I enjoyed the time in Madrid a lot, but the weather wasn't joyful at all. So, I left the Spanish capital headed south to the Atlantic ocean.
 
 ![Driving out of Madrid in the rain](/assets/images/IMG_6814.jpg)
 
