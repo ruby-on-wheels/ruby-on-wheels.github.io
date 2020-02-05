@@ -102,6 +102,6 @@ I mostly stayed in the countryside but [Punta Mujeres](https://www.google.com/ma
 
 After leaving Punta Mujere, I was close to Arrecife where I had arrived initially. My round trip through Lanzarote was amazing. The island is definitely worth another visit!
 
-I'm excited about the upcoming experiences on [Fuerteventura](https://www.google.com/maps/place/Fuerteventura/), the second-largest of the Canary Islands which is only a 20 minutes ferry ride away from Lanzarote.
+I'm looking forward to visit [Fuerteventura](https://www.google.com/maps/place/Fuerteventura/), the second-largest of the Canary Islands which is only a 20 minutes ferry ride away from Lanzarote.
 
 ![Ferry ride form Lanzarote to Fuerteventura](/assets/images/IMG_7026.jpg)
