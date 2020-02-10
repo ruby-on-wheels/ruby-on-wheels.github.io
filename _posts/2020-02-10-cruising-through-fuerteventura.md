@@ -6,7 +6,7 @@ header-img: assets/images/IMG_7084_.jpg
 comments: true
 ---
 
-I took the ferry from [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) to Fuerteventura on a weekend, so I had some time to explore the northern part of the second-largest of the Canary Islands. The ferry landed in [Corralejo](https://www.google.com/maps/place/35660+Corralejo,+Las+Palmas,+Spain/), I didn't feel like spending time in a city and drove right into the expansive sand dunes of the [Parque Natural de Corralejo](https://www.google.com/maps/place/Parque+Natural+de+Corralejo/). The pristine beaches looked amazing.
+I took the ferry from [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) to Fuerteventura on a weekend, so I had some time to explore the northern part of the second-largest of the Canary Islands. The ferry landed in [Corralejo](https://www.google.com/maps/place/35660+Corralejo,+Las+Palmas,+Spain/). I didn't feel like spending time in a city and drove right into the expansive sand dunes of the [Parque Natural de Corralejo](https://www.google.com/maps/place/Parque+Natural+de+Corralejo/). The pristine beaches looked amazing.
 
 ![Dunas de Corralejo](/assets/images/IMG_7034.jpg)
 
@@ -28,7 +28,7 @@ He started his bicycle tour in Germany about four months ago and was exploring t
 
 ## Cruising in the North
 
-Inspired by the bicycle stories, I drove into the hinterlands looking for some Volcanos to ride my mountain-bike. However, I got distracted by strolling through the streets of [La Oliva](https://www.google.com/maps/place/La+Oliva,+Las+Palmas,+Spain/), a small town in the middle of the northern part of the island.
+Inspired by the bicycle stories, I drove into the hinterlands looking for some volcanos to ride my mountain-bike. However, I got distracted by strolling through the streets of [La Oliva](https://www.google.com/maps/place/La+Oliva,+Las+Palmas,+Spain/), a small town in the middle of the northern part of the island.
 
 ![Palm trees in La Oliva](/assets/images/IMG_7039.jpg)
 
@@ -36,7 +36,7 @@ It was really warm and the sun was burning, so I abandoned my cycle plans and de
 
 ![El Hierro surf spot](/assets/images/IMG_7042.jpg)
 
-The surf conditions were great and the area was packed with cars, pick-ups and vans. I spent a couple of hours at El Hierro before heading further down south to [El Cotillo](https://www.google.com/maps/place/35650+El+Cotillo,+Las+Palmas,+Spain/) in the evening. It was much easier to find a proper spot to park my van evenly in front of [Playa del Castillo](https://www.google.com/maps/place/Playa+del+Castillo/).
+The surf conditions were great and the area was packed with cars, pick-ups and vans. I spent a couple of hours at El Hierro before heading further down south to [El Cotillo](https://www.google.com/maps/place/35650+El+Cotillo,+Las+Palmas,+Spain/) in the evening. It was much easier to find a spot to park my van evenly in front of [Playa del Castillo](https://www.google.com/maps/place/Playa+del+Castillo/).
 
 ![Marco's and my van at Playa del Castillo](/assets/images/IMG_7072.jpg)
 
@@ -50,7 +50,7 @@ While Marco went surfing, relaxed or worked on his new [blog](https://marcos-sur
 
 ![Working at Playa del Castillo](/assets/images/IMG_7069.jpg)
 
-Nevertheless, we spent a lot of time together, either during my breaks or after work when the sun set over the Atlantic.
+Nevertheless, we spent a lot of time together, either during my breaks or the amazing sunsets after work.
 
 ![Sun set at Playa del Castillo](/assets/images/IMG_7084_.jpg)
 
@@ -64,7 +64,7 @@ I wondered about the great condition of the road although there weren't any sign
 
 ![Bay with green plants](/assets/images/IMG_7098_.jpg)
 
-Something that I haven't seen for a long time on these dry islands. The reason for all the green colors was easy to locate:
+Something that I haven't seen for a long time on these dry islands. It was easy to locate the reason for all the green colors: a natural spring.
 
 ![Natural spring near the beach](/assets/images/IMG_7097.jpg)
 
@@ -78,7 +78,7 @@ The further I drove, the worse the "path" became.
 
 ![Path in bad condition](/assets/images/IMG_7118_.jpg)
 
-I had to cross several canyons. After slightly touching the ground with the front axle and spinning the wheels in the first gear on a steep slope, I started questioning if I should keep driving further. I had no idea what I had to expect until reaching [Ajuy](https://www.google.com/maps/place/35628+Ajuy,+Las+Palmas,+Spain/), the next village which was about 10km away. My van is not a 4x4 off road truck. I can't even lock the differential. Was it worth to accept the risk of getting stuck or break my van in one of these canyons in the middle of nowhere?
+I had to cross several canyons. After slightly touching the ground with the front axle and spinning the wheels in the first gear on a steep slope, I started questioning if I should keep driving further. I had no idea what I had to expect until reaching [Ajuy](https://www.google.com/maps/place/35628+Ajuy,+Las+Palmas,+Spain/), the next village which was about 10km away. My van is not a 4x4 off road truck. I can't even lock the differential. Was it worth to accept the risk of getting stuck or breaking my van in one of these canyons in the middle of nowhere?
 
 ![Between Llanos de la Concepción and Ajuy](/assets/images/IMG_7114.jpg)
 
@@ -98,13 +98,13 @@ I was surprised about all the restaurants and bars in the small village. After w
 
 ![Big cave near Ajuy](/assets/images/IMG_7140.jpg)
 
-The gigantic caves are up to 40 meters high and some of them are accessible. The the sea water and the darkness create a mystic atmosphere inside the caves.
+The gigantic caves are up to 40 meters high and some of them are accessible. The sea water and the darkness created a mystic atmosphere inside the caves.
 
 ![View from inside the cave](/assets/images/IMG_7145.jpg)
 
 ## Reaching the South
 
-After passing [Costa Calma](https://www.google.com/maps/place/35627+Costa+Calma,+Las+Palmas,+Spain/) which seemed full of hotels, I stopped at [Playa de Sotavento](https://www.google.com/maps/place/Playa+de+Sotavento+de+Jand%C3%ADa/). The lagoon seemed perfect for wind and kite surfers.
+After passing [Costa Calma](https://www.google.com/maps/place/35627+Costa+Calma,+Las+Palmas,+Spain/) which seemed full of hotels, I stopped at [Playa de Sotavento](https://www.google.com/maps/place/Playa+de+Sotavento+de+Jand%C3%ADa/). The lagoon was perfect for wind and kite surfers.
 
 ![View from inside the cave](/assets/images/IMG_7152.jpg)
 
