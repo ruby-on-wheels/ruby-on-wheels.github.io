@@ -6,7 +6,7 @@ header-img: assets/images/IMG_7181.jpg
 comments: true
 ---
 
-The rough ferry ride from [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}) to Gran Canaria took about two hours. After sunset, we finally approached the harbor of [Las Palmas de Gran Canaria](https://www.google.com/maps/place/Las+Palmas+de+Gran+Canaria,+Las+Palmas/), the most populous city on the Canary Islands. I felt a little sea sick and wasn't able to fully enjoy how the purple sky and the dark ocean created a beautiful atmosphere.
+The rough ferry ride from [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}) to Gran Canaria took about two hours. After sunset, we finally approached the harbor of [Las Palmas de Gran Canaria](https://www.google.com/maps/place/Las+Palmas+de+Gran+Canaria,+Las+Palmas/), the most populous city on the Canary Islands. I felt a little sea sick and wasn't able to fully enjoy the beautiful atmosphere created by the purple sky and the dark ocean.
 
 ![Purple sky after sunset](/assets/images/IMG_7178.jpg)
 
@@ -16,7 +16,7 @@ It took me about 40 minutes, until I reached a quiet spot. I had no idea where I
 
 ![View to Las Palmas in the dark](/assets/images/IMG_7179.jpg)
 
-My initial doubts about the islands completely disappeared when I opened the door of my van the next morning.
+My initial doubts about the islands completely disappeared when I opened the door of my van in the morning.
 
 ![View to Las Palmas in the dark](/assets/images/IMG_7181.jpg)
 
@@ -36,7 +36,7 @@ After spending some time in [Santa Brígida](https://www.google.com/maps/place/S
 
 ![Santa Brígida](/assets/images/IMG_7192.jpg)
 
-I drove through a forrest, something I haven't experienced on [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) and [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}).
+I passed a forrest which was something I haven't seen on [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) and [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}).
 
 ![Santa Brígida](/assets/images/IMG_7196.jpg)
 
