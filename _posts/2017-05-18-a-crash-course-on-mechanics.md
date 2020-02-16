@@ -3,7 +3,7 @@ layout: post
 title:  A crash course on mechanics
 date:   2017-05-18
 header-img: assets/images/IMG_8063.JPG
-comments: false
+comments: true
 ---
 
 I got in touch with Axel through a [German online community](http://www.busfreaks.de) where he and others virtually helped me to deal with the [issues]({% post_url 2017-03-15-the-first-technical-issue %}) I had with my transmission. Axel owns a collection of six classic vehicles. One of them is a nice Mercedes-Benz 307D. He has a huge archive of original repair manuals and has worked on several Mercedes-Benz vans and trucks. On a phone call, he invited me to come by to check out my Mercedes-Benz 209D in more detail. A few days later, we met in a parking lot near [Großhau](https://www.google.com/maps/place/Großhau,+52393+Hürtgenwald,+Germany/).
