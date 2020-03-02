@@ -8,13 +8,13 @@ comments: true
 
 When the ferry arrived on El Hierro, the least populous of the Canary Islands was completely covered in darkness. I haven't seen a star-spangled sky like that in a very long time. :sparkles: I left the port and followed the main road towards the plateau in the center of the island. The air seemed so fresh. A mix of moisture and the smell of herbs made me deeply inhale. This felt great for my weakened lungs.
 
-Instead of straying in the dark, I simply spent the night in quite parking area behind [San Andrés](https://www.google.com/maps/place/38915+San+Andr%C3%A9s,+Santa+Cruz+de+Tenerife,+Spain/). In the morning, I woke up by the sounds of birds and the bells hanging on some goats' necks.
+Instead of straying in the dark, I simply spent the night in a quiet parking area behind [San Andrés](https://www.google.com/maps/place/38915+San+Andr%C3%A9s,+Santa+Cruz+de+Tenerife,+Spain/). In the morning, I woke up by the sounds of birds and the bells hanging on some goats' necks.
 
 ![Goats on field](/assets/images/IMG_7260.jpg)
 
 The goats seemed to enjoy good food on that field. Inspired by the smell of the herbs and the bells of the goats, I walked into the calm village and bought a local queso fresco de cabra. Delicious!
 
-A lot of nature, quiet villages, small shops and markets selling local food: This island seemed perfect to recovery from my [cold that I had to deal with on Tenerife]({% post_url 2020-02-19-trading-a-swim-for-a-vacation-on-tenerife %}).
+A lot of nature, quiet villages, small shops and markets selling local food: This island seemed perfect to recover from my [cold that I had to deal with on Tenerife]({% post_url 2020-02-19-trading-a-swim-for-a-vacation-on-tenerife %}).
 
 ## Exploring the south
 
@@ -54,7 +54,7 @@ Some paths led to dead ends or where locked like this one:
 
 ![Blocked path](/assets/images/IMG_7375.jpg)
 
-Nevertheless, I really enjoyed my little excursions in the evenings. Still looking for a nice spot at the sea with network connectivity, I ended up at the [recreational area of Muelle de Orchilla](https://www.google.com/maps/place/%C3%81rea+recreativa+del+Muelle+de+Orchilla/) in the southwest of the island.
+Nevertheless, I really enjoyed my little excursions in the evenings. Still looking for a nice spot at the ocean with network connectivity, I ended up at the [recreational area of Muelle de Orchilla](https://www.google.com/maps/place/%C3%81rea+recreativa+del+Muelle+de+Orchilla/) in the southwest of the island.
 
 ![Área recreativa del Muelle de Orchilla](/assets/images/IMG_7295.jpg)
 
