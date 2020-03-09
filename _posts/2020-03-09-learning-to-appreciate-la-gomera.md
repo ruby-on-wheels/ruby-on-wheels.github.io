@@ -20,7 +20,7 @@ When the weather finally improved, I took the ferry to La Gomera. I spent my fir
 
 ![Playa de Ávalo](/assets/images/IMG_7410.jpg)
 
-Unfortunately, the network connection was really unreliable in the canyon, so I had to drive back to [San Sebastián de La Gomera](https://www.google.com/maps/place/San+Sebasti%C3%A1n+de+La+Gomera,+Santa+Cruz+de+Tenerife/). I quickly left the town after work to look for a better spot in the mountains. While the network connection was brilliant more than 1000 meters above sea leave at [Ermita de Nuestra Señora de Las Nieves](https://www.google.com/maps/place/Ermita+de+Nuestra+Se%C3%B1ora+de+Las+Nieves/), the view was very disappointing.
+Unfortunately, the network connection was really unreliable in the canyon, so I had to drive back to [San Sebastián de La Gomera](https://www.google.com/maps/place/San+Sebasti%C3%A1n+de+La+Gomera,+Santa+Cruz+de+Tenerife/). I quickly left the town after work to look for a better spot in the mountains. While the network connection was brilliant more than 1000 meters above sea level, the view was very disappointing.
 
 ![Bad view from Ermita de Nuestra Señora de Las Nieves](/assets/images/IMG_7412.jpg)
 
@@ -62,7 +62,7 @@ I didn't feel like staying in the center of the town and stayed a little seclude
 
 ## Exploring the north and east
 
-I wanted to use the weekend to explore the beautiful nature that I saw on my way to Valley Gran Rey. I had enough of Valley Gran Rey and all the hippies and headed to the northern and eastern part of the island. Places like [Tamargada](https://www.google.com/maps/place/38891+Tamargada,+Santa+Cruz+de+Tenerife/) seemed much more pristine and less touristic.
+I wanted to use the weekend to explore the beautiful nature that I saw on my way to Valley Gran Rey. I had enough of all the hippies, so I left Valley Gran Rey headed to the northern and eastern part of the island. Places like [Tamargada](https://www.google.com/maps/place/38891+Tamargada,+Santa+Cruz+de+Tenerife/) seemed much more pristine and less touristic.
 
 ![View on Tamargada](/assets/images/IMG_7454.jpg)
 
@@ -94,11 +94,11 @@ After hiking for a couple of hours through the forest without seeing anything bu
 
 ![View from a little clearing on Routa 18](/assets/images/IMG_7476.jpg)
 
-While I ascending toward the highest point of the island, the greenery started changing. Instead of trees, flowers were growing next to the trail.
+While ascending toward the highest point of the island, the greenery started changing. Instead of trees, flowers were growing next to the trail.
 
 ![Flowers on Routa 18](/assets/images/IMG_7483.jpg)
 
-Bees were busily flying from one flower to other. :honeybee:
+Bees were busily flying from one flower to the other. :honeybee:
 
 ![Bee on Routa 18](/assets/images/IMG_7488.jpg)
 
@@ -110,7 +110,7 @@ After about three hours I reached [Alto de Garajonay](https://www.google.com/map
 
 ![View from Alto de Garajonay](/assets/images/IMG_7494.jpg)
 
-On my way down, I passed a little creek. It was the first time that I saw a natural stream on the Canary Islands.
+On my way down, I spotted a little creek. It was the first time that I saw a natural stream on the Canary Islands.
 
 ![Creek on Routa 18](/assets/images/IMG_7502.jpg)
 
