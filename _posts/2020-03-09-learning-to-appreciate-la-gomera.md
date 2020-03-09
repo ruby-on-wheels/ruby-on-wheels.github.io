@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Coming to appreciate La Gomera
+title:  Learning to appreciate La Gomera
 date:   2020-03-09
 header-img: assets/images/IMG_7476.jpg
 comments: true
