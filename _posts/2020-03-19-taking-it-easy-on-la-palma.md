@@ -2,7 +2,7 @@
 layout: post
 title:  Taking it easy on La Palma
 date:   2020-03-19
-header-img: assets/images/IMG_7525.jpg
+header-img: assets/images/IMG_7532.jpg
 comments: true
 ---
 
