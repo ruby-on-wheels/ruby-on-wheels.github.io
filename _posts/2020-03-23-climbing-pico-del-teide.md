@@ -62,4 +62,4 @@ I cheerfully started the descent. The lower the altitude, the more energized I f
 
 ![View from road TF-24](/assets/images/IMG_7596.jpg)
 
-After visiting all the seven main islands, I headed back to Lanzarote where I [started]({% post_url 2020-02-05-exploring-lanzarote %}) my trip through the Canaries in January. I felt like spending one more relaxing week together with Marco who I met on [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}) before taking the ferry back to the Spanish mainland.
+After visiting all the seven main islands, I headed back to Lanzarote where I [started]({% post_url 2020-02-05-exploring-lanzarote %}) my trip through the Canaries in January. I felt like spending one more relaxing week together with [Marco](https://marcos-surf-journal.github.io/) who I met on [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}) before taking the ferry back to the Spanish mainland.
