@@ -62,7 +62,7 @@ To my surprise, there weren't any border patrols. I could tell that the French r
 
 I kept driving until night again and spent my second night at a [highway stop](https://www.google.com/maps/place/Station+De+Service+Eni+%2B+Brioche+Dor%C3%A9e/) in front of [Valence](https://www.google.com/maps/place/26000+Valence,+France/). After driving for almost 14 hours, I felt asleep immediately.
 
-## Crossing the German boarder
+## Crossing the German border
 
 I continued my journey early in the morning and drove the last 600km through France until I reached the German border. This time, there was a border patrol. I was stuck between several trucks and had to wait for about an hour until I was finally on German territory again. :tada:
 
