@@ -68,7 +68,7 @@ I continued my journey early in the morning and drove the last 600km through Fra
 
 ![Stuck between trucks in front of the German border](/assets/images/IMG_7802.jpg)
 
-To my surprise there were a lot of passenger cars driving on the highway. The German restrictions seemed way more relaxed than in Spain.
+To my surprise there were a lot of passenger cars driving on the German highway. The German restrictions seemed way more relaxed than in Spain.
 
 ![Passenger cars on the highway](/assets/images/IMG_7813.jpg)
 
