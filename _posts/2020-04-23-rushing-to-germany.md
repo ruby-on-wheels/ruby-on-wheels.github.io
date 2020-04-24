@@ -6,7 +6,7 @@ header-img: assets/images/IMG_7758.jpg
 comments: true
 ---
 
-The restrictions in Spain didn't seem very promising. Especially for non-residents like Marco and me. After [staying a couple of weeks in our vans in a parking lot on Lanzarote]({% post_url 2020-03-24-experiencing-the-spanish-lockdown-in-a-van %}), we decided trying to get back to our home countries. We boarded the ferry from [Arrecife](https://www.google.com/maps/place/Arrecife,+Las+Palmas,+Spain/) to [Cádiz](https://www.google.com/maps/place/C%C3%A1diz,+Spain/) on a Sunday night at 1am.
+The restrictions in Spain didn't seem very promising. Especially for non-residents like Marco and me. After [staying a couple of weeks in our vans in a parking lot on Lanzarote]({% post_url 2020-03-24-experiencing-the-spanish-lockdown-in-a-van %}), we tried to get back to our home countries. We boarded the ferry from [Arrecife](https://www.google.com/maps/place/Arrecife,+Las+Palmas,+Spain/) to [Cádiz](https://www.google.com/maps/place/C%C3%A1diz,+Spain/) on a Sunday night at 1am.
 
 ## Crossing the Atlantic
 
@@ -20,7 +20,7 @@ The air was a little cold at night but quickly warmed up in the morning when the
 
 ## Dropping Marco at the airport
 
-After a calm but boring ferry ride of 34 hours, we finally arrived in Cádiz. Marco's engine sounded really bad. Probably a worn out bearing. He had already booked an appointment at a [garage specialized in Volkswagen vans](http://www.karvans.com/) near [Sevilla](https://www.google.com/maps/place/Seville,+Spain/). However, the radiator was additionally leaking a lot of coolant, so there was no point in driving the van from Cádiz to Sevilla.
+After a calm but boring ferry ride lasting for 34 hours, we finally arrived in Cádiz. Marco's engine sounded really bad. Probably a worn out bearing. He had already booked an appointment at a [garage specialized in Volkswagen vans](http://www.karvans.com/) near [Sevilla](https://www.google.com/maps/place/Seville,+Spain/). Additionally, the radiator was leaking a lot of coolant, so there was no point in driving the van from Cádiz to Sevilla.
 
 ![Marco's van being towed](/assets/images/IMG_7739.jpg)
 
@@ -32,7 +32,7 @@ After dropping Marco at the airport I started my trip headed to Germany.
 
 ![Highway after Sevilla](/assets/images/IMG_7740.jpg)
 
-Expect for a small number trucks, the highway was completely empty. Several signs stated that only authorized trips were allowed.
+Expect for a small number of trucks, the highway was completely empty. Several signs stated that only authorized trips were allowed.
 
 ![Corona warnings](/assets/images/IMG_7758.jpg)
 
@@ -44,7 +44,7 @@ I spent the whole day driving until it turned dark.
 
 ![Rain on the highway](/assets/images/IMG_7764.jpg)
 
-I stopped at a [gas station](https://www.google.com/maps/place/Estaci%C3%B3n+de+servicio+Cepsa/) 200km in front of [Valencia](https://www.google.com/maps/place/Valencia,+Spain/) and felt quite tired, so I decided to spend the night there.
+I stopped at a [gas station](https://www.google.com/maps/place/Estaci%C3%B3n+de+servicio+Cepsa/) 200km in front of [Valencia](https://www.google.com/maps/place/Valencia,+Spain/). I felt quite tired, so I decided to spend the night there.
 
 When I continued my journey early in the morning, the weather was even worse than the day before.
 
@@ -60,7 +60,7 @@ To my surprise, there weren't any border patrols. I could tell that the French r
 
 ![Bad weather in front of Valencia](/assets/images/IMG_7793.jpg)
 
-I kept driving until night again and spent my second night at a [highway stop](https://www.google.com/maps/place/Station+De+Service+Eni+%2B+Brioche+Dor%C3%A9e/) in front of [Valence](https://www.google.com/maps/place/26000+Valence,+France/). After driving for almost 14 hours, I felt asleep immediately.
+I kept driving until it was dark and spent my second night at a [highway stop](https://www.google.com/maps/place/Station+De+Service+Eni+%2B+Brioche+Dor%C3%A9e/) in front of [Valence](https://www.google.com/maps/place/26000+Valence,+France/). After driving for almost 14 hours, I felt asleep immediately.
 
 ## Crossing the German border
 
@@ -74,10 +74,10 @@ To my surprise there were a lot of passenger cars driving on the highway. The Ge
 
 ## Arriving at my friends farm
 
-Headed to the farm of my friends, I still had 500km in front of me after passing the German boarder in the afternoon. I was still driving when it was dark.
+After passing the German boarder in the afternoon, there were about 500km left to reach the farm of my friends in Bavaria. I was still driving when it was dark.
 
 ![Driving in the darkness](/assets/images/IMG_7821.jpg)
 
-Around 10pm I reached the farm. While my [trip to the Canaries in January]({% post_url 2020-01-26-crossing-spain %}) took me a month, I nailed the 2600km in only two and a half days on my way back. I was exhausted but happy. I finally arrived at a safe spot where I can freely and indefinitely stay with my van until the global situation will become better again. :pray:
+Around 10pm, I reached the farm. While my [trip to the Canaries in January]({% post_url 2020-01-26-crossing-spain %}) took me a month, I nailed the 2600km in only two and a half days on my way back. I was exhausted but happy. I finally arrived at a safe spot where I can freely and indefinitely stay with my van until the global situation will become better again. :pray:
 
 ![Van parked at the farm](/assets/images/IMG_7831.jpg)
