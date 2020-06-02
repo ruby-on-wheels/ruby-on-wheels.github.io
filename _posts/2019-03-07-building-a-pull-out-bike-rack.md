@@ -52,7 +52,7 @@ The rails are designed for 30kg which seems good enough for my 16kg mountain-bik
 
 I'm quite happy with the outcome of my little project. When the rack is pulled out, I can easily put the bike on top of it.
 
-![Putting the bike on the rack](/assets/images/IMG_4276.jpg)
+![Bike on the pullout rack](/assets/images/IMG_4276.jpg)
 
 When pushing the rack back into the van the bike smoothly slides right under the bed construction,
 
@@ -60,7 +60,7 @@ When pushing the rack back into the van the bike smoothly slides right under the
 
 until it reaches its final position in which the doors can be closed.
 
-![Bike in the van](/assets/images/IMG_4280.jpg)
+![Bike store under the bed in the van](/assets/images/IMG_4280.jpg)
 
 Here's a video of the bike rack in action:
 
