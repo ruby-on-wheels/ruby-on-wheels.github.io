@@ -6,7 +6,7 @@ header-img: assets/images/IMG_8153.jpg
 comments: true
 ---
 
-I've never examined the brakes of my 508D since [buying it]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}) about two years ago. I heavily stressed the brakes while [driving around the volcano's on the Canary islands]({% post_url 2020-03-23-climbing-pico-del-teide %}). The bi-yearly general inspection was due, so I took advantage of the Corona lockdown to check my van and especially the brakes.
+I've never examined the brakes of my 508D since [buying it]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}) about two years ago. I heavily stressed the brakes while [driving around the volcano's on the Canary islands]({% post_url 2020-03-23-climbing-pico-del-teide %}). The bi-yearly general inspection was due, so I took advantage of the Corona lockdown to check my van and especially the brakes before getting it officially inspected.
 
 ## Fixing minor issues
 
