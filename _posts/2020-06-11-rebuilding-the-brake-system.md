@@ -86,7 +86,7 @@ After overhauling all the parts, I mounted the new brake cylinders and applied c
 
 ![Mounting the brake cylinder onto the anchor plate of a Mercedes 508](/assets/images/IMG_8154.jpg)
 
-As I was already taking apart the whole break, I also installed new brake hoses.
+As I was already taking apart the whole brake system, I also installed new brake hoses.
 
 ![New brake hoses for the Mercedes 508](/assets/images/IMG_8161.jpg)
 
