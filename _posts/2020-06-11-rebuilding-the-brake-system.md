@@ -14,7 +14,7 @@ I jacked up the van in the barn of my friends and started fixing minor issues li
 
 ![Mercedes 508D jacked up in the barn](/assets/images/IMG_8076_2.jpg)
 
-While fixing the leak on the transmission, I realized that the cover below the clutch was oily and removed it. There was a mix of oil and fat everywhere.
+While fixing the leak in the transmission, I realized that the cover below the clutch was oily and removed it. There was a mix of oil and fat everywhere.
 
 ![Oil and fat between the clutch and the transmission](/assets/images/IMG_8119.jpg)
 
