@@ -18,4 +18,4 @@ The shooting was a lot of fun! I really like the clip for their brand new song "
 
 {% include youtube.html id="ADv4MzvCacU" %}
 
-You can follow the Band on [Spotify](https://open.spotify.com/album/7uPRK1OoCdWurJEOvxoSE4?si=PdUrkZDnRP-7szOT1cu_hQMusic), [Instagram](https://www.instagram.com/thedrunkendentists/) and [Facebook](https://www.facebook.com/TheDrunkenDentists/).
+You can follow the band on [Spotify](https://open.spotify.com/album/7uPRK1OoCdWurJEOvxoSE4?si=PdUrkZDnRP-7szOT1cu_hQMusic), [Instagram](https://www.instagram.com/thedrunkendentists/) and [Facebook](https://www.facebook.com/TheDrunkenDentists/).
