@@ -24,7 +24,7 @@ We enjoyed nice hikes and cozy dinners in my van.
 
 ![Dinner in my van](/assets/images/068d52d7-c93d-4231-8e2c-84f465218c1c.jpg)
 
-One of the highlights of my trip through [Saxony](https://www.google.com/maps/place/Saxony,+Germany/) was visiting a community living in tiny houses, trailers, trucks on farm near [Bischofswerda](https://www.google.com/maps/place/01877+Bischofswerda,+Germany/). I really enjoyed the vibe. Good times!
+One of the highlights of my trip through [Saxony](https://www.google.com/maps/place/Saxony,+Germany/) was visiting a community living in tiny houses, trailers, trucks and vans on farm near [Bischofswerda](https://www.google.com/maps/place/01877+Bischofswerda,+Germany/). I really enjoyed the vibe. Good times!
 
 ![Mercedes 508 parked near a lake near Dresden](/assets/images/IMG_8324.jpg)
 
