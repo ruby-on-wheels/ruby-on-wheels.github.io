@@ -60,6 +60,6 @@ and of course the [Allgäu](https://www.google.com/maps/place/Allg%C3%A4u/), the
 
 Part of my family still lives there, so that's probably the area I consider as "home".
 
-![View on Rottachsee](/assets/images/IMG_8588.jpg)
+![View on Rottachspeicher](/assets/images/IMG_8588.jpg)
 
 There are so many beautiful places in Germany, so I really didn't mind the travel restrictions for foreign countries. Good times!
