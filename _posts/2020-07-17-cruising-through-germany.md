@@ -34,7 +34,7 @@ Coming back to Berlin always feels great. Especially in the summer.
 
 ![Sunset at Landwehr Canal](/assets/images/IMG_8267.jpg)
 
-Although I [left Berlin]({% post_url 2017-05-11-leaving-berlin %}) more than three years ago, I still feel very connected to Germany's biggest city and all my friends living there. As usual, I stayed with my van in my old neighborhood near [Tempelhofer Feld](https://www.google.com/maps/place/Tempelhofer+Feld/) and enjoyed good company.
+Although I [left Berlin]({% post_url 2017-05-11-leaving-berlin %}) more than three years ago, I still feel very connected to Germany's biggest city and all my friends living there. As usual, I stayed in my old neighborhood near [Tempelhofer Feld](https://www.google.com/maps/place/Tempelhofer+Feld/) and enjoyed good company.
 
 ![Two Mercedes T2s parked in Berlin](/assets/images/IMG_8296.jpg)
 
