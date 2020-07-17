@@ -2,4 +2,5 @@ _site
 .sass-cache
 .DS_Store
 .ruby-version
+vendor
 node_modules
