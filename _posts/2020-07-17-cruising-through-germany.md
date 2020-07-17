@@ -44,7 +44,7 @@ I also left the city once in a while to relax a little bit at the nice lakes aro
 
 ## Cruising through southern Germany
 
-After spending a great time in Berlin, I drove back to southern Germany where I spend time with all my friends across different places:
+After spending a great time in Berlin, I drove back to southern Germany where I spent time with all my friends across different places:
 
 The farm near [Dorfen](https://www.google.com/maps/place/84405+Dorfen,+Germany/), east of Munich,
 
