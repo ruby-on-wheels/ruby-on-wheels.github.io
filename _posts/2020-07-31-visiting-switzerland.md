@@ -12,7 +12,7 @@ Before visiting one of my coworkers in [Zumikon](https://www.google.com/maps/pla
 
 ![Pfäffikersee in Switzerland](/assets/images/IMG_8628.jpg)
 
-There are several public and freely accessible swimming areas that invited for a refreshing swim in the morning.
+There were several public and freely accessible swimming areas inviting for a refreshing swim in the morning.
 
 ## Exploring the Swiss lakes
 
