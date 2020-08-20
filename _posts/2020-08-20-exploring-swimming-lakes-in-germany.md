@@ -6,7 +6,7 @@ header-img: assets/images/IMG_8925.jpg
 comments: true
 ---
 
-Inspired by the beautiful [lakes I visited in Switzerland]({% post_url 2020-07-31-visiting-switzerland %}) and the hot temperatues in Germany, I decided to check out a few lakes on my way to northern Germany where I wanted to visit family and friends.
+After spending most of the summer in southern Germany, I wanted to go for another trip to northern Germany to visit family and friends. Inspired by the beautiful [lakes I visited in Switzerland]({% post_url 2020-07-31-visiting-switzerland %}) and the hot temperatures in Germany, I decided to take a little detour to check out a few swimming lakes on my way to the North.
 
 ## Going for swims in Bavaria
 
