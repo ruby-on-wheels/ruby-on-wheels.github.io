@@ -100,7 +100,7 @@ I spent my last night in Brandenburg between the [big](https://www.google.com/ma
 
 ![Big Zermittensee](/assets/images/IMG_8978.jpg)
 
-I also saw some people swimming in the small Zermittensee when walking around it.
+I also saw some people swimming in the small Zermittensee while walking around it.
 
 ![Small Zermittensee](/assets/images/IMG_8981.jpg)
 
