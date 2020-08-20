@@ -90,7 +90,7 @@ By chance, I ended up swimming in [Huwenowsee](https://www.google.com/maps/place
 
 The water wasn't as clear as the water of Liepnitzsee but it was still great for swimming.
 
-I didn't even drive more than five kilometers until I spotted another lake that forced me to stop again:
+I didn't even drive than five kilometers until I spotted another lake that forced me to stop again:
 
 ![Salchowsee](/assets/images/IMG_8975.jpg)
 
