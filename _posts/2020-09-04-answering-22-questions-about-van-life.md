@@ -62,7 +62,7 @@ I usually prefer staying at places where I have strong social connections like f
 
 ### Do you prefer campgrounds, beaches/lakes, or forests the most?
 
-Ignoring the social aspect I mentioned in the previous answer, I prefer remote places next to a clear river where I can get water to treat it with my [filter system]({% post_url 2019-04-17-installing-the-water-system %}). I also like staying in the woods but I can't stay in a dense forest for more than a week because I depend on solar energy. The ideal place to stay might be a clearing surrounded by trees right next to a river. Maybe something like this lovely spot that I found in Sweden:
+Ignoring the social aspect I mentioned in the previous answer, I prefer remote places next to a clear river where I can get water that I can treat with my [filter system]({% post_url 2019-04-17-installing-the-water-system %}). I also like staying in the woods but I can't stay in a dense forest for more than a week because I depend on solar energy. The ideal place to stay might be a clearing surrounded by trees right next to a river. Maybe something like this lovely spot that I found in Sweden:
 
 ![Perfect spot in Sweden](/assets/images/IMG_9384.jpg)
 
