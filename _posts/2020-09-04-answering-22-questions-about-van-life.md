@@ -42,7 +42,7 @@ I assume this question refers to my last trip to the [Canary Islands]({% post_ur
 
 ### How comfortable are the seats?
 
-The original seats in the driver's cabin of the military ambulance are ok but nothing fancy. I can sit on these seats for several hours without any problems. The [self-built seats]({% post_url 2019-04-12-building-the-bed %}) in the back are covered by simple cushions that are hard enough to sit comfortably. Probably not comparable to an ergonomic office chair but I feel quite comfortable sitting in my van.
+The original seats in the driver's cabin of the military ambulance are ok but not fancy. I can sit on these seats for several hours without any problems. The [self-built seats]({% post_url 2019-04-12-building-the-bed %}) in the back are covered by simple cushions that are hard enough to sit comfortably. Probably not comparable to an ergonomic office chair but I feel quite comfortable sitting in my van.
 
 ### How much time do you spend sitting (driving and working)?
 
