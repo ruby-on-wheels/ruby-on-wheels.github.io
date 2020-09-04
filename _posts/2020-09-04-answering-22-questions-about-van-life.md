@@ -14,7 +14,7 @@ I definitely picked up *some* Spanish but I haven't really learned the language 
 
 ### What language do you use the most when traveling?
 
-English is probably my most used language when I travel outside of Germany. I speak a little French which was useful in [Switzerland]({% post_url 2020-07-31-visiting-switzerland %}), [France]({% post_url 2018-05-11-back-to-the-roots %}) and [Morocco]({% post_url 2018-01-15-my-first-days-in-africa %}). As mentioned above, I understand a little Spanish but I'm not really able to have deep conversations in languages other than German and English.
+English is probably my most used language when I travel outside of Germany. I speak a little French which was useful in [Switzerland]({% post_url 2020-07-31-visiting-switzerland %}), France and [Morocco]({% post_url 2018-01-15-my-first-days-in-africa %}). As mentioned above, I understand a little Spanish but I'm not really able to have deep conversations in languages other than German and English.
 
 ### How long did it take you to get good at fixing everything yourself?
 
