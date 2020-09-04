@@ -68,7 +68,7 @@ Ignoring the social aspect I mentioned in the previous answer, I prefer remote p
 
 ### Does it get lonely when you're not traveling with anyone or are zoom calls just that good?
 
-Zoom calls can't replace social interaction in real life. I like traveling and I also enjoy being on my own once in a while. But I consider myself as a social person, so I really like traveling with others and always drive back to my hotspots to spend time with my family and friends. I couldn't imagine settling alone in the middle of nowhere.
+Zoom calls can't replace social interactions in real life. I like traveling and I also enjoy being on my own once in a while. But I consider myself as a social person, so I really like traveling with others and always drive back to my hotspots to spend time with my family and friends. I couldn't imagine settling alone in the middle of nowhere.
 
 ### How often do you meet people that you would like to travel with again?
 
