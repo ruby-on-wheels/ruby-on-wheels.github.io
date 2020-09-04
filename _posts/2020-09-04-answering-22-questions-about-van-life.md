@@ -74,7 +74,7 @@ Zoom calls can't replace social interactions in real life. I like traveling and 
 
 ### How often do you meet people that you would like to travel with again?
 
-I've met a lot of people on my trips that I'm still in touch with. I try to regularly visit all my friends across Europe and I often join friends when they go on a vacation trip. But I guess I've met even more people that I haven't seen again. It seems really challenging to keep long lasting friendships with hundreds of people.
+I've met a lot of people on my trips that I'm still in touch with. I try to regularly visit all my friends across Europe and I often join friends when they go on a vacation trip. But I've probably met even more people that I haven't seen again. It seems really challenging to keep long lasting friendships with hundreds of people.
 
 ### Do you like to read? If yes, ebooks or real books?
 
