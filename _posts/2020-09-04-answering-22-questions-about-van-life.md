@@ -84,7 +84,7 @@ I have a lot of storage space because I carry everything with me that I own: foo
 
 ### Have you seen those cool swivel seats that a lot of people install in their vans?
 
-Yes, these are awesome! However, I've designed my van in a way that separates the driver's cabin from the living area in the back. I basically have two rooms with a little passage that I can cover with a blanket. This is quite useful when I stay in very cold areas with freezing temperatures. Insulating an open driver's cabin to prevent water condensing is really challenging.
+Yes, these are awesome! However, I've designed my van in a way that separates the driver's cabin from the living area in the back. I basically have two rooms with a little passage that I can cover with a thick blanket. This is quite useful when I stay in very cold areas with freezing temperatures. Insulating an open driver's cabin to prevent water condensing is really challenging.
 
 ### Are time zones an issue when you're working?
 
