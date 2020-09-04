@@ -76,7 +76,7 @@ I've met a lot of people on my trips that I'm still in touch with. I try to regu
 
 ### Do you like to read? If yes, ebooks or real books?
 
-I don't consider reading as one of my hobbies. If I read, I read the news, documentations, blogs, technical manuals and so on. I usually spend my free time building and fixing stuff, doing sports (swimming, biking, cathletics, surfing), hiking, hanging out with friends or just relaxing watching the birds, waves or stars.
+I don't consider reading as one of my hobbies. If I read, I read the news, documentations, blogs, technical manuals and so on. I usually spend my free time building and fixing stuff, doing sports (swimming, cycling, cathletics, surfing), hiking, hanging out with friends or just relaxing watching the birds, waves or stars.
 
 ### How much extra storage space do you have?
 
