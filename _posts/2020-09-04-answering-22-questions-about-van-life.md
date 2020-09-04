@@ -82,7 +82,7 @@ I don't consider reading as one of my hobbies. If I read, I read the news, docum
 
 ### How much extra storage space do you have?
 
-I have a lot of storage space because I carry everything with me that I own: food, clothes for all seasons, dishes, electronic devices, tent, sleeping bag, camping mat, two bicycles and of course all the spare parts and tools that I've used to build and repair the van.
+I have a lot of storage space because I carry all my belongings with me: food, clothes for all seasons, dishes, electronic devices, tent, sleeping bag, camping mat, two bicycles and of course all the spare parts and tools that I've used to build and repair the van.
 
 ### Have you seen those cool swivel seats that a lot of people install in their vans?
 
