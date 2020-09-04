@@ -18,7 +18,7 @@ English is probably my most used language when I travel outside of Germany. I sp
 
 ### How long did it take you to get good at fixing everything yourself?
 
-It's been and still is a learning process. Each time I fixed something, I had to learn how to fix it. I found original Mercedes workshop manuals from the 80s that were very helpful. I also watched a lot of YouTube videos and exchanged knowledge with professional or DIY mechanics on festivals, meet-ups and online communities. I haven't fixed every component of my van, yet. So, there are still a lot of things to discover and to learn.
+It has been and still is a learning process. Each time I fixed something, I had to learn how to fix it. I found original Mercedes workshop manuals from the 80s that were very helpful. I also watched a lot of YouTube videos and exchanged knowledge with professional or DIY mechanics on festivals, meet-ups and online communities. I haven't fixed every component of my van, yet. So, there are still a lot of things to discover and to learn.
 
 ### If you can't go outside (for weather or covid restrictions) do you have enough space to move around?
 
