@@ -46,7 +46,7 @@ The original seats in the driver's cabin of the military ambulance are ok but no
 
 ### How much time do you spend sitting (driving and working)?
 
-During workdays I probably spend 6 to 10 hours sitting. I try to compensate all that sitting by taking regular breaks, walking, swimming and exercising. I rarely sit on the weekends only when driving.
+During workdays I probably spend 6 to 10 hours sitting. I try to compensate all that sitting by taking regular breaks, walking, swimming and exercising. I rarely sit on the weekends, only when driving.
 
 ### Do you have a fancy camera or do you only use your phone?
 
