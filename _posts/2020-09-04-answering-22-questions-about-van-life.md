@@ -66,6 +66,8 @@ Ignoring the social aspect I mentioned in the previous answer, I prefer remote p
 
 ![Perfect spot in Sweden](/assets/images/IMG_9384.jpg)
 
+Beaches are also great. But my filter system can't treat salty water, so I have to leave the beaches once in awhile to find freshwater.
+
 ### Does it get lonely when you're not traveling with anyone or are zoom calls just that good?
 
 Zoom calls can't replace social interactions in real life. I like traveling and I also enjoy being on my own once in a while. But I consider myself as a social person, so I really like traveling with others and always drive back to my hotspots to spend time with my family and friends. I couldn't imagine settling alone in the middle of nowhere.
