@@ -122,7 +122,7 @@ We sat outside in front of the campfire as usual when we suddenly spotted some g
 
 ![Northern lights captured with my iPhone](/assets/images/IMG_9477.jpg)
 
-Wow, we were actually seeing the polar nights the first time in our lives. So exciting!
+Wow, we were actually seeing the polar lights the first time in our lives. So exciting!
 
 ![Northern lights captured with my iPhone](/assets/images/IMG_9479.jpg)
 
