@@ -40,7 +40,7 @@ In [southern Sweden]({% post_url 2020-08-27-entering-the-swedish-woods %}), we m
 
 ## A weekend at Fulufjället national park
 
-We weren't in a hurry to reach the north, so we randomly picked places off the route. Moritz often scouted for nice spots while I was working and sent me the location, so I could follow him in the evening. I really enjoyed driving on lonely dirt tracks through the gigantic Swedish forests that never seemed to end.
+We weren't in a hurry to reach the north, so we randomly picked places off the route. Moritz often scouted for nice spots while I was working and sent me the location, so I could follow him in the evening. I really enjoyed driving on lonely dirt tracks through the gigantic Swedish forests that seemed to never end.
 
 ![Dirt track in the woods](/assets/images/IMG_9307.jpg)
 
