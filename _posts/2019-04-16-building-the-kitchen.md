@@ -14,7 +14,7 @@ I built the countertops out of the same oak wood that I used for the [table in t
 
 ![Countertop with the cutout for the sink](/assets/images/IMG_4432.jpg)
 
-Instead of simply covering the frame of the shower cabin with plywood, I built a shelf integrated into the wall. No wast of space in my little van! :wink:
+Instead of simply covering the frame of the shower cabin with plywood, I built a shelf integrated into the wall. No waste of space in my little van! :wink:
 
 ![Shelf integrated into the wall of the shower cabin](/assets/images/IMG_4455.jpg)
 
