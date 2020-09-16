@@ -132,7 +132,7 @@ After coming back from our hiking trip, we switched locations again and found a 
 
 We didn't see anything during the night because of the bad weather. It was quite cold and raining a lot. I felt quite bad for Moritz. While I was busily working in my heated mobile office, he idled in his van waiting for better weather. Things became even worse when his diesel heater ran into troubles.
 
-Nevertheless, we gave the lights one more try. I parked my van with the backdoors headed north, so we could observe the sky from inside my van. We found some hope again when spotting the blue sky above my van.
+Nevertheless, we gave the lights one more chance. I parked my van with the backdoors headed north, so we could observe the sky from inside my van. We found some hope again when spotting the blue sky above my van.
 
 ![Smoke and sky above Abisko](/assets/images/IMG_9741.jpg)
 
