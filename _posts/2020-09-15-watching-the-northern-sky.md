@@ -6,7 +6,7 @@ header-img: assets/images/IMG_9681.jpg
 comments: true
 ---
 
-Attracted by the [northern lights that we observed in the middle of Sweden]({% post_url 2020-09-10-approaching-the-arctic-circle %}), we were excited to reach [Torneträsk](https://www.google.com/maps/place/Tornetr%C3%A4sk/), the Sweden's most northern lake reachable by car. The lake was supposedly large enough impacting the local climate and thus increasing the chance of a clear sky which is one of the three requirements for seeing the northern lights: darkness, solar wind (a high [KP index](https://en.wikipedia.org/wiki/K-index)) and a clear sky.
+Attracted by the [northern lights that we observed in the middle of Sweden]({% post_url 2020-09-10-approaching-the-arctic-circle %}), we were excited to reach [Torneträsk](https://www.google.com/maps/place/Tornetr%C3%A4sk/), Sweden's most northern lake reachable by car. The lake was supposedly large enough impacting the local climate and thus increasing the chance of a clear sky which is one of the three requirements for seeing the northern lights: darkness, solar wind (a high [KP index](https://en.wikipedia.org/wiki/K-index)) and a clear sky.
 
 ## Driving into autumn
 
