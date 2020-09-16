@@ -126,7 +126,7 @@ Unfortunately, they were locked so we couldn't check out the interior.
 
 ## Giving the northern lights one more chance
 
-After coming back from our hiking trip, we switched locations again and found a raised area very close to the [Absiko webcams](https://lightsoverlapland.com/aurora-webcam/) where we had seen awesome live pictures of the northern lights in the past. We decided to stayed, although the weather was very bad. We really wanted to see the lights again!
+After coming back from our hiking trip, we switched locations again and found a raised area very close to the [Absiko webcams](https://lightsoverlapland.com/aurora-webcam/) where we had seen awesome live pictures of the northern lights in the past. We decided to stay, although the weather was very bad. We really wanted to see the lights again!
 
 ![Cabins near Abiskojaure](/assets/images/IMG_9738.jpg)
 
