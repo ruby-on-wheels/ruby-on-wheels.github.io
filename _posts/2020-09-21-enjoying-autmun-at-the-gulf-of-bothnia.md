@@ -42,11 +42,13 @@ Not only us, but also insects like this butterfly seemed to enjoy the warm sunsh
 
 ## Getting stuck in the sands
 
-We could tell that autumn was coming. Back in August, I drove in the long lasting and bright dusk after work. The hours of daylight decreased noticeably every day. Most of the time, the sun was setting when I started driving after work. It was usually dark out when I arrived at the spots where Moritz waited for me.
+We could tell that autumn was coming. The hours of daylight decreased noticeably every day. Most of the time, the sun was setting when I started driving after work.
 
 ![Driving in the dark](/assets/images/IMG_9890.jpg)
 
-One night, Moritz waited for me in front of the beach near [Åbyn](https://www.google.com/maps/place/930+47+%C3%85byn,+Sweden/). It was quite dark when I arrived. I spotted Moritz's van but took the wrong path. Before I realized that I was following the tracks of an off-road vehicle and not of Moritz's van, I got stuck in the middle of the sands. Oops. My first attempt shoveling some of the sand away, putting logs into the sand and backing up failed when the diff-box and the footstep in the back of my van hit the ground. It seemed like I had to put a little more effort into recovering my van. :thinking:
+Usually it was completely dark when I arrived at the spots where Moritz waited for me.
+
+One night, Moritz waited for me in front of the beach near [Åbyn](https://www.google.com/maps/place/930+47+%C3%85byn,+Sweden/). It was quite dark when I arrived. I spotted Moritz's van but took the wrong path. Before I realized that I was following the tracks of an off-road vehicle and not of Moritz's van, I got stuck in the middle of the sands. Oops. My first attempt shoveling some of the sand away, putting logs into the sand and backing up failed. The diff-box and the footstep in the back of my van hit the ground. It seemed like I had to put a little more effort into recovering my van. :thinking:
 
 ![Van stuck in the sands](/assets/images/IMG_9897_2.jpg)
 
