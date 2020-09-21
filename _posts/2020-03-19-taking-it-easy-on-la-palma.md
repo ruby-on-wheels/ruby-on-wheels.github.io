@@ -28,7 +28,7 @@ The altitude had a noticeable impact on the temperature. It was quite cold when 
 
 Several peaceful places invited me for little breaks on my way through the forest toward the coast.
 
-![Peaceful place in the forrest](/assets/images/IMG_7519.jpg)
+![Peaceful place in the forest](/assets/images/IMG_7519.jpg)
 
 I met two older locals at one of these spots. They seemed very nice and relaxed. Despite my poor Spanish skills, we managed to talk about our work, hobbies and the beauty of their island. I really liked the spot.
 

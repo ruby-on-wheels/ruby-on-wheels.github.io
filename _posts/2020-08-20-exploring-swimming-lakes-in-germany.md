@@ -76,7 +76,7 @@ However, it was way too hot in the city. The air didn't really cool down at nigh
 
 ![Liepnitzsee](/assets/images/IMG_8963.jpg)
 
-The lake was located in a forrest and surrounded by trees. There were a couple of clearings with really nice sand beaches. The water was very clear and perfectly tempered for swimming. There was a big island in the center of the lake. It took me quite a while to swim around the whole island. :swimmer:
+The lake was located in a forest and surrounded by trees. There were a couple of clearings with really nice sand beaches. The water was very clear and perfectly tempered for swimming. There was a big island in the center of the lake. It took me quite a while to swim around the whole island. :swimmer:
 
 ![Swimming around the island in Liepnitzsee](/assets/images/Google_Maps.jpg)
 

@@ -18,7 +18,7 @@ the [Rhine Falls](https://www.google.com/maps/place/Rheinfall/),
 
 ![Rhine Falls](/assets/images/IMG_3132.jpg)
 
-through the [Black Forrest](https://www.google.com/maps/place/79868+Feldberg+(Schwarzwald)),
+through the [Black forest](https://www.google.com/maps/place/79868+Feldberg+(Schwarzwald)),
 
 ![Unused wires](/assets/images/IMG_3149.jpg)
 

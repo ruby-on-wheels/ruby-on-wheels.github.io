@@ -36,7 +36,7 @@ After spending some time in [Santa Brígida](https://www.google.com/maps/place/S
 
 ![Santa Brígida](/assets/images/IMG_7192.jpg)
 
-I passed a forrest which was something I haven't seen on [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) and [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}).
+I passed a forest which was something I haven't seen on [Lanzarote]({% post_url 2020-02-05-exploring-lanzarote %}) and [Fuerteventura]({% post_url 2020-02-10-cruising-through-fuerteventura %}).
 
 ![Santa Brígida](/assets/images/IMG_7196.jpg)
 
