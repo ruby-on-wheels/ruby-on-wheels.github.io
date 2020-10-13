@@ -50,21 +50,21 @@ While I was working in my mobile office, Moritz relaxed at the lake fishing and 
 
 The weather was still nice when we arrived at [Åsbölesjön](https://www.google.com/maps/place/%C3%85sb%C3%B6lesj%C3%B6n/), a small lake west of [Morängsviken](https://www.google.com/maps/place/820+74+Mor%C3%A4ngsviken,+Sweden/).
 
-![Fishing at Torrsjö](/assets/images/IMG_0057.jpg)
+![Åsbölesjön](/assets/images/IMG_0057.jpg)
 
 The area was mostly overgrown and inaccessible for our vans. Luckily, we managed to find a tiny spot next to the dirt road leading to the lake where we could park our vans.
 
-![Vans parked near Torrsjö](/assets/images/IMG_0063.jpg)
+![Vans parked near Åsbölesjön](/assets/images/IMG_0063.jpg)
 
 Yet another great place to enjoy the sunset.
 
-![Sunset at Torrsjö](/assets/images/IMG_0065.jpg)
+![Sunset at Åsbölesjön](/assets/images/IMG_0065.jpg)
 
 ## Experiencing changeable weather
 
-The scenery at Torrsjö completely changed over night. There was a strong wind and it rained a lot when we woke up.
+The scenery at Åsbölesjön completely changed over night. There was a strong wind and it rained a lot when we woke up.
 
-![Rainy weather at Torrsjö](/assets/images/IMG_0106.jpg)
+![Rainy weather at Åsbölesjön](/assets/images/IMG_0106.jpg)
 
 We spent most of the day in our vans waiting for the rain to stop. However, the weather didn't seem to change at all. The forecast also looked quite bad, so we drove about 200km down south to lake [Untrafjarden](https://www.google.com/maps/place/Untrafjarden/) where we expected the weather to be better.
 
@@ -128,14 +128,14 @@ After leaving lake Vättern, I enjoyed another sunny workday at a lake near the 
 
 ![Sunset at Vättern](/assets/images/IMG_0206.jpg)
 
-The area became more populated, the further I drove toward the southern coast of Sweden. Before visiting acquaintances in [Malmö](https://www.google.com/maps/place/Malm%C3%B6,+Sweden/), I spent a night in front of a windmill close to [Lund](https://www.google.com/maps/place/Lund,+Sweden/).
+The area became more populated, the further I drove toward the southern coast of Sweden. Before visiting acquaintances in [Malmö](https://www.google.com/maps/place/Malm%C3%B6,+Sweden/), I slept in front of a windmill close to [Lund](https://www.google.com/maps/place/Lund,+Sweden/).
 
 ![Sunset at Vättern](/assets/images/IMG_0212.jpg)
 
-After enjoying a great dinner in Malmö, I spent my last night in Sweden in a paring lot in [Trelleborg](https://www.google.com/maps/place/Trelleborg,+Sweden/) where I had [started my trip through Sweden]({% post_url 2020-08-27-entering-the-swedish-woods %}) in August.
+After enjoying a great dinner in Malmö, I spent my last night in Sweden in a parking lot in [Trelleborg](https://www.google.com/maps/place/Trelleborg,+Sweden/) where I had [started my trip through Sweden]({% post_url 2020-08-27-entering-the-swedish-woods %}) in August.
 
 While approaching Germany with the ferry, I thought about all the unforgettable moments I experienced on my trip through Sweden.
 
 ![Sunset at Vättern](/assets/images/IMG_0220_2.jpg)
 
-Crossing the whole country on lonely roads was a wonderful experience and I really want to come back to Scandinavia again. At the same time I was also looking forward to get back in touch with my family and friends after spending almost two months in the endless woods of Sweden. Great times!
+Crossing the whole country on lonely roads was a wonderful experience and I really want to come back to Scandinavia again. At the same time, I was also looking forward to get back in touch with my family and friends after spending almost two months in the endless woods of Sweden. Great times!
