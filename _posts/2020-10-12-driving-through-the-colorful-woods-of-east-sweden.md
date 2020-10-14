@@ -92,7 +92,7 @@ On our run from the fog headed south, we reached [Stockholm](https://www.google.
 
 ![Traffic in Stockholm](/assets/images/IMG_0146.jpg)
 
-Things seemed much more relaxed at [Sörsjön](https://www.google.com/maps/place/S%C3%B6rsj%C3%B6n/), a small lake south of Stockholm where we found a natural spring to full up our water tanks.
+Things seemed much more relaxed at [Sörsjön](https://www.google.com/maps/place/S%C3%B6rsj%C3%B6n/), a small lake south of Stockholm where we found a natural spring to fill up our water tanks.
 
 ![Traffic in Stockholm](/assets/images/IMG_0147.jpg)
 
