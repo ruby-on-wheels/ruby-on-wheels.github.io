@@ -72,7 +72,7 @@ After swimming through all these lakes, I arrived in Berlin where I wanted to st
 
 ![MB 508 parked in Berlin](/assets/images/IMG_8934.jpg)
 
-However, it was way too hot in the city. The air didn't really cool down at night, so I left the city after the first night and stayed at [Liepnitzsee](https://www.google.com/maps/place/Liepnitzsee/) which was probably my most favorite lake in northern Germany.
+<span id="liepnitzsee">However,</span, it was way too hot in the city. The air didn't really cool down at night, so I left the city after the first night and stayed at [Liepnitzsee](https://www.google.com/maps/place/Liepnitzsee/) which was probably my most favorite lake in northern Germany.
 
 ![Liepnitzsee](/assets/images/IMG_8963.jpg)
 
