@@ -70,7 +70,7 @@ I also didn't meet a lot of people when walking along lakefront in the morning.
 
 ![Sun rise at Kulkwitzer See](/assets/images/IMG_0331.jpg)
 
-After spending joyful days in and around Leipzig, I drove to Dresden where I met with a friend for a walk at the Elbe river.
+After spending joyful days in and around Leipzig, I drove to Dresden where I enjoyed the sunset above the Elbe river.
 
 ![Sunset above the Elbe river](/assets/images/IMG_0298_2.jpg)
 
