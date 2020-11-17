@@ -14,7 +14,7 @@ I was headed toward a small fisher village in the area of Greifswald to visit fa
 
 ![Trees with green leaves at the Bay of Greifswald](/assets/images/IMG_0228.jpg)
 
-After spending a couple of relaxed days in Gristow, I drove to the area around [Wandlitz](https://www.google.com/maps/place/Wandlitz/), a small town north of Berlin. I spent one night at the [small Wukensee](https://www.google.com/maps/place/Kleiner+Wukensee/).
+After a couple of relaxed days in Gristow, I drove to the area around [Wandlitz](https://www.google.com/maps/place/Wandlitz/), a small town north of Berlin where I spent one night at the [small Wukensee](https://www.google.com/maps/place/Kleiner+Wukensee/).
 
 ![Trees with green leaves at the Bay of Greifswald](/assets/images/IMG_0256.jpg)
 
