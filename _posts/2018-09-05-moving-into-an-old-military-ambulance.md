@@ -12,7 +12,7 @@ Importing and registering the van in Germany as a "historic" camper van was kind
 
 ![Mercedes-Benz 508D and 209D parked next to each other](/assets/images/IMG_2508.jpg)
 
-## Taking the van apart
+## <span id="taking-the-van-apart">Taking the van apart</span>
 
 I sold my [209D camper van]({% post_url 2017-01-11-my-future-mobile-office %}) in June and started converting the ambulance into a mobile office. While measuring the roof for the solar panels, I discovered some rust. The more paint I removed around the tiny rusty holes, the more rust I found. While chasing down the root cause of the rust, I ended up ripping out most of the former interior.
 

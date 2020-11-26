@@ -18,7 +18,7 @@ The situation seemed quite chaotic. Different news platforms spread different in
 
 We stocked up our supplies, filled our water tanks and drove to a remote spot north of Famara.
 
-![Marco at Playa Famara](/assets/images/IMG_7625.jpg)
+![Vans parked in front of the beach](/assets/images/IMG_7625.jpg)
 
 The spot seemed great to spend the next 15 days in complete isolation.
 
@@ -26,7 +26,7 @@ The spot seemed great to spend the next 15 days in complete isolation.
 
 Soon after settling in front of the beach, the local life guards told us to leave. The police was about to lock down all beach areas around the island. Even after a phone call with the police, it seemed unclear where we were allowed to stay with our vans. Different people provided different information. Parking our vans in a public parking lot in [Famara](https://www.google.com/maps/place/35558+Caleta+de+Famara,+Las+Palmas/) seemed like the most accepted option.
 
-![Marco at Playa Famara](/assets/images/IMG_7633.jpg)
+![Vans parked in Famara](/assets/images/IMG_7633.jpg)
 
 ## Getting used to the new situation
 
@@ -34,25 +34,25 @@ The police and the army patrolled several times a day. As reported in the news, 
 
 We played by the rules. We'd occasionally walk to the supermarket. Other than that, we spent most of the time (probably 23,5 hours a day) in our vans. We experienced sunny days,
 
-![Marco at Playa Famara](/assets/images/IMG_7639.jpg)
+![View outside my van](/assets/images/IMG_7639.jpg)
 
 rainy days,
 
-![Marco at Playa Famara](/assets/images/IMG_7642.jpg)
+![View outside my van on a rainy day](/assets/images/IMG_7642.jpg)
 
 and sunsets without moving.
 
-![Marco at Playa Famara](/assets/images/IMG_7634.jpg)
+![Sunset view from my van](/assets/images/IMG_7634.jpg)
 
 After a couple of days we (and probably also the police) got used to the new situation. Things became more relaxed and we realized that there might be worse places to sit out the coronavirus crisis.
 
-![Marco at Playa Famara](/assets/images/IMG_7645.jpg)
+![Relaxing in my van](/assets/images/IMG_7645.jpg)
 
 In fact, my weekdays didn't change tremendously. I was still able to work in my van as I did before the lockdown. Nevertheless, I seemed less productive while the news were flooded by corona stories. I was also worried about my family in Germany who were more exposed to the virus than I was. Happy, worried, relaxed, worried, my emotions were changing frequently. Over time, I also got emotionally used to the "new normal".
 
 The lockdowns happening all over the world also had some positive side-effects: Life became more remote. I wasn't just video chatting with my colleagues at work but also spent more time video chatting with my family and friends. I even attended a [DJ streaming party](https://www.facebook.com/TrinkteufelKreuzberg/videos/2960713733949844/) hosted by a [punk bar in Berlin](https://www.facebook.com/TrinkteufelKreuzberg/) where I virtually met several friends from Berlin I haven't seen in awhile.
 
-![Marco at Playa Famara](/assets/images/1F3EE7A7-B91D-4592-8C86-D999A9100FCD.jpg)
+![Remote party](/assets/images/1F3EE7A7-B91D-4592-8C86-D999A9100FCD.jpg)
 
 ## Preparing to leave the Canary Islands
 

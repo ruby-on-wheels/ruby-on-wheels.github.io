@@ -34,7 +34,7 @@ While relaxing and enjoying these beautiful places, I could also test my new equ
 
 ![Van parked in the forest](/assets/images/IMG_3161.jpg)
 
-## Ice cold beer :beer:
+## <span id="fridge">Ice cold beer :beer:</span>
 
 The absorption refrigerator in my 209D was absolutely inefficient. It was constantly consuming 110W and even didn't do a good job cooling down my food and drinks. I was tired of drinking warm beer during the summer and turning off the fridge at night to save battery.
 
