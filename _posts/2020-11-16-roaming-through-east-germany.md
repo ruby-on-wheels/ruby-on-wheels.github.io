@@ -66,7 +66,7 @@ The large parking area at [Kulkwitzer See](https://www.google.com/maps/place/Kul
 
 ![Van parked at Kulkwitzer See](/assets/images/IMG_0330.jpg)
 
-I also didn't meet a lot of people when walking along lakefront in the morning.
+I also didn't meet a lot of people when walking along the lakefront in the morning.
 
 ![Sun rise at Kulkwitzer See](/assets/images/IMG_0331.jpg)
 
