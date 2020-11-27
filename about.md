@@ -5,7 +5,7 @@ description: "Ruby on Wheels: The story of a developer living on the road."
 header-img: assets/images/IMG_3036.jpg
 ---
 
-:wave: I’m Jakob, a German software engineer. I live in a [self-converted camper van]({% post_url 2020-11-26-presenting-my-mercedes-508d %}) and [work remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for [GitHub](https://github.com/). On this website, I write about my [experiences]({% post_url 2017-10-08-the-first-150-days-of-van-life %}) building, maintaining, living and working out of a camper van.
+:wave: I’m Jakob, a German software engineer. I live in a [self-converted camper van]({% post_url 2020-11-26-presenting-my-mercedes-508d %}) and [work remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for [GitHub](https://github.com/). On this website, I write about my experiences building, maintaining, living and working out of a camper van.
 
 At GitHub we use [Ruby on Rails](http://rubyonrails.org/), a web application framework written in the [Ruby](https://www.ruby-lang.org) programming language. As I work on Ruby projects from my van that has wheels, I thought it'd be funny to replace *Rails* with *Wheels* for the title of this blog. :thinking:
 
