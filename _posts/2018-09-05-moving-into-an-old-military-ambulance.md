@@ -26,7 +26,7 @@ I did most of the work outside on the streets, so fixing the rust and the holes 
 
 ## Turning the van into a mobile garage
 
-After fixing the roof and gutter, I installed the solar system. I picked two [250Wp panels](https://www.amazon.de/gp/product/B01GJLZOK4?tag=mumothhoofba-21) that nicely fitted on the roof without increasing the height of the vehicle.
+After fixing the roof and gutter, I installed the <span id="solar-system">solar system</span>. I picked two [250Wp panels](https://www.amazon.de/gp/product/B01GJLZOK4?tag=mumothhoofba-21) that nicely fitted on the roof without increasing the height of the vehicle.
 
 ![Solar panels mounted on the roof](/assets/images/IMG_2895.jpg)
 

@@ -12,7 +12,7 @@ I've been working on and living in my Mercedes 508D for about two and a half yea
 
 My Mercedes 508D was built in 1986 and equipped with the OM314 3.8 liter diesel truck engine. The former military ambulance truck is 5.1m long, 2.1m wide and 2.9m high. I really like the dimensions because I can stand inside, lay down crossways and park the van in any regular parking lot.
 
-When I bought the van in 2018, I [ripped out all the interior]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}#taking-the-van-apart) and started transforming the ambulance into a wooden camper equipped with solar panels, WiFi, a [kitchen]({% post_url 2019-04-16-building-the-kitchen %}), a [shower]({% post_url 2019-03-19-laminating-the-shower %}), a [warm water system]({% post_url 2019-04-17-installing-the-water-system %}), a [wood stove]({% post_url 2019-12-02-installing-a-wood-stove %}), a [seating area]({% post_url 2019-03-04-building-a-scaffold-for-the-seating-area %}) with a table, a [permanent and extensible bed]({% post_url 2019-04-12-building-the-bed %}) and a lot of [storage]({% post_url 2020-01-04-building-storage-furnitures %}).
+When I bought the van in 2018, I [ripped out all the interior]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}#taking-the-van-apart) and started transforming the ambulance into a wooden camper equipped with [500Wp solar panels]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}#solar-system), 4G based WiFi, a [kitchen]({% post_url 2019-04-16-building-the-kitchen %}), a [shower]({% post_url 2019-03-19-laminating-the-shower %}), a [warm water system with filters]({% post_url 2019-04-17-installing-the-water-system %}), a [wood stove]({% post_url 2019-12-02-installing-a-wood-stove %}), a [seating area]({% post_url 2019-03-04-building-a-scaffold-for-the-seating-area %}) with a table, a [permanent and extensible bed]({% post_url 2019-04-12-building-the-bed %}) and a lot of [storage]({% post_url 2020-01-04-building-storage-furnitures %}).
 
 ## The kitchen
 
@@ -44,13 +44,21 @@ The benches on the sides offer a lot of space to relax.
 
 ![View into the van from the seating area](/assets/images/IMG_7645.jpg)
 
-The part in the very back of the seating area measures 0.7m by 1.9m and serves as a permanent bed that is ideal for short naps during the day. The adjustable table can be lowered to transform the whole seating area into a huge bed that measures 1.65m by 1.9m.
+The part in the very back of the seating area measures 0.8m by 1.9m and serves as a permanent bed that is ideal for short naps during the day. The adjustable table can be lowered to transform the whole seating area into a huge bed that measures 1.65m by 1.9m.
 
 ![Seating area transformed into a bed](/assets/images/IMG_0535.jpg)
 
-## The garage
+## The storage
 
-I use the space below the seating area to store all my tools, spare parts and mountain bike.
+There's a lot of space above the driver's cabin where I store tools, spare parts, outdoor gear and other stuff.
+
+![Storage above the driver's cabin](/assets/images/IMG_0544.jpg)
+
+I mounted the table on a raised floor to gain additional storage space for food and the [90l water tank]({% post_url 2019-04-17-installing-the-water-system %}#water-tank).
+
+![Storage below the table in the center of the van](/assets/images/IMG_0531.jpg)
+
+I store all my tools, spare parts and the mountain bike in the space below the seating area.
 
 ![Storage below the bed](/assets/images/IMG_6882.jpg)
 
@@ -64,8 +72,10 @@ I've kept the hooks for the hammock in which I slept during the [early days of t
 
 ![Hammock in my van](/assets/images/IMG_7218.jpg)
 
-The [wood stove]({% post_url 2019-12-02-installing-a-wood-stove %}) is my most favorite part of the van. The little stove has turned out to be very useful while staying in cold areas like [Scandinavia]({% post_url 2020-09-15-watching-the-northern-sky %}).
+The [wood stove]({% post_url 2019-12-02-installing-a-wood-stove %}) is my most favorite part of the van - at least during the winter :wink:. The little stove has proven to be very valuable when staying in cold areas like [Scandinavia]({% post_url 2020-09-15-watching-the-northern-sky %}).
 
 ![Wood stove in my van](/assets/images/IMG_6418.jpg)
 
 I also use the wood stove for cooking when I stay in areas where the sun does not provide enough power for my electric cooker.
+
+The [water treatment system]({% post_url 2019-04-17-installing-the-water-system %}#pump-and-filter) is probably my second favorite feature of the van. The filters allow me to treat water from springs, rivers and other sources. I no longer have to buy drinking water in plastic bottles which is fantastic!
