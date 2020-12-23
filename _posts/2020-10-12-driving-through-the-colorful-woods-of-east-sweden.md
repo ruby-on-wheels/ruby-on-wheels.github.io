@@ -34,7 +34,7 @@ The colorful leaves on the ground nicely stood out of the dense fog.
 
 ![colorful leaves on the ground](/assets/images/IMG_0026.jpg)
 
-The drizzly weather create a mystical atmosphere when driving through the woods in the evening.
+The drizzly weather created a mystical atmosphere when driving through the woods in the evening.
 
 ![Driving through the drizzly weather](/assets/images/IMG_0029.jpg)
 
