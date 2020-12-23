@@ -138,4 +138,4 @@ While approaching Germany with the ferry, I thought about all the unforgettable 
 
 ![Sunset at Vättern](/assets/images/IMG_0220_2.jpg)
 
-Crossing the whole country on lonely roads was a wonderful experience and I really want to come back to Scandinavia again. At the same time, I was also looking forward to get back in touch with my family and friends after spending almost two months in the endless woods of Sweden. Great times!
+Crossing the whole country on lonely roads was a wonderful experience and I really wanted to come back to Scandinavia again. At the same time, I was also looking forward to get back in touch with my family and friends after spending almost two months in the endless woods of Sweden. Great times!
