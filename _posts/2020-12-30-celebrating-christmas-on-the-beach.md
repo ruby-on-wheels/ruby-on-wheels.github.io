@@ -6,7 +6,7 @@ header-img: assets/images/IMG_0837.jpg
 comments: true
 ---
 
-After spending a couple of [days in the snow]({% post_url 2020-12-16-welcoming-the-german-winter %}), I swiftly crossed the French border headed toward Spain. After spending the night south of [Dole](https://www.google.com/maps/place/39100+Dole,+France/), the weather looked much better: blue sky, sun shine and lush meadows.
+After spending a couple of [days in the snow]({% post_url 2020-12-16-welcoming-the-german-winter %}), I swiftly crossed the French border headed toward Spain. The weather looked much better when I passed [Dole](https://www.google.com/maps/place/39100+Dole,+France/) in the morning: blue sky, sun shine and lush meadows.
 
 ![Sun shine and blue sky south of Dole](/assets/images/IMG_0657.jpg)
 
