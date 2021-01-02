@@ -28,7 +28,7 @@ After spending most of the weekend on the road, I reached Madrid where I stayed 
 
 ![Van parked near Casa de Campo](/assets/images/IMG_0689.jpg)
 
-I left Madrid about a week before Christmas and drove into the area of [Belvís de Monroy](https://www.google.com/maps/place/10394+Belv%C3%ADs+de+Monroy,+C%C3%A1ceres,+Spain/) where I worked in a quite environment.
+I left Madrid before Christmas and drove into the area of [Belvís de Monroy](https://www.google.com/maps/place/10394+Belv%C3%ADs+de+Monroy,+C%C3%A1ceres,+Spain/) where I worked in a quite environment.
 
 ![Area around Belvís de Monroy](/assets/images/IMG_0765.jpg)
 
