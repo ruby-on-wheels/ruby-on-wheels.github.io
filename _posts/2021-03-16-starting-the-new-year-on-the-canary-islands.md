@@ -24,7 +24,7 @@ Gras, flowers, trees and other plants were growing everywhere.
 
 ## Enjoying the time with friends
 
-I took the ferry from Lanzarote to Fuerteventura in mid-January to met up with two friends from the [farm in Bavaria]({% post_url 2018-11-29-looking-for-shelter-in-bavaria %}). We parked our vans on the cliffs in front of [Playa El Aljibe de la Cueva](https://www.google.com/maps/place/Playa+El+Aljibe+de+la+Cueva/). It didn't take much time until our small camp grew when a few more friends joined the crew.
+I took the ferry from Lanzarote to Fuerteventura in mid-January to meet up with two friends from the [farm in Bavaria]({% post_url 2018-11-29-looking-for-shelter-in-bavaria %}). We parked our vans on the cliffs in front of [Playa El Aljibe de la Cueva](https://www.google.com/maps/place/Playa+El+Aljibe+de+la+Cueva/). It didn't take much time until our small camp grew by a few more friends joining the crew.
 
 ![Camper crew on the cliffs at Playa El Aljibe de la Cueva](/assets/images/IMG_1289.jpg)
 
