@@ -52,7 +52,7 @@ The weekly [Gofio](https://en.wikipedia.org/wiki/Gofio)-pancake sessions became 
 
 ![Serving pancakes in my van](/assets/images/IMG_1590.jpg)
 
-Although we spent most of our time near Playa El Aljibe de la Cueva, we regularly stayed a couple of days at other places like [Playa de Sotavento de Jandía](https://www.google.com/maps/place/Playa+de+Sotavento+de+Jand%C3%ADa/) where my friend took this amazing photo of our vans and the stars,
+Although we spent most of our time near Playa El Aljibe de la Cueva, we regularly stayed a couple of days at other places like [Playa de Sotavento de Jandía](https://www.google.com/maps/place/Playa+de+Sotavento+de+Jand%C3%ADa/) where my [friend](https://www.polarsteps.com/vanmantraveler) took this amazing photo of our vans and the stars,
 
 ![Vans parked under the stars](/assets/images/b55d7b3e-1552-4dc0-8ccc-232595fceda7.jpg)
 
@@ -64,7 +64,7 @@ or [Playa de Vigocho](https://www.google.com/maps/place/Playa+de+Vigocho),
 
 ![Van parked in front of Playa de Vigocho](/assets/images/IMG_1560.jpg)
 
-where my friend took great pictures of the cliff, the beach and our vans with his drone,
+where my [friend](https://www.polarsteps.com/vanmantraveler) took great pictures of the cliff, the beach and our vans with his drone,
 
 ![Playa de Vigocho](/assets/images/974c8997-7c87-4809-ad5e-73d7171a0d5f.jpg)
 
