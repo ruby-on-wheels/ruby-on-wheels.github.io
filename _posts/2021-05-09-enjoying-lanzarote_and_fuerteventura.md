@@ -36,7 +36,7 @@ We enjoyed lovely sunsets just a few kilometers west of Haría with amazing view
 
 ![View from the cliffs west of Haría](/assets/images/IMG_1728.jpg)
 
-I had visited seven of the Canary Islands, so I was looking forward to finally visit the smallest of the eight main islands. Visitors weren't allowed to bring their cars or campers on the little island, so we decided to take the ferry early in the morning to surround and explore the islands by bike on a single day. We took a long beach break at [Playa de las Conchas](https://www.google.com/maps/place/Playa+de+las+Conchas/), one of the most beautiful beaches that I had seen on the Canaries.
+I had visited seven of the Canary Islands, so I was looking forward to finally visit the smallest of the eight main islands. Visitors weren't allowed to bring their cars or campers on the little island, so we decided to take the ferry early in the morning to surround and explore the island by bike on a single day. We took a long beach break at [Playa de las Conchas](https://www.google.com/maps/place/Playa+de+las+Conchas/), one of the most beautiful beaches that I had seen on the Canaries.
 
 ![Playa de las Conchas](/assets/images/IMG_1842.jpg)
 
