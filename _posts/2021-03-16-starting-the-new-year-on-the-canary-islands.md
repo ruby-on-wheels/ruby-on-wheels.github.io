@@ -22,7 +22,7 @@ Gras, flowers, trees and other plants were growing everywhere.
 
 ![Palm trees near Famara on Lanzarote](/assets/images/IMG_1133_2.jpg)
 
-## Enjoying the time with friends
+## <span id="camper-crew">Enjoying the time with friends</span>
 
 I took the ferry from Lanzarote to Fuerteventura in mid-January to meet up with two friends from the [farm in Bavaria]({% post_url 2018-11-29-looking-for-shelter-in-bavaria %}). We parked our vans on the cliffs in front of [Playa El Aljibe de la Cueva](https://www.google.com/maps/place/Playa+El+Aljibe+de+la+Cueva/). It didn't take much time until our small camp grew by a few more friends joining the crew.
 
