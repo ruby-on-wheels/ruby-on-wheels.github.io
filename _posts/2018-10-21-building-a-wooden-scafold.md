@@ -6,7 +6,7 @@ header-img: assets/images/IMG_3515.jpg
 comments: true
 ---
 
-The scaffold that is supposed hold the wooden cladding was one of the most challenging constructions that I've built for the van so far. [Removing all the rust](({% post_url 2018-09-05-moving-into-an-old-military-ambulance %})) from the van during the summer was a lot of work. I really didn't want to drill any holes into the metal underneath the roof and behind the gutter to avoid [thermal bridges](https://en.wikipedia.org/wiki/Thermal_bridge) as much as possible. Additionally, I didn't want to lose any vertical or horizontal space by mounting a scaffold onto the van's steel ribs.
+The scaffold that is supposed hold the wooden cladding was one of the most challenging constructions that I've built for the van so far. [Removing all the rust]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}) from the van during the summer was a lot of work. I really didn't want to drill any holes into the metal underneath the roof and behind the gutter to avoid [thermal bridges](https://en.wikipedia.org/wiki/Thermal_bridge) as much as possible. Additionally, I didn't want to lose any vertical or horizontal space by mounting a scaffold onto the van's steel ribs.
 
 I checked a bunch of van blogs like [Paul's Passport Diary](https://passport-diary.com/selbstausbau-innenverkleidung-wohnmobil/) for inspiration. In most blogs I saw pictures where the cladding was screwed right into the van's body or into a wooden scaffold that was mounted on top of the steel ribs. None of these examples satisfied my requirements: no loss of space and no screws that would connect the body and the air inside the van. :no_entry_sign:
 

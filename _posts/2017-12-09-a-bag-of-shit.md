@@ -16,7 +16,7 @@ Halfway around the lake, I found a burnt down boat.
 
 ![Burned boot at Barragem do Divôr](/assets/images/IMG_0478.jpg)
 
-That explained the huge fire that I saw two nights ago, when I [arrived](({% post_url 2017-12-08-back-on-the-road %})). Did someone burn down the boat on purpose? All the burnt grass around the boat didn't look like that was a controlled fire?
+That explained the huge fire that I saw two nights ago, when I [arrived]({% post_url 2017-12-08-back-on-the-road %}). Did someone burn down the boat on purpose? All the burnt grass around the boat didn't look like that was a controlled fire?
 
 While I was on my tour around the lake, my neighbors surrounded my van.
 

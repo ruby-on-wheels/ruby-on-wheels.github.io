@@ -6,7 +6,7 @@ header-img: assets/images/IMG_1192.jpg
 comments: true
 ---
 
-I really enjoyed the city life of [Essaouira and Marrakech](({% post_url 2018-01-21-driving-deeper-into-morocco %})) on the weekend. The turmoil in the medinas was fun but not optimal for working. Too many people, too much noise. I wanted to spend my workweek in a relaxed environment. So, I left Essaouira headed south.
+I really enjoyed the city life of [Essaouira and Marrakech]({% post_url 2018-01-21-driving-deeper-into-morocco %}) on the weekend. The turmoil in the medinas was fun but not optimal for working. Too many people, too much noise. I wanted to spend my workweek in a relaxed environment. So, I left Essaouira headed south.
 
 A few kilometers in front of [Sidi Kaouki](https://www.google.com/maps/place/Sidi+Kaouki/), I spotted a little side road. The road ended in front of a little fisherman's camp at the beach.
 

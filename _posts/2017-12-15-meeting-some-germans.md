@@ -43,4 +43,4 @@ I really enjoyed the time with Tanja, Andre, Ingrid and Olaf. However, the parki
 
 ![Cloudy parking lot](/assets/images/IMG_0574.jpg)
 
-My goal when [leaving](({% post_url 2017-12-08-back-on-the-road %})) Madrid, was getting to the ocean, and I was so close. It was about time to reach it! :minibus: :wave:
+When [leaving]({% post_url 2017-12-08-back-on-the-road %}) Madrid my goal was to get to the ocean, and I was so close. It was about time to reach it! :minibus: :wave:
