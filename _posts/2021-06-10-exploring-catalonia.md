@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2088.jpg
 comments: true
 ---
 
-I had mostly passed through Catalonia on my trips from the north to the south and vice versa. I had usually only stopped in Barcelona to visit my friends living in the city. After meeting Mariona on the [Canary Islands]({% post_url 2021-05-09-enjoying-lanzarote_and_fuerteventura %}) she invited me to the area where lived, so I decided to dedicate a little more time to explore the coast, mountains and lakes of Catalonia.
+I had mostly passed through Catalonia on my trips from the north to the south and vice versa. I had usually only stopped in Barcelona to visit my friends living in the city. After meeting Mariona on the [Canary Islands]({% post_url 2021-05-09-enjoying-lanzarote_and_fuerteventura %}) she invited me to the area where she lived, so I decided to dedicate a little more time to explore the coast, mountains and lakes of Catalonia.
 
 ## Arriving in Vic
 
@@ -36,7 +36,7 @@ and abandoned farms near [Santa Pau](https://www.google.com/maps/place/17811+San
 
 ## Visiting Barcelona
 
-When visiting my friends in Barcelona, the soccer field where I had [stayed]({% post_url 2020-01-26-crossing-spain %}#soccer-field-barcelona) in the past didn't exist anymore. There was big construction site and my favorite parking in Barcelona was not available anymore. After driving through all these tiny alleys of the neighborhood, I finally managed to squeeze my van into a parking lot off the road.
+When visiting my friends in Barcelona, the soccer field where I had [stayed]({% post_url 2020-01-26-crossing-spain %}#soccer-field-barcelona) in the past didn't exist anymore. There was a big construction site and my favorite parking in Barcelona was not available anymore. After driving through all these tiny alleys of the neighborhood, I finally managed to squeeze my van into a parking lot off the road.
 
 ![Parking in Barcelona](/assets/images/IMG_2065.jpg)
 
@@ -48,7 +48,7 @@ I met a bunch of interesting people at the squat. One project really caught my a
 
 ## Driving along Costa Brava
 
-I spent another night at the squat before leaving the Catalan capital to explore the [Costa Brava](https://www.google.com/maps/place/Costa+Brava,+Girona/) with Mariona. Our first stop was near [Palamós](https://www.google.com/maps/place/Palam%C3%B3s,+Girona/) where we spent a nice and sunny day walking along the coast, swimming and relaxing in turquoise bays.
+I spent another night at the squat before leaving the Catalan capital to explore the [Costa Brava](https://www.google.com/maps/place/Costa+Brava,+Girona/) with Mariona. Our first stop was near [Palamós](https://www.google.com/maps/place/Palam%C3%B3s,+Girona/) where we spent a nice and sunny day walking along the coast, swimming and relaxing in bays with turquoise water.
 
 ![Bay with a little beach north of Palamós](/assets/images/IMG_2055.jpg)
 
@@ -64,7 +64,7 @@ It was just a short ride from Roses to [Cadaqués](https://www.google.com/maps/p
 
 ![View on the bay of Cadaqués](/assets/images/IMG_2085_2.jpg)
 
-The area in and around Cadaqués is quite popular and touristic, so we parked the van out of town near Punta de s'Alqueria. Understandably camping is quite restricted in the area, so we only spent one night there.
+The area in and around Cadaqués seemed quite popular and touristic, so we parked the van out of town near Punta de s'Alqueria.
 
 ![View on Punta de s'Alqueria](/assets/images/IMG_2088.jpg)
 
@@ -74,7 +74,7 @@ Before leaving Cadaqués we enjoyed a bike trip through the natural park around 
 
 ## Enjoying the mountains
 
-Costa Brava offered a lot of beautiful places. The area was obviously very popular and busy. At least around the places that where legally accessible by car. Finding quiet places to spend relaxed nights in a van during June wasn't trivial, so I felt like driving into the mainland to discover some places in the mountains where we could stay for more than just a single night. I picked a random lake on the map. After a short drive we ended up at [Pantà de Boadella](https://www.google.com/maps/place/Boadella+Reservoir/) which seemed like a perfect place to stay and relax.
+Costa Brava offered a lot of beautiful places. The area was obviously very popular. Places that where legally accessible by car seemed quite busy. Finding quiet places to spend relaxed nights in a van during June wasn't trivial, so I felt like driving into the mainland to discover some places in the mountains where we could stay for more than just a single night. I picked a random lake on the map. After a short drive we ended up at [Pantà de Boadella](https://www.google.com/maps/place/Boadella+Reservoir/) which seemed like a perfect place to stay and relax.
 
 ![Lakeside of Pantà de Boadella](/assets/images/IMG_2112.jpg)
 
@@ -90,4 +90,4 @@ After hanging out at Pantà de Boadella, we drove further into the mountains to 
 
 ![Waterfall and natural pool at Gorg Blau](/assets/images/IMG_2150.jpg)
 
-Wow! I was really impressed by the beauty and variety of Catalonia. Mountains, forests, rivers lakes, beaches and the sea. All within an area that is more than 10 times smaller than Germany. Amazing!
+Wow! I was really impressed by the beauty and variety of Catalonia. Mountains, forests, rivers lakes, beaches and the sea. All within an area that is more than ten times smaller than Germany. Amazing!
