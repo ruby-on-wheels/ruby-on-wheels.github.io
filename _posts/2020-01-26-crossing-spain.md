@@ -10,7 +10,7 @@ My [weekend trip through France]({% post_url 2020-01-05-escaping-the-winter %}) 
 
 ![Parking lot near Barcelona](/assets/images/IMG_6687.jpg)
 
-The area was perfect to spend a couple of days in Barcelona.
+<span id="soccer-field-barcelona">The area was perfect to spend a couple of days in Barcelona</span>.
 
 ![Area around the parking lot](/assets/images/IMG_6696.jpg)
 
