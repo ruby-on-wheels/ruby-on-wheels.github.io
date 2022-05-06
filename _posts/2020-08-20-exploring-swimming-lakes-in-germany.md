@@ -38,7 +38,7 @@ After staying at several lakes without covering a lot of distance, I took the hi
 
 The lake was nice but it didn't seem very spectacular, so I decided to drive further north to find another place to stay.
 
-## Staying in Thuringia
+## <span id="bleiloch">Staying in Thuringia</span>
 
 I've mostly passed Thuringia on my way from or to Berlin so far. This time, I left the highway and drove around the [Thuringian Highland (Schiefergebirge)](https://www.google.com/maps/place/Naturpark+Th%C3%BCringer+Schiefergebirge%2FObere+Saale/) near the Saale river. I found a really nice spot next to a bride at the [Bleiloch reservoir](https://www.google.com/maps/place/Bleilochtalsperre/).
 
