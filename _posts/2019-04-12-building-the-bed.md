@@ -30,7 +30,7 @@ After repeating the same work for the other side, the U-shaped frame of the seat
 
 ![U-shaped frame of the seating and sleeping area](/assets/images/IMG_4295.jpg)
 
-## Installing an adjustable table
+## <span id="adjustable_table">Installing an adjustable table</span>
 
 As I didn't like the gap between the floor and the socket for the table base,
 
