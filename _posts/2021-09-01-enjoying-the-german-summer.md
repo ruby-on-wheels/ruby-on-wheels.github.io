@@ -3,7 +3,7 @@ layout: post
 title:  Enjoying the German summer
 date:   2021-09-01
 header-img: assets/images/IMG_2531.jpg
-comments: false
+comments: true
 ---
 
 After hanging out with my family and friends and [maintaining my van]({% post_url 2021-03-16-starting-the-new-year-on-the-canary-islands %}) in southern Germany, both my van and I were ready to go on our annual cruise through Germany to visit the rest of my family and all my other friends living in the north. The first destination was Berlin.
