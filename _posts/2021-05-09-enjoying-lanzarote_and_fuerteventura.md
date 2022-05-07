@@ -72,7 +72,7 @@ I stayed in good company with other Mercedes enthusiasts: A couple from Italy li
 
 ![Mercedes 407D and 508D](/assets/images/IMG_1929.jpg)
 
-and Martin and Peggy from Germany living in a beautiful and gigantic Mercedes 1113.
+and <span id="martin-peggy">Martin and Peggy</span> from Germany living in a beautiful and gigantic Mercedes 1113.
 
 ![Mercedes 508D and 1113](/assets/images/IMG_1899_2.jpg)
 
