@@ -6,7 +6,7 @@ header-img: assets/images/IMG_2892.jpg
 comments: true
 ---
 
-While [building my toilet]({% post_url 2021-09-11-building-a-wooden-toilet %}) at the farm of my friends in Bavaria, I spotted an ad of someone selling a Mercedes 911 truck close by. I've always been fascinated by the beautiful trucks that Mercedes built in the 60s. I [met Martin and Peggy]({% post_url 2021-05-09-enjoying-lanzarote_and_fuerteventura %}#martin-peggy) on the Canary Islands who were traveling in a Mercedes 1113 truck that I really liked. So much space! They traveled in an actual house not just a compact van like mine.
+While [building my new toilet]({% post_url 2021-09-11-building-a-wooden-toilet %}) at the farm of my friends in Bavaria, I spotted an ad of someone selling a Mercedes 911 truck close by. I've always been fascinated by the beautiful trucks that Mercedes built in the 60s. I [met Martin and Peggy]({% post_url 2021-05-09-enjoying-lanzarote_and_fuerteventura %}#martin-peggy) on the Canary Islands who were traveling in a Mercedes 1113 truck that I really liked. So much space! They traveled in an actual house not just a compact van like mine.
 
 Although I wasn't actively looking for a new vehicle, I decided to check out the Mercedes 911, just to see it in real life and to meet the owner.
 
