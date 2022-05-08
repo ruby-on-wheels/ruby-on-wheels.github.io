@@ -12,6 +12,6 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 paginate: 10
 
-gems: [jekyll-paginate, jekyll-feed, jemoji]
+gems: [jekyll-paginate, jekyll-feed, jemoji, jekyll-sitemap]
 sass:
   style: compressed
