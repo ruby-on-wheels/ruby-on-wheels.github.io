@@ -30,11 +30,11 @@ I spotted several trucks when cycling through the city after work.
 
 The more I thought about these trucks, the more I wanted to give it a try. I knew that I didn't want to own and maintain two classic vehicles in parallel. So, if I'd buy one of these trucks I'd sooner or later have to pass my van to someone else which was a crazy thought. I loved my [Mercedes 508]({% post_url 2020-11-26-presenting-my-mercedes-508d %}) which seemed like the perfect van: It was very short, yet big enough for everything I needed: There was a shower, a kitchen, a bed, a wood-stove, a table, seats, storage and a toilet.
 
-I've always considered my van as the perfect vehicle. But there is no perfect. My van was much more easy to drive and park than a truck. But the small size also had some negative aspects: If I wanted to sleep comfortable, I had to lower the table and convert the seating area into a bed. The pillows were fine but not as comfortable as a regular mattress of a permanent bed. The shower cabin was big enough but I always had to remove the toilet before taking a shower. I also realized that my storage reached its limits when people would stay with me for more than just a week. For more than 4 years I got used to live in 6 square meters. But after experience the truck in Munich I realized that more space really made a difference.
+I've always considered my van as the perfect vehicle. But there is no perfect. My van was much more easy to drive and park than a truck. But the small size also had some negative aspects: If I wanted to sleep comfortable, I had to lower the table and convert the seating area into a bed. The pillows were fine but not as comfortable as a regular mattress of a permanent bed. The shower cabin was big enough but I always had to remove the toilet before taking a shower. I also realized that my storage reached its limits when people would stay with me for more than just a week. For more than 4 years I got used to live in 6 square meters. But after experiencing the truck in Munich, I realized that more space really made a difference.
 
 ## Making a decision
 
-I spent endless nights thinking about trucks, the pros and cons, when I finally decided to give it a try. I was motivated for a new project and I could always sell the truck and keep my van if I would realize that a truck wouldn't be the right thing for my lifestyle.
+I had spent endless nights thinking about trucks, the pros and cons, when I finally decided to give it a try. I was motivated for a new project and I could always sell the truck and keep my van if I would realize that a truck wouldn't be the right choice for my lifestyle.
 
 After all my research, I had a clear idea of what I wanted: A Mercedes 1113 with the OM352 engine equipped with a turbo; single tyres in the back, on-demand four-wheel drive, all the paper work to get the truck registered as a classic motorhome, little to no rust and of course a solid technical condition. I didn't have any requirements for the cabin: empty, poorly designed or actually matching my needs. I was either willing to pay a lower price for a cabin that I would have to rework or paying a suitable price for a cabin that already offered what I needed.
 
@@ -48,17 +48,17 @@ The truck was so big. The tires were even larger than the ones of the truck that
 
 ![Mercedes 508D and Mercedes 1113 parked next to each other](/assets/images/IMG_2895_2.jpg)
 
-Initially, I wasn't quite sure about the big alcove on top of the driver's cabin. Was it to big? Was it ugly?
+Initially, I wasn't quite sure about the big alcove on top of the driver's cabin. Was it too big? Was it ugly?
 
 ![View on the side of the Mercedes 1113](/assets/images/IMG_2924.jpg)
 
-But when I took a closer look, I started liking it. The alcove didn't seem over proportionally big and the overall appearance seemed harmonious. I also really liked the fact that the alcove offered additional 3.5 square meters for a permanent bed, so all the 10 square meters in the back of the cabin would be available for a proper bathroom, kitchen, living and working area. The cabin was also made out of wood so if need I could just cut off the alcove when I really wouldn't like it.
+But when I took a closer look, I started liking it. The alcove didn't seem over proportionally big and the overall appearance seemed harmonious. I also really liked the fact that the alcove offered additional 3.5 square meters for a permanent bed, so all the 10 square meters in the back of the cabin would be available for a proper bathroom, kitchen, living and working area. The cabin was also made out of wood so if needed, I could just cut off the alcove when I really wouldn't like it.
 
 The interior was very simple: a wood stove, a cupboard, a countertop with a gas cooker and a sink.
 
 ![Cabin of the Mercedes 1113](/assets/images/IMG_3289.jpg)
 
-The wall cladding didn't really impress me. There was no bathroom, no table, no electric system, no solar panels, no water system. I liked that everything was so simple, so I wouldn't have to pay for anything I didn't like or need and could rework the cabin to my personal needs. The feeling of space inside the cabin was amazing. I didn't feel like standing in a vehicle. I felt like standing in an apartment. I was impressed!
+The wall cladding didn't really impress me. There was no bathroom, no table, no electric system, no solar panels, no water system. I liked that everything was so simple, so I wouldn't have to pay for anything I didn't like or need and could rework the cabin according to my personal needs. The feeling of space inside the cabin was amazing. I didn't feel like standing in a vehicle. I felt like standing in an apartment. I was impressed!
 
 The alcove had another advantage: Although the truck had been parked outside for several years the driver's cabin and chassis were well protected from the weather. The base vehicle was well ventilated under the wooden cabin because of the gigantic chassis clearance. I was impressed about the technical condition of the truck.
 
