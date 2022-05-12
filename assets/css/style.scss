@@ -352,6 +352,10 @@ footer {
 		input {
 			@include sans-serif;
 			font-size: 14px;
+			border: 1px solid $gray;
+		}
+		input[type="submit"] {
+			background-color: $gray-light;
 		}
 		p {
 			margin-top: 0;
