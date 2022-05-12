@@ -44,4 +44,4 @@ When I tried the toilet for the very first time it felt a little weird.
 
 ![Open toilet in the shower](/assets/images/IMG_2864.jpg)
 
-But I quickly got used to it and after a couple of days I was really happy about my new toilet. Having my own toilet definitely increased the level of comfort in my van. I guess now I really can call my van home?! :laughing: :hankey:
+But I quickly got used to it and after a couple of days I was really happy about my new toilet. Having my own toilet definitely increased the level of comfort in my van. I guess now I really can call my van "home"?! :laughing: :hankey:
