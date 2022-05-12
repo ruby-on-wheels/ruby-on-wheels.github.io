@@ -24,7 +24,7 @@ Inside the box I installed mounting points that would make sure the containers w
 
 ![Toilet box without containers](/assets/images/IMG_2854.jpg)
 
-I bought the separator from [kildwick.com](https://www.kildwick.com/). It was surprisingly expensive but it made the best impression on me when I compared products online. I used 14mm birch plywood to build the toilet seat and nicely routed the edges to make the it comfortable.
+I bought the separator from [kildwick.com](https://www.kildwick.com/). It was surprisingly expensive but it made the best impression on me when I compared products online. I used 14mm birch plywood to build the toilet seat and nicely routed the edges to make it comfortable.
 
 ![Open toilet lid](/assets/images/IMG_2859.jpg)
 
