@@ -6,7 +6,6 @@ header-img: assets/images/IMG_3274.jpg
 comments: true
 ---
 
-
 Before fixing the broken roof, I wanted to further identify the root cause of the damage. Removing the [rotten side panel]({% post_url 2021-12-03-starting-the-new-project %}#broken-side-panel) revealed all the damage the rainwater had caused over the years.
 
 ![Rotten wood](/assets/images/IMG_3147.jpg)

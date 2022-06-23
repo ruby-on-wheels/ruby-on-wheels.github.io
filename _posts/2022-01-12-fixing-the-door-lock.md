@@ -6,7 +6,6 @@ header-img: assets/images/IMG_3533.jpg
 comments: true
 ---
 
-
 The original side door had a lock that required a key inside and outside to close and open the door. The inner closing mechanism didn't work well and after a couple of days it stopped working entirely. I had to remove the inner door panel to take the door lock apart. While removing the lock, I spotted rotten wood below the lock.
 
 ![Rotten wood under the door lock](/assets/images/IMG_3520.jpg)
