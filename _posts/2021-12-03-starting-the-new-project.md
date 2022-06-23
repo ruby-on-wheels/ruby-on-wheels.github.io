@@ -80,7 +80,7 @@ When taking a closer look at the roof, I realized that a simple paint job might 
 
 The more I scratched and the harder I pulled, some things just fell apart.
 
-![Broken part of the roof](/assets/images/IMG_3126.jpg)
+<span id="broken-side-panel">![Broken part of the roof](/assets/images/IMG_3126.jpg)</span>
 
 What had looked intact turned out to be broken after removing all the paint and glue.
 
