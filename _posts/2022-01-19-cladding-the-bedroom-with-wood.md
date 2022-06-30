@@ -56,7 +56,7 @@ I still had tiny switches lying around that I wanted to re-use to control the ov
 
 ![Milling the mounting point for the light switches](/assets/images/IMG_3646.jpg)
 
-Embedded into the slats of the wooden ceiling on both sides, the switches seemed quite subtle and comfortable allowed to switch the lights on and off.
+Embedded into the slats of the wooden ceiling on both sides, the switches seemed quite subtle and allowed to comfortably switch the lights on and off.
 
 ![Light switch embedded into the ceiling](/assets/images/IMG_3656.jpg)
 
