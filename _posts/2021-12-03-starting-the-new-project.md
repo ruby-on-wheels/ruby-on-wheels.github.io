@@ -10,7 +10,7 @@ I was so excited [having bought a Mercedes 1113]({% post_url 2021-10-10-buying-a
 
 {% include youtube.html id="i711kNs6RKQ" %}
 
-Although I was planning to turn the truck into a gigantic construction site, I wanted to sleep in there as soon as possible to get a feeling for it. The first thing I did, was building a provisional bed and buying a new comfortable mattress. 
+Although I was planning to turn the truck into a gigantic construction site, I wanted to sleep in there as soon as possible to get a feeling for it. The first thing I did, was building a provisional <span id="bed">bed</span> and buying a new comfortable mattress. 
 
 ![Provisional bed](/assets/images/IMG_3226.jpg)
 
