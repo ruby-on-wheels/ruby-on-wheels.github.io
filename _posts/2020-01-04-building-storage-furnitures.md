@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Building storage furnitures
+title:  Building storage furniture
 date:   2020-01-04
 header-img: assets/images/IMG_6612.jpg
 comments: true
@@ -22,7 +22,7 @@ and a few shelves to store my pots, pans and other dishes.
 
 ![Shelves for pots, pans and other dishes](/assets/images/IMG_5529.jpg)
 
-As the [shelf that I integrated into the wall of the shower cabin]({% post_url 2019-04-16-building-the-kitchen %}) didn't provide enough space for my tea equipment, I extended the shelf above the kitchen countertop. There was still plenty of space above the shelf, so I built an additional storage compartment with two LED lights for better illumination in the kitchen:
+<span id="storage_compartment">As</span> the [shelf that I integrated into the wall of the shower cabin]({% post_url 2019-04-16-building-the-kitchen %}) didn't provide enough space for my tea equipment, I extended the shelf above the kitchen countertop. There was still plenty of space above the shelf, so I built an additional storage compartment with two LED lights for better illumination in the kitchen:
 
 ![Additional shelf and storage compartment above the kitchen countertop](/assets/images/IMG_6558.jpg)
 
