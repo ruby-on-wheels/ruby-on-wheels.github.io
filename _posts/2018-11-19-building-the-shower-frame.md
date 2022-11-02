@@ -14,7 +14,7 @@ I didn't really need a shower when I was in the open countryside. There were lak
 
 I remembered the [rainy days in northern Morocco]({% post_url 2018-03-20-coming-back-to-europe %}) when my wet jacket never dried and everything in my van felt clammy. I'm planning to use my shower as a drying room, too. Hot air will be blown into the bottom of the shower cabinet to dry wet clothes. The humid air will then be sucked out of the van. No more clammy air in my van!
 
-There was already an air grille behind the driver's seat for which I built a little socket holding three dust and water-resistant fans.
+<span id="fans">There</span> was already an air grille behind the driver's seat for which I built a little socket holding three dust and water-resistant fans.
 
 ![Fans to blow wet air out of the van](/assets/images/IMG_3465.jpg)
 
