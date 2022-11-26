@@ -90,7 +90,7 @@ In contrast to the previous builder, I didn't use screws to mount the panels bec
 
 ![New wood in the front of the cabin](/assets/images/IMG_4295_2.jpg)
 
-After adhering the new wood I sanded everything to make sure the surface was smooth and even.
+After adhering the new wood, I sanded everything to make sure the surface was smooth and even.
 
 ![Sanded wood in the front of the cabin](/assets/images/IMG_4298.jpg)
 
