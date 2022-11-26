@@ -82,7 +82,7 @@ Once I had painted all the metal, the cabin seemed ready for the next step of th
 
 ## Patching the cut-outs with new wood
 
-Once all the rotten wood and rust was removed, I cut textured coated board to size and started patching the gaps.
+Once all the rotten wood and rust was removed, I cut textured coated boards to size and started patching the gaps.
 
 ![Adhering a new textured coated board onto the front of the cabin](/assets/images/IMG_4288.jpg)
 
