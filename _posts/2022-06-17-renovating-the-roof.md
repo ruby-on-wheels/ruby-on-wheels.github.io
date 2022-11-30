@@ -14,7 +14,7 @@ After my adventurous attempt to work with epoxy during the winter, I really appr
 
 ![Mixing epoxy resin and hardener outside](/assets/images/IMG_4529_2.jpg)
 
-The resin hardened quickly and after a couple of hours the roof was covered with an additional layer of epoxy that looked shiny again.
+The resin became hardened quickly and after a couple of hours the roof was covered with an additional layer of epoxy that looked shiny again.
 
 ![Applying the final layer of epoxy resin on the front roof](/assets/images/IMG_4248_2.jpg)
 
@@ -26,7 +26,7 @@ I built a bunch of curved slats by bending two wooden slats and glueing them tog
 
 ![Building curved slats](/assets/images/IMG_4243.jpg)
 
-Once the glue hardened, the slats remained bended and kept their shape.
+Once the glue became hardened, the slats remained bended and kept their shape.
 
 ![Curved slats](/assets/images/IMG_4250.jpg)
 
@@ -50,7 +50,7 @@ I applied a viscous paste of saw dust and epoxy resin all around the curved wood
 
 ![Screws protected from the epoxy resin](/assets/images/IMG_4275_2.jpg)
 
-Once the epoxy hardened the front roof was ready for the final paint job.
+Once the epoxy became hardened the front roof was ready for the final paint job.
 
 ![Painted roof](/assets/images/IMG_4437.jpg)
 

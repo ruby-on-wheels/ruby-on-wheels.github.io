@@ -38,7 +38,7 @@ The weather conditions weren't ideal. While I was working on the roof in my giga
 
 ![Farm covered in snow](/assets/images/IMG_3320.jpg)
 
-The resin wasn't easy to process with the low temperatures. It hardened much slower. On top of the tough weather conditions, I also had to remove the truck and the tent from the barn because they blocked the entry for a tractor delivering firewood for the winter.
+The resin wasn't easy to process with the low temperatures. It became hardened much slower. On top of the tough weather conditions, I also had to remove the truck and the tent from the barn because they blocked the entry for a tractor delivering firewood for the winter.
 
 It regularly rained and snowed. The epoxy was still in the process of hardening. I wanted to avoid the resin getting in contact with water, so I built a little scaffold on top of the roof that I mounted into the rain gutter.
 
