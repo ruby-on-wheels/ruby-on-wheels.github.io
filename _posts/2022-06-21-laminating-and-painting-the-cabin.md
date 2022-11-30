@@ -52,7 +52,7 @@ To increase the stability and weather resistance, I enforced the corners with ad
 
 ![Corners enforced with fiberglas and epoxy](/assets/images/IMG_4587.jpg)
 
-The construction passed the first during a short shower of rain: The water nicely dripped down the aluminum angles without touching the underling construction.
+The construction passed the first test during a short shower of rain: The water nicely dripped down the aluminum angles without touching the underling construction.
 
 ![Rain dropping down the aluminum angles](/assets/images/IMG_4639.jpg)
 
