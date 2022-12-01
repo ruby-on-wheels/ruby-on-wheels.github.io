@@ -18,7 +18,7 @@ The resin became hardened quickly and after a couple of hours the roof was cover
 
 ![Applying the final layer of epoxy resin on the front roof](/assets/images/IMG_4248_2.jpg)
 
-## Preparing mounting points for the solar panels
+## <span id="mounting-points">Preparing mounting points for the solar panels</span>
 
 I was planning to cover the entire roof with solar panels which operated more efficient when they were cold, so it seemed reasonable to keep a little distance between the roof and the panels for better ventilation. I envisioned mounting points that seamlessly integrated into the roof and provided threaded screws that would allow me to easily install (and maybe remove) the panels.
 
