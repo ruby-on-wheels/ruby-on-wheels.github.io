@@ -54,7 +54,7 @@ I was even able to "bake" some delicious self-made pizza. :pizza:
 
 ![baking pizza](/assets/images/IMG_3224.jpg)
 
-While running these cooking experiments, I measured up to 175A going through the wires. The original wiring didn't convince me. I could feel the cables getting warm after a few minutes. Extending the original cables with some additional [50mm2 wires](https://www.amazon.de/dp/B01MYRC1GY?tag=mumothhoofba-21) helped to keep the cables cold.
+While running these cooking experiments, I measured up to 175A going through the wires. The original wiring didn't convince me. I could feel the cables getting warm after a few minutes. <span id="wiring">Extending</span> the original cables with some additional [50mm2 wires](https://www.amazon.de/dp/B01MYRC1GY?tag=mumothhoofba-21) helped to keep the cables cold.
 
 ![extended wires](/assets/images/IMG_3082.jpg)
 

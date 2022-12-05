@@ -56,7 +56,7 @@ Based on the water quality, the filters need to be cleaned and eventually replac
 
 The sink is connected to the wastewater system and allows me to remove the filters without flooding my van.
 
-## Installing the boiler
+## <span id="boiler">Installing the boiler</span>
 
 A proper shower requires hot water, does it? After doing some research, I found a German [manufacturer](https://www.elgena.de/) building small-sized 12 Volt boilers that can heat up 6 liters to 80 degrees Celsius. The boiler nicely fits under the sink next to the shower.
 
