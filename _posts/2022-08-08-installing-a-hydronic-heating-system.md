@@ -42,7 +42,7 @@ Permanently running the pump seemed like a waste of electricity. The cooling of 
 
 ![Heat sensor attached to the outlet of the heat exchanger in the chimney](/assets/images/IMG_5597.jpg)
 
-A tiny microcontroller connected the sensor automatically switched on the pump a few seconds before the liquid in the pipe would begin to boil and switched it off as soon as the pipe would cool down to about 40 to 50 degrees Celsius. Additionally, I installed a switch that would allow to manually override the microcontroller by turning the pump on or off.
+A tiny microcontroller connected to the sensor automatically switched on the pump a few seconds before the liquid in the pipe would begin to boil and switched it off as soon as the pipe would cool down to about 40 to 50 degrees Celsius. Additionally, I installed a switch that would allow to manually override the microcontroller by turning the pump on or off.
 
 ![Switch and microcontroller for the pump](/assets/images/IMG_5047.jpg)
 
@@ -82,7 +82,7 @@ Once all pipes were layed, I could finally fill the liquid (glycol) into the sys
 
 ![Glycol in the expansion tank](/assets/images/IMG_5060.jpg)
 
-After running the pump for a couple of hours and releasing all the air through the vent valves the system was ready for its first test!
+After running the pump for a couple of hours and releasing all the air through the vent valves, the system was ready for its first test!
 
 ![Wood stove heating up the liquid](/assets/images/IMG_5215.jpg)
 
