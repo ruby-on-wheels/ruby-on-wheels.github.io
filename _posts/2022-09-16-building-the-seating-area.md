@@ -76,7 +76,7 @@ The beautiful oak tabletop made a robust impression on the sliding, rotating, an
 
 ![Tabletop mounted on the table leg](/assets/images/IMG_5166.jpg)
 
-Similar to my previous van, I crafted s base from the same oak wood to securely mount the table on the double floor.
+Similar to my previous van, I crafted a base from the same oak wood to securely mount the table on the double floor.
 
 ![Base for the table built out of oak wood](/assets/images/IMG_5161.jpg)
 
