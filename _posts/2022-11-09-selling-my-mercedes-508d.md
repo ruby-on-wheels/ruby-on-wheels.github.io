@@ -10,7 +10,7 @@ An era came to an end: After [more than 4 years]({% post_url 2018-09-05-moving-i
 
 ![My Mercedes 508D parked next to my Mercedes 1113](/assets/images/IMG_5554.jpg)
 
-Maintaining the good condition of these old, beautiful, and reliable vehicles would require regular maintenance and care. While the truck's conversion had reached an [advanced stage]({% post_url 2022-09-16-building-the-seating-area %}), I spent hardly any time in the 508D. Yet, I had to take care of the vehicle repeatedly, which gradually became more of a burden.
+Maintaining the good condition of these old, beautiful, and reliable vehicles would require regular maintenance and care. While the truck's conversion had reached an [advanced stage]({% post_url 2022-09-16-building-the-seating-area %}), I spent hardly any time in the 508D. Yet, I had to [take care]({% post_url 2022-11-04-replacing-thermostat-of-a-dometic-cfx-50-refrigerator %}) of the vehicle repeatedly, which distracted me from working on the truck and gradually became more of a burden.
 
 Recognizing that ownership came with responsibilities, I embraced the philosophy that owning less is indeed more liberating. I was ready to part with my beloved Mercedes 508D. Given the perfect condition and high-quality conversion of the van, I had no doubts about finding a buyer willing to pay a fair price.
 
