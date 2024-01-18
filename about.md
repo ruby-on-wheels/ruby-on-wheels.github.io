@@ -5,9 +5,9 @@ description: "Ruby on Wheels: The story of a developer living on the road."
 header-img: assets/images/IMG_3036.jpg
 ---
 
-:wave: I'm Jakob, a German software engineer. I call an old Mercedes truck my home, while [working remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for GitHub. Here, I share my insights and adventures, delving into the intricacies of building, maintaining, and working from vehicles.
+:wave: I'm Jakob, a German software engineer. I call an old Mercedes truck my home, while [working remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for GitHub. On this website, I share my insights and adventures related to building, maintaining, and working from vehicles.
 
-At GitHub, where we utilize [Ruby on Rails](http://rubyonrails.org/), a web application framework for the [Ruby programming language](https://www.ruby-lang.org). I playfully replaced "Rails" with "Wheels" in the title of this blog, reflecting my life on the move.
+At GitHub, we utilize [Ruby on Rails](http://rubyonrails.org/), a web application framework for the [Ruby programming language](https://www.ruby-lang.org). I playfully replaced "Rails" with "Wheels" in the title of this blog, reflecting my life on the move.
 
 In early 2017, I [bought]({% post_url 2017-02-04-the-first-ride %}) an old [Mercedes-Benz 209D camper]({% post_url 2017-01-11-my-future-mobile-office %}), [ordered a solar system]({% post_url 2017-03-06-ordering-my-solar-system %}), [transformed the camper into a mobile office]({% post_url 2017-05-06-turning-my-van-into-a-mobile-office %}) and [learned how to fix it]({% post_url 2017-05-18-a-crash-course-on-mechanics %}).
 
