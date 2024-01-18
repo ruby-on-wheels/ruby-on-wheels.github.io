@@ -6,7 +6,7 @@ header-img: assets/images/IMG_5529_2.jpg
 comments: true
 ---
 
-Suddenly, the compressor of my Dometic CFX 50 refrigerator was running continuously, even though the cooling compartment was extremely cold. To my surprise, the temperature displayed on the screen was 43 degrees Celsius, indicating a possible thermostat malfunction. 
+Suddenly, the compressor of my Dometic CFX 50 refrigerator in my Mercedes 508D was running continuously, even though the cooling compartment was extremely cold. To my surprise, the temperature displayed on the screen was 43 degrees Celsius, indicating a possible thermostat malfunction. 
 
 ![Screen displaying a temperature of 43 degrees Celsius](/assets/images/IMG_5510.jpg)
 
