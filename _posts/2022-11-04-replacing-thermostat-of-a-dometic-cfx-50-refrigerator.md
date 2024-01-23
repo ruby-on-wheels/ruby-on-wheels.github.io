@@ -64,6 +64,6 @@ After stripping the wires, I attached the new thermostat to the main PCB and rea
 
 ![New Thermostat connected to the main PCB](/assets/images/IMG_5522.jpg)
 
-The screen displayed the correct temperature and the refrigerator was working and again. :tada:
+The screen displayed the correct temperature and the refrigerator was working again. :tada:
 
 ![Screen displaying the proper temperature](/assets/images/IMG_5533.jpg)
