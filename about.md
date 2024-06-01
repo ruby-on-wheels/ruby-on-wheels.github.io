@@ -7,13 +7,13 @@ header-img: assets/images/IMG_3036.jpg
 
 :wave: I'm Jakob, a German software engineer. I call an old Mercedes truck my home, while [working remotely]({% post_url 2017-10-21-working-productively-in-a-van %}) for GitHub. On this website, I share my insights and adventures related to building, maintaining, and working from vehicles.
 
-At GitHub, we utilize [Ruby on Rails](http://rubyonrails.org/), a web application framework for the [Ruby programming language](https://www.ruby-lang.org). I playfully replaced "Rails" with "Wheels" in the title of this blog, reflecting my life on the move.
+At GitHub, we utilize [Ruby on Rails](http://rubyonrails.org/), a web application framework for the [Ruby programming language](https://www.ruby-lang.org). I playfully replaced "Rails" with "Wheels" in the title of this blog, reflecting [my life on the move]({% post_url 2017-10-08-the-first-150-days-of-van-life %}).
 
 In early 2017, I [bought]({% post_url 2017-02-04-the-first-ride %}) an old [Mercedes-Benz 209D camper]({% post_url 2017-01-11-my-future-mobile-office %}), [ordered a solar system]({% post_url 2017-03-06-ordering-my-solar-system %}), [transformed the camper into a mobile office]({% post_url 2017-05-06-turning-my-van-into-a-mobile-office %}) and [learned how to fix it]({% post_url 2017-05-18-a-crash-course-on-mechanics %}).
 
 ![My Mercedes 209D in Morocco](/assets/images/209d.jpg)
 
-After over a year of [traversing Europe]({% post_url 2017-10-08-the-first-150-days-of-van-life %}) and [Northern Africa]({%post_url 2018-01-15-my-first-days-in-africa %}), I sold the Mercedes 209D in June 2018 to embark on a new venture – [converting an old military ambulance van]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}) into a [perfect mobile home and office]({% post_url 2020-11-26-presenting-my-mercedes-508d %}).
+After over a year of traversing Europe and [Northern Africa]({%post_url 2018-01-15-my-first-days-in-africa %}), I sold the Mercedes 209D in June 2018 to embark on a new venture – [converting an old military ambulance van]({% post_url 2018-09-05-moving-into-an-old-military-ambulance %}) into a [perfect mobile home and office]({% post_url 2020-11-26-presenting-my-mercedes-508d %}).
 
 ![My Mercedes 508D in Sweden](/assets/images/508d.jpg)
 
