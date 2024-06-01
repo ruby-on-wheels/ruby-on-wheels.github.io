@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Building the Kitchenette
+title:  Building the kitchenette
 date:   2022-12-02
 header-img: assets/images/IMG_5719.jpg
 comments: true
