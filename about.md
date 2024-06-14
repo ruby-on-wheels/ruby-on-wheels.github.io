@@ -24,7 +24,7 @@ For over four incredible years, I [lived]({% post_url 2020-09-04-answering-22-qu
 Since [abandoning my apartment in Berlin]({% post_url 2017-05-11-leaving-berlin %}) on May 11th, 2017, my journey has led me through diverse places across several countries, introducing me to numerous amazing people.
 
 <div class="google-maps" style="padding-bottom: 85%">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1oJWtlohfxJ_Oa4t3XFDdOOyyJK4" width="750" height="640"></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1oJWtlohfxJ_Oa4t3XFDdOOyyJK4&ehbc=2E312F" width="750" height="640"></iframe>
 </div>
 
 I thrive on connecting with others. Interested in meeting up? Shoot me an [email](mailto:jakob.class@gmail.com)!
