@@ -6,7 +6,7 @@ header-img: assets/images/IMG_5993.jpg
 comments: true
 ---
 
-After successfully [completing the bathroom](% post_url 2023-01-04-completing-the-bathroom.md %), I turned my attention back to the kitchen, where I aimed to create drawers that were not only appealing but also well-ventilated and lightweight. During my search for materials, I came across Vienna straw matting, which seemed like the perfect choice for the drawer fronts due to its blend of style and durability.
+After successfully [completing the bathroom]({% post_url post_url 2023-01-04-completing-the-bathroom.md %}), I turned my attention back to the kitchen, where I aimed to create drawers that were not only appealing but also well-ventilated and lightweight. During my search for materials, I came across Vienna straw matting, which seemed like the perfect choice for the drawer fronts due to its blend of style and durability.
 
 Every project begins with a plan. I started by sketching out the design for the kitchen drawers to ensure everything would fit well.
 
