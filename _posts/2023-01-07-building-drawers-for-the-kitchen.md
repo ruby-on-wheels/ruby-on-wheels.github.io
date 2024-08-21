@@ -36,7 +36,7 @@ This material was ideal for adding a touch of elegance to the front panels and e
 
 ![Drawer parts ready to be assembled and installed](/assets/images/IMG_5987.jpg)
 
-With everything ready, I assembled the drawer.
+With everything ready, I installed the drawers.
 
 ![Drawer boxes with assembled front covers](/assets/images/IMG_5990.jpg)
 
