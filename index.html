@@ -3,6 +3,18 @@ layout: page
 description: "A developer on the road"
 ---
 
+{% unless paginator.previous_page %}
+<div class="intro">
+    <p>
+        :wave: Welcome to my website! Since 2017, I've been sharing stories about my life on the road, working remotely from unique spots, and diving into the details of converting, maintaining, and repairing old vehicles.
+    </p>
+    <p>    
+        Articles are in reverse chronological order, starting with the latest. Learn more <a href="{% link about.md %}">about me and my vehicles</a> or dive into the <a href="{% post_url 2017-01-11-my-future-mobile-office %}">first post</a> to follow my journey from the very beginning. Enjoy!
+    </p>
+</div>
+<hr>
+{% endunless %}
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
