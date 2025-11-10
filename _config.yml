@@ -5,9 +5,6 @@ description: A developer on the road.
 github_username:  mikrobi
 email_username:  jakob.class@gmail.com
 
-
-google_tracking_id: "UA-105302462-1"
-
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 paginate: 10
