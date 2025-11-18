@@ -294,7 +294,7 @@ Unlike my homemade version, it fit perfectly down to the millimeter and included
 
 ## Taking the wheel end apart again
 
-Equipped with proper tools and my previous experience, I began the second disassembly, this time taking photos of every step:
+Equipped with proper tools and my previous experience, I began the third disassembly, this time taking photos of every step:
 
 Removing the wheel using a wheel bolt centering and protective sleeve set.
 
