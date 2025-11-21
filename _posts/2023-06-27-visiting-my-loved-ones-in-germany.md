@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cruising through Germany
+title:  Visiting my loved ones in Germany
 date:   2023-06-27
 header-img: assets/images/IMG_7385.jpg
 comments: true
